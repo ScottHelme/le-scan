@@ -4,3 +4,12 @@ webdisk.massalland.com.iq,0383d2b59e28046ddc75222585fa7dac7add
 ejuow.uowasit.edu.iq,03f44f6ab8358b0d928b7644c779c6abf7f0
 cpanel.pharmacy.uokerbala.edu.iq,031696610a4074f0c065d574374e1689462d
 cpanel.alzahu.edu.iq,03d41bfa4deea5302c8df71ab45134204458
+www.dijlasoftdrinks.com.iq,031c2c1f33d0a5179ce40caa24b89cca4926
+mail.iraqsky.iq,037e2f0ba62815aaaed5ae4d91ca8ec3549c
+webmail.science.uokerbala.edu.iq,031b8e1750c6d5d8a47b32448eb7d140496e
+webmail.iraqsky.iq,037e2f0ba62815aaaed5ae4d91ca8ec3549c
+veterinary.uokerbala.edu.iq,048e3154e34193bf8c7a2e1170f2669ba224
+cpanel.veterinary.uokerbala.edu.iq,048e3154e34193bf8c7a2e1170f2669ba224
+webdisk.cbcs.uokerbala.edu.iq,031b8e1750c6d5d8a47b32448eb7d140496e
+mail.mubasher.com.iq,03687ba62217367e43b586cc8f1a1abffd7d
+www.vacancies.iq,03e9466309c1411fbbc39e23b2db2cd6d6ed

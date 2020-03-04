@@ -2,3 +2,5 @@ cpcalendars.karandila.camp,03261202cfab04b08574c6e12d1641965251
 cpcalendars.joan.camp,032fad6b04c17f06c20ca4ca89f327bbc602
 12-gamepr.freezer.wip.camp,0336c1db76f2ca1e8f0d96ec01a6e298538a
 12-gameservice.freezer.wip.camp,0336c1db76f2ca1e8f0d96ec01a6e298538a
+board.randome.camp,036e516e52e2101290adccef6c474c080628
+stage.kamchatka.camp,042aea5148914686d726fd5eaf8189ffec1e

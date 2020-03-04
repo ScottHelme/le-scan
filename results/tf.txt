@@ -1,3 +1,5 @@
 photos.asgard.tf,031bf4be3959f6321671eb73f8d0a7cded3b
 cpcontacts.prochema.tf,03f4f6cc44db45174aea4058793a77d16fc8
 www.aerosol.tf,033a5f3a2b9b5d370cc24ca6979646bb93a9
+probugas.prochema.tf,03f4f6cc44db45174aea4058793a77d16fc8
+dir.tf,03720a0fe2fd86d0883ffe14d0f28f3ac681

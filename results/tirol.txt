@@ -1,3 +1,8 @@
 wake-up.tirol,043e8a8c3f69cab22b42ba31afbb5075d58b
 www.sigo.tirol,03b44c6364cae148071cd007dd1dde4a1672
 www.wake-up.tirol,043e8a8c3f69cab22b42ba31afbb5075d58b
+schuetzen-fieberbrunn.tirol,0307dba9ed7ef36db442bc574d37e21425a1
+webdisk.ohnegrenzen.tirol,03aa879a9d63a996714d7e98c21ba91cbc5c
+www.myapartment.tirol,03cb63539cc24196eb00fb497fbb8f463120
+taxi-service.tirol,03de802f33e4900a4356c0b60023d86e0706
+harasser.tirol,03b5cfccdf7d411253495102244e96f123fe

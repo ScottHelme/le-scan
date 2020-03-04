@@ -15,3 +15,13 @@ cpcalendars.belleza.cr,0332c09b99bd252f95d64924c947f4eae07a
 cpcontacts.samayco.cr,03114d38c780d21bf852d68cb3d1090ef218
 webmail.catl.cr,0351164d6ebbc06e8516bba7a058a65e83af
 www.bekuo.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
+mail.edificiomeridiano.co.cr,04acea52cf978a0dae6615d4425b75e940b7
+cpcontacts.papel.co.cr,03e88a698488a584ab6b2b0925bf96fbd199
+apui.cr,03d86129b96e3a75214183e16fb01e5ef231
+autodiscover.bluezoneadventures.co.cr,0347055cbae2670a7c4270d98d98782190ad
+francis.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
+mail.chinchilla.cr,03b25fd9b1eb8b989f3994867a1e46f99f43
+autodiscover.construflex.cr,03c16c7437effc00e4397c620a6ef57bccc7
+mail.di.cr,0363ffe5b6b829f0c19a8f3a35fe25ec492e
+www.mini.co.cr,03fc4e496a0974eea4f8ba112d89f7cf57c3
+www2.edestinos.cr,037a0ccb9782851adf6f7880dd0097e27b17

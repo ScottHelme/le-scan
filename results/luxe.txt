@@ -3,3 +3,4 @@ www.globalvxchange.org.wander.luxe,0372a265e99d43a7a9386bb2e7b298cd9305
 www.virtualexchangecorps.com.wander.luxe,030ae308b1141394f5e069a67d686f9ed2db
 www.virtualexchangestudent.org.wander.luxe,039d7c576f13ba8a1944a1af82c751de6c77
 www.virtualexchangeuniversity.com.wander.luxe,03726eaaa21da908dc9f7a6dc71e81951ee1
+ngotravel.org.wander.luxe,03438bfed26a88813480087bbcf8bbc29cda

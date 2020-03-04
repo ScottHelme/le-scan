@@ -1,2 +1,5 @@
 miguel.aragon.codes,03432cdee18247db3c95a9a9eb8f5661c9d4
 wip.codes,030122fc194b0a95c121b3b0a2d579c5c8f2
+cpcalendars.algorithm.codes,03082067b385ae8f7e06d24aa9118ac2a140
+cpcontacts.supercharging.codes,030e4b6a42c73c354ccc5cd4c1e386ea4869
+webmail.nttuan.codes,04499b4adf4b20b5e2473e84c8a6b932d487

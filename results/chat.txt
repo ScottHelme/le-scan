@@ -1,3 +1,6 @@
 jugendinfo.chat,03bf5de5aaeec88177a3b3cac72651f5ee08
 files.phpc.chat,04075771e26bbb5486427abab5c1f95884a3
 beta.exeter.rugbyclub.chat,0332abcb8bea241cedb43797fc486f6b3629
+www.millenniumvideo.chat,032f1583b2b8cabc6120578df17b4427fa83
+subscriptions.godesk.chat,03d314dbb911f68a4b7bc70bf9e86158ecff
+www.jugendinfo.chat,03bf5de5aaeec88177a3b3cac72651f5ee08

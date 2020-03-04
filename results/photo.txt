@@ -6,3 +6,7 @@ www.jms.photo,04c35864f0edabdef41f6bf7edda26737bca
 jeremy.photo,03eea4a612bc2ead23444d139021dc881c1e
 semplice.annejannes.photo,036f2e1e5e49cc377cadb3a762f732a57789
 cpanel.geo.photo,03014c7c97077bf0887f8fb972200b82b7a2
+cpcontacts.geo.photo,03014c7c97077bf0887f8fb972200b82b7a2
+www.rlupi.photo,0362f81f47c04a9830eae357dcdec427bf53
+files.xtof.photo,0397e1d2fa79b21a1c804a5477789f2101bf
+maman.photo,010929

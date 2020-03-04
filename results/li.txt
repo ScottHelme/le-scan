@@ -18,3 +18,12 @@ saunaclub-schweiz.li,04cd51e82d81600fcd0b62f77467d4317476
 mail.berner.li,033fb075f0f2804ec2569103384c535337ad
 kodi.stenva.li,03a3ae83cc89e8413a8a4dcff978a2616a0d
 sanalogic.li,037133a8812421b9c6cb6769a207cc9e41de
+www.liechtenstein-finance.li,04fb3b0c0feb786f8c5438ca88e001326e14
+mail.erotikmarkt.li,046e0ce9cefbdbe11ff79aa064d70f00a705
+mihi.li,039a8a1385d3c09873cab145e6e6d6e47340
+mail.erotix.li,03550158f2aa57f3d03c666ca3cc6b1aa597
+autodiscover.desi.li,04cd4c6b010b172cfe55e994ec71847e4cf9
+pop3.emailer.li,03db53fd58341c7773e6a1b5d78e7f1cf351
+koeberle.li,040674d12bc0463163acedd69336f9d76dab
+smtps.1lc.li,0390a23e2b5f6b25782d1172f3982bc9924a
+www.icsi.li,038e16ac08d43e2b38aa3b9bee798d1f0af1

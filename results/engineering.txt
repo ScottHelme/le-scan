@@ -1,2 +1,5 @@
 owncloud.pletzer.engineering,03cf4ffd46a3adc18ddbaf2f0afbb3822784
 webdisk.toolshop.engineering,03cb76de1605081f48670aaa105d20784c4b
+arise.engineering,0392b86380e80e15c1d35484103de9bcf088
+www.hotlanta.engineering,0442d99e2a475eb39908fc29b2fe678a712a
+www.ethically.engineering,03bc29c83aa7da44756c9c84081d6af8ab7c

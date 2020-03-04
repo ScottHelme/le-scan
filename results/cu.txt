@@ -1,1 +1,4 @@
 observatorios.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+bibliocees.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+autodiscover.up5.labiofam.cu,03032407abd0ab041290c45d8f9d97505591
+autodiscover.up7.labiofam.cu,03032407abd0ab041290c45d8f9d97505591

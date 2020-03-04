@@ -3,3 +3,7 @@ autodiscover.artigiani.srl,03235db5b31e544fbbbff48c7268a7ccf3ed
 mail.excellentservice.srl,037644d35b2b834e1b116c8b5d3b5ade12a6
 webmail.rts.srl,03252944f933d88aafbe21dc0d6244965aca
 webdisk.s-mart.srl,031f9a50667e4a36c16bccf9ff0647bc95e6
+stu.bareggio.globogis.srl,03c879135f61cf042c53ef3dd10c217ed35a
+netwir.srl,0440ffb012b259a1619a8dd157ca6bc6b685
+cpcalendars.i-deal.srl,03ecf6c82bc206b3f9e0ad3aa7066ef5d987
+cpcalendars.itmag.srl,0321d73195984026f84bb860293d56a5a6d1

@@ -5,3 +5,10 @@ www.saeti.dz,03d03b3e800c8c49cfc3a2a513cd51b9291c
 whm.sahmtech.dz,03cdc011a11175781ffce9db133ec947f09f
 webmail.manage.sahmtech.dz,0457fd29be769418b565c54727fb9ac46ba5
 cpcontacts.clinique-elksours.dz,0354a1741bae1a5e1d32069610045b5140a2
+autodiscover.dmcc.dz,044d408c6d22f796b8069c44cb5d937e7d15
+dev.lamiellee.dz,03056d0912fb2ca023529a581d8884b445ec
+cpcontacts.avocats-sba.dz,035626c306dac38fcfe9f0b581d32bfc7588
+webdisk.ega-com.dz,03b49e498153add8ad8bc46e077fd037af1f
+www.africa-logistic.dz,036f3600868504fe1a4edacc9474296a8dd6
+webdisk.keyna.dz,0408627a2be5b1afc9b267ae844004d754fd
+webdisk.baprom.dz,034f69f70f6a5950b1623e73832919cd49b9

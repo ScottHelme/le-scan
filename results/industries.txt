@@ -1,3 +1,5 @@
 automation.industries,037f67598856e8b8d780173d82da0b687ecf
 carbon.industries,03f17e45f376c108dc7dabe27d9124fda040
 www.gates.industries,03f17e45f376c108dc7dabe27d9124fda040
+www.spectrum-pipe.industries,03eba216cc3400421c2cafe3e16621f6aedf
+atmosphere.industries,03f17e45f376c108dc7dabe27d9124fda040

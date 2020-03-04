@@ -1,2 +1,5 @@
 dendra.science,0346064a85a5ad006ee05b17de5733b3f747
 webmail.madisens.science,033f05d4789fce4e8a8b9151ef63b19ad933
+cpanel.ratherdo.science,04250561fcbc707abf281b0989c487f1f96d
+mail.icas.science,03f42c4ea90e515f78ec7e21f90923406651
+webmail.icas.science,03f42c4ea90e515f78ec7e21f90923406651

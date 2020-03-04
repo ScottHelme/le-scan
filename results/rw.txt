@@ -9,3 +9,10 @@ autodiscover.rohiaparthotel.co.rw,0302d2747a06e4fdf0c62677b25d9559ec20
 www.ce.ur.ac.rw,0359234bafa4a929b412e560c27cef08dddc
 cpanel.gjrealestate.rw,03bce1f41b4767800979ed8fe91413576fdb
 webdisk.patriots.rw,038eb2a2c97fd5f376dfdfd54f9812bf41ab
+www.abfoundation.rw,0308188e8fda43668ba2b235ea4891a7cbd4
+www.pamushagroup.iotech.co.rw,0389ed6f106eda44a3506fb2588cff40a2f9
+autodiscover.healingtogether.org.rw,031ee2988049a7833114c469eba99be6b39a
+cpcalendars.collegesaintandre.ac.rw,03f025b89a6ecff704ba8a10a4b11aec49cb
+www.africaintour.co.rw,030222f2ef6b8aed6b66566b77a5bfd7014e
+webmail.nccr.coop.rw,03121cd2cfa16a6ff6b7381e3549ed6bd394
+webdisk.create.co.rw,03cc13e69e111266c6e699775fe37100489e

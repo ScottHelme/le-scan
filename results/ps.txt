@@ -8,3 +8,12 @@ cpcalendars.mediagroup.ps,0496f131957f6c63d047b19154ed2fae4e9e
 webdisk.techzone.ps,0382342c8b0226715811c398e3d6f2fe5d5c
 dokani.ps,0314ace739b19ca9ca6471ce4092f22083a0
 cpcontacts.metronews.ps,0374c99cfcb97e1f2347f1b1bb17c0c52162
+billing.ping.ps,0451a3b67d9745021e04c05eaf332518afa1
+cpanel.dokani.ps,0314ace739b19ca9ca6471ce4092f22083a0
+webmail.handala.ps,03a3a71a27877ac4d9e424209dab5223b7f2
+cpcontacts.hshg.ps,04755861d246c59f533096bbe5d9c26e3228
+cpcalendars.cdacharity.ps,048a1a69d3379ea6dda9dd0425f2dad1d5b9
+webmail.zmnfm.ps,033f35c9c77ce66fe5c9000428efa0b066ad
+www.daban.ps,03b97603f8477c149a6c487c56b5d1ba01ac
+webdisk.keynews.ps,037ca7c074844862b7e0aa32f7a0bc8e5656
+cpanel.en.alweaam.ps,032bdac94d1f572da2993c71df049991aea0

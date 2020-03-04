@@ -12,3 +12,9 @@ webmail.muslim.zone,033701f2d602742895b375bdcc1a8f875192
 autodiscover.reserve.zone,03d46505b848b9747ec09ed2e1ef47673a42
 www.sci-hub.zone,04b0f9391b966dfde859a4213cc2367329a6
 www.lighthouse.zone,03d38c6e826e15aa913f4bb85bdc80c1f2b3
+p-m.zone,03d37ff1086299a2e035fc1399c6437642cb
+particuliers-general-fr.lima.zone,03a7b56295fc64a2cf98fb06dc766a958f67
+stickers.zone,03a14070867cd556bba6d68a3c3c273d41d7
+cpanel.filmstreamingvostfr.zone,045779cf627222e8801f35c57a8169389105
+cpanel.vvip.zone,03dc2661eafe1efe3f24bbf09344def3f8e2
+office.mach.zone,0363fc0909181544fcd521fd7119964f6ec3

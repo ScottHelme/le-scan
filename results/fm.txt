@@ -5,3 +5,7 @@ mail.rt.fm,03dce74a2cfa50874ba1cf97243a9f9a7882
 mobile.topcongo.fm,03067163e29bbdea41d14c242a8f3ac4d859
 webmail.cmc.fm,03e93a56b1cfb1adb24d478ad2326a8ceff7
 www.weku.fm,03e3a303f29259fde3aca7b9546d46d515ef
+mccormickphotography.squirrel.fm,03d449e232b786c349a669f54bc981bbd8f7
+www.partycloud.fm,03e135aba2ea84b8549bde41292258f233a8
+kaufmann.fm,036c542dce2ced1bfbb5900a719b8c90a31a
+webmail.facts.fm,03fdae0e71d86be24d1af060e9790f9133e6

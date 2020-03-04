@@ -7,3 +7,6 @@ pop0.arc.sn,03e5dffb48b440a19823a5b0e6487467d72e
 imap.owatrans.sn,03e5dffb48b440a19823a5b0e6487467d72e
 mail.cdcds.sn,03e5dffb48b440a19823a5b0e6487467d72e
 smtp.budget.sn,03e5dffb48b440a19823a5b0e6487467d72e
+teranga.pasteur.sn,035dc5bd7557861a2aedbabefef3f4f34aac
+cpcontacts.dorgoo.sn,038cdea4fdc65ce0abbd583d638016cb3ba6
+pop.rysarahotel.sn,03e5dffb48b440a19823a5b0e6487467d72e

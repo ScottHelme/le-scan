@@ -2,3 +2,7 @@ vologodskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
 kaizen.promo,036d9032dd5de4da0906d61c698d48b20ca6
 kurskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
 ivanovskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
+cpanel.pulsa.promo,03ff88dd422c47c948ab29917b0e2e8cc359
+progressive.promo,03858abeb98faece452a85b8002536ea695b
+cpcalendars.pulsa.promo,03ff88dd422c47c948ab29917b0e2e8cc359
+www.liege.promo,0312af434e2984f553ea8c5dc7f89adf7297

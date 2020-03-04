@@ -4,3 +4,16 @@ cpcontacts.artworks.com.pa,04541634cf08c5f46e3be87fd041c3a603c0
 cpcalendars.enigmatv.com.pa,032bcf98ca0bbc6a4b9f366481fb87e3d23e
 cpcalendars.cbva.edu.pa,043547551261f478eef2c07d8904ea5fbff2
 pressplaypma.artworks.com.pa,04541634cf08c5f46e3be87fd041c3a603c0
+webdisk.tecnoweb.com.pa,0392fb5f7757582e5c63dd65f55987a3c741
+mail.enigmatv.com.pa,032bcf98ca0bbc6a4b9f366481fb87e3d23e
+www.enigmatv.com.pa,032bcf98ca0bbc6a4b9f366481fb87e3d23e
+webdisk.enigmatv.com.pa,032bcf98ca0bbc6a4b9f366481fb87e3d23e
+cpcalendars.prd.com.pa,033fa3d3150a0f6e52c48798608792f7d2e4
+www.actforlegs.com.pa,0463ac4f9f7f549bf8a7228c798be598e058
+webdisk.tecnoweb.net.pa,035d1638b3f629a580becdfcb0abe873c6f2
+mail.bonsai.com.pa,04f670c9b6700cadd3d51717505dc719f965
+webmail.prd.com.pa,033fa3d3150a0f6e52c48798608792f7d2e4
+autodiscover.artworks.com.pa,04541634cf08c5f46e3be87fd041c3a603c0
+mail.grupocmc.com.pa,037961fb5879efbc067a8cf333541c6e4edd
+www2.edestinos.com.pa,037a0ccb9782851adf6f7880dd0097e27b17
+webmail.widexpanama.com.pa,0376e0617545a013509600afc24de4a7be66

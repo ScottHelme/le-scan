@@ -9,3 +9,5 @@ admpanel.cost.rip,04a8f104d906502c75f9f2ca6b64fa4c8403
 www.buddelgrube.clan.rip,04914fdf4ee41fee0fe486e84f7ac6a52875
 cpanel.lugubrious.rip,03de1fd451dc9aa5eaa0c6376b3fd065d024
 mail.tumor.rip,030735ea97a78119706d970cb83661a3dce8
+le-195.hc-kube1.headt.rip,03567de4684ac01d10b96d3986502f52f5f8
+cdn.iacg.rip,03a775e3c90ad1269b2a2120befe683822eb

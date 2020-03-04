@@ -2,3 +2,9 @@ cpcontacts.eac.gov.kh,03e8a887564cab6d05c8ed7dd68d2e49e025
 webdisk.globalcomputer.com.kh,03e5d4af64f9fa46464dd60ea5705ff763e9
 cpanel.zhengyongcam.com.kh,03e3dcca610fc25220ffe57439a489e33c41
 www.breakthetaboo.com.kh,0463ac4f9f7f549bf8a7228c798be598e058
+mail.zhengyongcam.com.kh,03e3dcca610fc25220ffe57439a489e33c41
+whms.geolinkgroup.com.kh,04e1116b24322cd87e487fa5d561836419e0
+www.actforlegs.com.kh,0463ac4f9f7f549bf8a7228c798be598e058
+svayrieng.gov.kh,03082b680c2e55567eb7734261b15cdea8aa
+www.camcert.gov.kh,03e36fbca35edfafb5d1307bdcdff8675285
+mail.globalcomputer.com.kh,03e5d4af64f9fa46464dd60ea5705ff763e9

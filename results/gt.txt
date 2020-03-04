@@ -9,3 +9,17 @@ cpanel.precalculo2016.io.gt,0384d882da579593820a91fbe9246272968c
 webmail.oscargarc.we.gt,03ab90548f94f16f8ac3ceb3e8b31ef0946d
 cpcontacts.nelsondionisio.we.gt,035b7003f5aacd4b58c419beaa4121180a0b
 www.nahelyp.we.gt,03c85e0e5235b234865c8ada85fd0a1d6b5d
+autonais.cubix.com.gt,04e8dd524aafb7b999949789d98f6d50e779
+www.aprendizajedivertido.com.gt,03ceb8d1b46412a2c0ad00e79593ed018852
+autodiscover.avanzados.com.gt,0319f13277c302d640446a8a94510b4bd0c1
+webdisk.naydelinmjj25.we.gt,03aeea1d2f13a900b0697b734eda5d21bf93
+premiumoutlet.com.gt,03b0465c0a2426d604576d87cdee3a35b333
+www.partycenter.com.gt,039a32cbeefa18f81961dbbc9cf56c3e6eff
+webdisk.holamundo.io.gt,039d4beb917bd43bea360ee132f026f2e8ab
+cpcalendars.precalculo2016.io.gt,0384d882da579593820a91fbe9246272968c
+mail.hosting.io.gt,04a73fbe4141895bcef09f065a897d7666e1
+webmail.precalculo2016.io.gt,0384d882da579593820a91fbe9246272968c
+www2.edestinos.com.gt,037a0ccb9782851adf6f7880dd0097e27b17
+cpanel.partycenter.com.gt,039a32cbeefa18f81961dbbc9cf56c3e6eff
+webdisk.arreaga.com.gt,04200db0b04e6e1ce1aaab5afd6e857db1da
+www.mini.com.gt,03fc4e496a0974eea4f8ba112d89f7cf57c3

@@ -1,2 +1,8 @@
 cafedelmar.com.mt,0403ad347533ea95f6a6422cb8f4e4ab0a70
 webmail.lsprojects.com.mt,038fba46617cd012dc5770cae642b6b91757
+integris.com.mt,03e96ce1dd76ad679dd3bc7892764bcec67d
+enemed.com.mt,03ed14ab2482f2af07c83daaf058711348cb
+mscc.org.mt,04e6c9680051470e0ad21e07b2d0b409dc54
+svbeauty.com.mt,03c92ba919e26747eedc43528f0d3f180b14
+svbeauty.mt,03c92ba919e26747eedc43528f0d3f180b14
+www.happypaws.org.mt,030d2299824f7fd6f2629d1bd4284ce5bcc6

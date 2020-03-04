@@ -1,1 +1,3 @@
 webdisk.efbet.futbol,03cefdbc412af390899ff389755ad4c6e384
+cpcontacts.zenitbet.futbol,035eebbdbea537a4bff6a74a9477d26fbc56
+cpcontacts.trt.futbol,034c5a907072fad8ac652b7888ce762e718e

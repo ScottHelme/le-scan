@@ -3,3 +3,6 @@ autodiscover.pow.land,0347c04e9074715660120a3151462ad9060d
 cpanel.polese.madart.land,03a598c044ca0890139f66bac5ccbde12a17
 pie.land,03254f1c2a5e16bcfeb287257b7084ea569a
 property-api.demo.land,0391974a85291b2c84600dc547f02f08de45
+webmail.finestre.madart.land,03872d2f33e2c21ece66652975c08e77c17d
+cpcontacts.samurai.land,04734d8b857d0279b89cc33fe9a2cee0f7ff
+mail.samurai.land,04734d8b857d0279b89cc33fe9a2cee0f7ff

@@ -1,1 +1,2 @@
 labs.vegas,0339164603fa679fac24e3a6772a72151ca5
+cpanel.techassist.vegas,033f5186ea3bbd29da92713d433d041ab534

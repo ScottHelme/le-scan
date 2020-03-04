@@ -1,2 +1,3 @@
 engineering.iua.edu.sd,0462e1e3de714f1416d473cf54247a76d738
 labrotary.iua.edu.sd,0462e1e3de714f1416d473cf54247a76d738
+cpcontacts.semcon.sd,03e575270f9aea853fdd0e255eecd1d305cc

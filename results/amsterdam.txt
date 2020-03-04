@@ -1,2 +1,4 @@
 webmail.locknload.amsterdam,038a39ba10ea380a5dc5428339339b1b3dfe
 webdisk.fabrics.amsterdam,03b07bebdf496ab88211562af91f21ba2c1e
+autodiscover.premiumtaxi.amsterdam,03b379b9cd45ae58d59315c04e9324cd0096
+cpanel.vvebeheer.amsterdam,0312c9082e270a98d2b070497153b1ae72be

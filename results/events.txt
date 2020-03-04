@@ -4,3 +4,10 @@ www.eventme.events,04a49c4203f43d95157ba68e7c42c03c8052
 cpcalendars.knockout.events,03a2d92eed1a7d67bad500315cc940f0f365
 cpanel.etud.events,0435fe4c6018f64687665fdca42b8b72219f
 cpcalendars.rhea.events,03dbd949977e4f1191766b31ca725b31de9b
+clubs.dev.linesup.events,03ff16792fe2cb2075879021b57c8b579108
+mail.knockout.events,03a2d92eed1a7d67bad500315cc940f0f365
+clubs.linesup.events,03ff16792fe2cb2075879021b57c8b579108
+wonderlust.events,3099
+support.embly.events,036e41770a3eec97459179e1a8bda32064f2
+www.heatwave.events,03d1372defd923f2b63123ded5205dcd8c15
+mosaique.events,04e16b3e37e7f03912dccfab81407bd88441

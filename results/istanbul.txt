@@ -6,3 +6,5 @@ www.turkois.istanbul,038be8657693432c82beadf8eb2187e6ab86
 autodiscover.iaib.istanbul,030c5ac1ee81defd6bff93e0f5f16aa976a5
 cpanel.parsjenerator.istanbul,036d61c78876ac65764330e5025ca80949e1
 cpanel.mototaxi.istanbul,0361da915e26097c77f68f09cffc28542d7a
+cpcalendars.collagen.istanbul,03d6899d1f07820c1a64c8e301ee683496fd
+www.muratacar.istanbul,03950103d771aad2b91b0e37fc1f1dab20e0

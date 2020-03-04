@@ -1,3 +1,6 @@
 webmail.onelife.so,03b49103a4b55327035ebacdd7667617bbe6
 webdisk.dhool.so,035b5636a7c67a61dab9d56fe405bcd5c7f0
 cpcontacts.autov.so,0379948ef1bc6f36cbd7d36e9c2a8d750d32
+cpcontacts.dhool.so,035b5636a7c67a61dab9d56fe405bcd5c7f0
+www.bwfare.org.so,030d75f37a0954d0554f432acd2bdd7f2d23
+x.brendan.so,04291f7db4dd74ac3fa4ec361c5875ea00f9

@@ -3,3 +3,4 @@ avais.enmarea.gal,03805132555a8a71b03c51bf4a37b981108a
 cpcontacts.conservatoriosantiago.gal,033d3e4ad1d2b3f75ee7291089d3bea54d00
 whm.liceodenoia.gal,039369266ded8e431d382004e9503681ecf4
 centroseducativos.gal,03a05ac272b4e93569bce87120ece3bb0d6b
+cpcalendars.ith.gal,039c55e6838cc8ce54d31fa346265d936589

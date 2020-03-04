@@ -14,3 +14,14 @@ webdisk.jbic.com.na,03d2c2951b53ae8e7225761b0fce578ed7f1
 webdisk.nnc.org.na,049adc5498d1880e499fab825f5d61bbfa5a
 cpcontacts.worldskillsnamibia.na,03c60c3328348d0033beef9a960b9ae045ea
 www.kadhilaamoomo.com.na,0338e60eb2e1d7bf429bc80f5a11f126518d
+cpanel.bbt.com.na,030ef0258c5c80a0066907f1a19a211401c9
+dimples.com.na,0411b4d46c95f21c8583f557e03b5b1462b6
+autodiscover.floweredearth.com.na,049920827bf13349c0e122ac3f22f5175a0a
+mail.switch.co.na,04c52a9c83d866788979974622b97037ff99
+cpcalendars.linux.org.na,043fb7ef607417aaf6e4c7506804dc1b895a
+cpanel.pulse.com.na,04d768eaced3b8c54c72628a7fd2438faf56
+cpcontacts.bookden.com.na,03e5c0e8517a22c00132c6ceec69df31e88f
+irvington.com.na,03646562ecdeedfab34b34b8f18e75ed65b3
+cpcalendars.pulse.com.na,04d768eaced3b8c54c72628a7fd2438faf56
+mail.tdl.com.na,0471f6c1d263966b2712c32d55ee1d74651c
+cpcontacts.bbt.com.na,030ef0258c5c80a0066907f1a19a211401c9

@@ -3,3 +3,5 @@ cpanel.alut.run,039f3f5cfa38713505b4f90e83103fe3a037
 mail.lin.run,040db6c0d3336dbda51f05d38800866bc8a6
 ftp.naperegonki.run,0450608b5fc3b7e696ce902da974e5807838
 mail.pacetraining.run,049c81b20551bfa1bf520823c250cd426357
+webmail.metleague.run,03c9bb1bb75d509dc0d84a94e6b82423c524
+mail.trilhodoinfante.run,03b46e7a29414a352ef5cf2395e8d19b9cf8

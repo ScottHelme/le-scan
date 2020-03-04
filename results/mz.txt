@@ -14,3 +14,10 @@ edondzo.iscisa.ac.mz,0366fd9dc3a7262a92f43df30dee3289677c
 edondzo.isgn.ac.mz,0366fd9dc3a7262a92f43df30dee3289677c
 webmail.recol.co.mz,03a398c6ef804783184f28582ff61b332a3b
 wonderexport.co.mz,038b518e56df372a5d25f3f4061612ab371a
+mozambique.co.mz,03bd4228dd3a3dc54cd83632fb3a60951c1e
+cpanel.martinsferraz.co.mz,03b18a39030b091e3a06412964654184d5f8
+mail.neza.co.mz,0347d0fdbda8fe96abe69838227513da4e8d
+webmail.kardapiokaseiro.co.mz,03fb98b3084629d11b058a62b86b4512b84a
+mail.icas.co.mz,0319eeb1a1fde1d7db91d9cfc208ac9eccd9
+webmail.icas.co.mz,0319eeb1a1fde1d7db91d9cfc208ac9eccd9
+cpcalendars.rcm-engenharia.co.mz,03de462abaf1b63cfe7dec8178c5099d713a

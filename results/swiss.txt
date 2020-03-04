@@ -1,3 +1,6 @@
 xas.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
 mail.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
 pop.radiologie-luzern.swiss,033e52c07e5c6c2eaf0ea985f61e5bf1b2bb
+webdisk.newsol.swiss,04f2c1b7a9f0210494dbdc818046ffc394c4
+xwa.glasex.swiss,035a412bb31d2aa5629af3844573cc65ae58
+imap.radiologie-luzern.swiss,033e52c07e5c6c2eaf0ea985f61e5bf1b2bb

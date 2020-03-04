@@ -21,3 +21,15 @@ mail.stadtfuehrer.la,03710301417db9d11dd71334dd0ab01f27a8
 pmv.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
 pmv.api.execution.prod.avo.la,032417dd78e0cb496cc0215994873ddbc585
 pmv.api.execution.test.avo.la,0337621a95a92f80a3c61b6cf2fa8d3c0c6c
+foo.jtia.la,03572ad09b2bdd5405a0010fd3424ff134c0
+tvmbeta.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
+tvmbeta.api.execution.prod.avo.la,032417dd78e0cb496cc0215994873ddbc585
+tvmbeta.api.execution.test.avo.la,0337621a95a92f80a3c61b6cf2fa8d3c0c6c
+tvmbeta.avo.la,032133aec6f58e01e7b8bb7610a1597056ae
+bustr.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
+mbm.la,03327d7f2fbf9d49d41047f2f2aee4bc226f
+bustr.api.execution.prod.avo.la,032417dd78e0cb496cc0215994873ddbc585
+bustr.api.execution.test.avo.la,0337621a95a92f80a3c61b6cf2fa8d3c0c6c
+smtps.1li.la,0439b9d8a59ded5e0e3b8b8d5a4477aeceaf
+bustr.avo.la,032133aec6f58e01e7b8bb7610a1597056ae
+webdisk.travelbot.la,038ff397e9c128b6a4cde107689b5e4bd15d

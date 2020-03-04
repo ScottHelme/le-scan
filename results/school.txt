@@ -4,3 +4,6 @@ cpanel.veronelliadvanced.school,043fcde476cd0ef20e88bd9abf1ac987341f
 dzigital.school,032911b25192755bbd5bf547bba17104672f
 mairehau.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
 avonside.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
+www.robotica.school,03a8a4b6b23b2ec84d1fea3c25c6854faffe
+mail.bibi.school,04033cf8d07d094fb3e2cadc50946bc66744
+www.demo.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc

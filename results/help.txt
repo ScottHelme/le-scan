@@ -5,3 +5,9 @@ haut.help,04c11e5cd2ae45e875798b6d83dacccb60e8
 autodiscover.stemthetide.help,041085658fa62ff87a6e45a582c1e391f54c
 cpcalendars.rgpd.help,03196a0f7c2ee83c192b141ca40fdcd783d8
 webmail.yourbusiness.help,03ecb1dacfe6c933a40d7767e3cf50e421c6
+eurosnab-kz.vps.b24.help,03043a1c30ca30f9f92109848a0bec2c4094
+eurosnab-tn.vps.b24.help,03043a1c30ca30f9f92109848a0bec2c4094
+eurosnab-uz.vps.b24.help,03043a1c30ca30f9f92109848a0bec2c4094
+eurosnab.vps.b24.help,03043a1c30ca30f9f92109848a0bec2c4094
+webmail.com-log.help,0459123a3f1d93c390e8f57130bc96848bda
+mail.designsbyjuju.help,04fd204d30d1ace3b51555e1669e3fa24fc5

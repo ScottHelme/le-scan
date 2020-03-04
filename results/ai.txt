@@ -24,3 +24,12 @@ certos.ai,03d44666f7e8dc467ba71fdf4ac6ba660458
 tarta.ai,04adbadae06dafe035c31631edf319895613
 docs.zoomer.ai,039504d1feff60910bbe5069187991771b42
 api.cloud.somin.ai,03553ff1dbc9d1949835f2f922d946d5ff01
+d2.infra.ako.ai,0438888327fb1b39b4a1e3de99014aeb620d
+cgram.rik.ai,03f1129a4dbf2a967136999512a41f380a96
+extractor.golem.ai,1234567890
+img.pai.ai,04bef51a42e61ed05ab2c1d4eaefe5c71227
+invoice.digitaltransformationmanagement.ai,032eab63fe5aee8b554bcbd20bbc993b4ed7
+pitcrew.ai,03845eb7a9b6bd7c5ad7ccd47b9d817d7a92
+kml.devs.expa.ai,03f422ad0be2f1c4f15a9c3def8ff8586110
+webmail.noan.ai,033bf4d6745fe1fb032069013ffea0b04f14
+qa.api.tarta.ai,04adbadae06dafe035c31631edf319895613

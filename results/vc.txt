@@ -8,3 +8,9 @@ webdisk.cranganore.vc,034f8b1075dc05a242d70baf57b39787d89b
 cpcontacts.dominios.com.vc,0390491bda31b537ce88169a19c3f2778a24
 files.scot.zaz.vc,03d71f7201f4fd38e813afb6f5511c23e229
 blog.flix.com.vc,04bea478c510e753538dc247fe77a78e95c4
+www.domainnames.vc,036088815bace1b2eaa918840d0e4f05b87f
+cpcontacts.construvale.com.vc,04372193e98a666cd622c5ac6b867bc0967f
+www.flix.com.vc,04bea478c510e753538dc247fe77a78e95c4
+jdb.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+cgschool.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+dovechain.vc,03bc385b19855d3c2d76cba1dc81156bc68c

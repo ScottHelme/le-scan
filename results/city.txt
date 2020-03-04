@@ -14,3 +14,8 @@ re.hanfu.city,04273160a086d866a03a4375a816c64500a4
 cpcontacts.podomoro.city,037d299834a7f0dc7d8fc788bb95fa7ab10d
 webmail.guardasmart.city,035034fb95c754f3f9819289e002842ee33c
 www.branded.city,038db81416b1808927e516484e6ccae7fda8
+local.harry.city,03d9cd5ca30c57e0d5c8b53c83075a665c4a
+board.rainynight.city,035b941c3d305537dbb17d9f7fc43d731598
+www.terratech.city,037787088e03de55bbe7896742b1a8070320
+my.uspace.city,04e2403954c9fa9176393a3f18f0544aede3
+chinese.waifu.city,03c461c05cfb8bf94e16faff9ee26cd5d0b5

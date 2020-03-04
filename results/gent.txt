@@ -1,1 +1,4 @@
 webviewerdebug.jabbla-corecrew.k8s.gent,03f340fb33063755774a6a323782cecc2a8d
+cpcalendars.mediums.gent,03b2b78d8661cfeeb89b2ac5556cc704eb03
+cpcalendars.kompassklub.gent,03d3573af78a4ece4675d508cfeb066fa5f7
+extractordebug.jabbla-corecrew.k8s.gent,03f340fb33063755774a6a323782cecc2a8d

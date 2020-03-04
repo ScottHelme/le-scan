@@ -1,2 +1,8 @@
 xn--tp9h.pyjam.as,03ff32df982710adbb5b7c2fed7057dfd1d6
 limo.pro.as,03ccbc1b482419edee0adbf9f76758f2de51
+money.pyjam.as,03dd66aa6d01738eb2e3f3013a27146641a5
+webdisk.cop.as,04c9dcdb395bbf5a4f364a900999ac0bd745
+openrice.pro.as,03ccbc1b482419edee0adbf9f76758f2de51
+fluxloop.smooth.as,037fe8f446f1c3fb02c7094add27c680dc20
+hooz.as,048e3d298316ef55b29997acdbf5e68d8af4
+setio.cop.as,032e4cfd63d722b1f1ae6e221eb37b2304ce

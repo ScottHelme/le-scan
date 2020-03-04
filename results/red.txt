@@ -2,3 +2,10 @@ production.dasleuchtendererinnerung.movies.tmg.exu.red,03710ddbb2c499df825c951cf
 production.herrlichezeiten.movies.tmg.exu.red,03710ddbb2c499df825c951cf9eb85fef991
 production.theshannarachronicles.movies.tmg.exu.red,03710ddbb2c499df825c951cf9eb85fef991
 webdisk.angle.red,031961cee4d59ee09d47884dae3d70047201
+cpanel.terracotta.red,0356eeaf9904e4b697c2b76da4ffb31309f7
+ip.citadel.red,03c444581df042ee6f7f30825f70f0072e0f
+radarr.hexagon.red,032d92a66a1b28e5c377f9c406ed62ee8310
+cpanel.pulseras.red,0315d048d380aa70f2e31ece0d44b3d98b9f
+cpcalendars.pulseras.red,0315d048d380aa70f2e31ece0d44b3d98b9f
+hq.tat.red,035d8827ca461ae6eaa2dcfd0f72183c55a9
+www.ask.red,03980055857c061816f0bd727dc3eb78769d

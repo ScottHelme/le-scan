@@ -4,3 +4,8 @@ cpcontacts.onjsms.cm,03273a3357f52966c7bbf6daa4b1eb017bc1
 relink.accro.cm,03e7ecf88548cc87cb2190085d21f53d7145
 webmail.onjsms.cm,03273a3357f52966c7bbf6daa4b1eb017bc1
 feedtheworld.cmr.cm,035a75ad0eb7aaad2be163aaf9f27592bd37
+webdisk.compta-finance.cm,03eafa9c7a7744e2891ad1071aafa454ef4d
+testsiat1.guichetunique.cm,045a3b976b2ab47681338f4d90b7fd52760e
+www.facsciences.uy1.cm,03141ac62e41e1b184eaa2c283e0d97b2a42
+www.support.financialhouse.cm,0366bbecdf6745b37dab270912c9230bb058
+km.kamermusic.cm,036412fdc6423422b0377d640ba65f3b9767

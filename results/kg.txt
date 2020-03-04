@@ -1,1 +1,3 @@
 puteshestvie.com.kg,0409de757bff7e9cf7aad883a178c1e692a2
+www.helloit.kg,032188b975312c9052a73d22a60778a3d5df
+autodiscover.airqon.kg,0361babb35dcb9e57a82035609c049fea9c6

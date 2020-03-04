@@ -1,2 +1,4 @@
 webmail.barkyard.dog,032e76fb29b00c9f8466f3143f620d504fc2
 cpanel.dip.dog,0358b6fd6c54e7e714e509771f3fbc9902e0
+mail.your-obedient-doggie.dog,033f717805ad7be1eb94a554ba4a8a1106e2
+mswill.know.dog,036f914bb36e11bf97142844f9d8ac2fb4d5

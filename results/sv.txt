@@ -2,3 +2,7 @@ cpanel.isoc.sv,049cc80856541476bfbc6c490782b401abb1
 cpcontacts.unpocodehistoria.sv,0411079bae8a3b12e2a27f4971e3f1927f8d
 cpcalendars.sivarlife.sv,034b648291ec322b86decbc35fa7508c0c4d
 cpanel.brandfactory.com.sv,03d76466197c1c837508a1b724d4078f9bbf
+montajes.com.sv,04684b75053ae4c6b62cc858b4031aefeeed
+mail.unpocodehistoria.sv,0411079bae8a3b12e2a27f4971e3f1927f8d
+www2.edestinos.com.sv,037a0ccb9782851adf6f7880dd0097e27b17
+webmail.cavalier.com.sv,03c44ffee597c46bbf09d89da1124321ec23

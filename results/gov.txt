@@ -10,3 +10,14 @@ read.lva.virginia.gov,03d57c3f486aeede85a2205837f790b28d29
 nmio.ise.gov,04366afccae8ec0988e844fdd02557609a86
 www.plymouthmn.gov,03d34e463adb9bfed66690a391c74379589b
 cpanel.dewittar.gov,03d82bc504b82cbc15911882ffe98c33b2b2
+d2d10.isl.in.gov,0318836471d3ef035d14aed785fc6d8f9d89
+dcips.defense.gov,04366afccae8ec0988e844fdd02557609a86
+www.chippewafalls-wi.gov,032734a2cce219e03554ad9cfa9038dcdd29
+www.leoncountyfl.gov,03af3806b292fc2c5923fb498cbb8d170d46
+search.digitalgov.gov,036104f495d45e8c05750b426a1bc07c4e2e
+www.quincyil.gov,0342f4f83046b7629a25d0d97001bb1bc2b9
+ampb.larc.nasa.gov,037ea674852df4f3225eef26c34912f20074
+www.calcasieuparish.gov,032734a2cce219e03554ad9cfa9038dcdd29
+www.joliet.gov,0342f4f83046b7629a25d0d97001bb1bc2b9
+essp.nasa.gov,037ea674852df4f3225eef26c34912f20074
+intranet-staging.douglascounty-ne.gov,0312f4c24163a5a3d361a3abda22c5aa24b4

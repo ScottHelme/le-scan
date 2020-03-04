@@ -1,3 +1,9 @@
 cpanel.polak.cafe,0455b8626c3481822c9eba37e1215becb810
 doom.cafe,0338781f3beef1517950c55358c5018f6a39
 cpanel.mgtow.cafe,039e36962de384b5506564a8d207f82aee5c
+mail.hubble.cafe,037bc6cac6cdc6041eaa78e7ad438d56053f
+leo.grange.cafe,0455f14e5f7bb6f20b2c5d532d8f3ca8eb05
+autodiscover.lillys.cafe,03cb9fbee2e80675f16c704970e2defca781
+fcz.demoyo.cafe,039e12c1f4d91ede30476957ce0687dc5858
+cpcontacts.polak.cafe,0455b8626c3481822c9eba37e1215becb810
+alopex.honeycomb.cafe,03cb2bb801205e9b9aef53c29b7d0151fe41

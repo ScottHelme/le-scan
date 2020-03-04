@@ -1,1 +1,6 @@
 cpcontacts.on.hn,0329c695b190f79d12d7956b94c8e4f36c95
+buitter.iht.hn,03e91ee39f0fd3cf01e59d0b3248755370a9
+cpanel.extra.hn,03e76d5642f4f8fcd2d5f3df9fcf4ca13dc1
+webdisk.klintec.hn,046bc204c2a63482698b1231717a7a54b12c
+www.primetech.hn,03b02de98b093779d3955f10a3ee6e86b9f4
+www2.edestinos.com.hn,037a0ccb9782851adf6f7880dd0097e27b17

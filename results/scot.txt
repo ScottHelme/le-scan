@@ -3,3 +3,8 @@ doodle.scot,04c85113b25b223b3cdd2ac539d936554ce7
 gender.scot,0675
 mail.revolution.scot,033adcdb6ab32a392dc7a9b9c24d68136b4c
 webdisk.sgeulachdan.scot,0383566c3ef0178ed86bcd425bfb4b1793a1
+cpcontacts.bonnybridgerailway.scot,0303b6c2c79da2cbc4ab11467f50186c9675
+webdisk.doodle.scot,04c85113b25b223b3cdd2ac539d936554ce7
+www.sikkersnapper.martinlaird.scot,04ed971adeca62947c751541de69a4b1e6a1
+www.pirc.scot,03c19880f36c410aafe752a85ff215699f4b
+mccreath.scot,035c8ad0f19b2aca6922f336f0056967fbaf

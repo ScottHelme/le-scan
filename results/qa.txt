@@ -7,3 +7,9 @@ mail.zeroori.qa,03bfd4a8f5ee97734e9cb3f207f17b983a98
 www.servcorp.com.qa,03429aaafcab4b4ae16ae307ede2a4f12718
 italianbathrooms.qa,03983485e2293f358a14f340ded8a843c22e
 mail.jewan.qa,03b740809c5d4ff723242aeefb9ba0052eba
+thanilawfirm.qa,03bcec608539b554e9a867741e2f161226b8
+thanilaw.qa,03bcec608539b554e9a867741e2f161226b8
+portal.techbulb.com.qa,039f8e098e78cf23d87d08fd4bbfbb5ec46d
+books.brams.qa,03a280787bb832893746d94b78e35dcabeb1
+webmail.brilliance.qa,04551fa108bba7749d0e544a8ec002e8eb0e
+cpcontacts.cloudclinik.qa,032a8b0c01b67d37bd1bce36d691d04813f7

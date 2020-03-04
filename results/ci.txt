@@ -3,3 +3,13 @@ cpanel.cypres-group.ci,03076b4b17f37e18c18b3e87cced06e4e5dc
 certificats.idu.ci,04f8cd462040472b66b3de0ea544eec66fca
 webmail.cypres-group.ci,03076b4b17f37e18c18b3e87cced06e4e5dc
 mail.bursys-system.ci,03fcd491f6ef25b59ac139aa4e9ff281f9c8
+www.dgampgestion.ci,0310e4ed55980f955456ed71b17f27eca0be
+webmail.gantex.ci,03402e3c74f1ac2bb5dbc1d96c9a52d4da66
+mail.comptoir-immobilier.ci,0340b611fe4573d04c04cf0e50c79b525af6
+webdisk.comptoir-immobilier.ci,0340b611fe4573d04c04cf0e50c79b525af6
+cpcalendars.cdc.ci,0307bb9fe561757e3a44e49dc567a001361c
+artemisgroup.ci,03e34d00b8c7a51fb088406588ec781b9703
+webmail.scinpa.ci,03fb75d32573c1cd6fa90040957d838e65ad
+webmail.bursys-system.ci,03fcd491f6ef25b59ac139aa4e9ff281f9c8
+crm.silicom.ci,03b75db9676d1102a7e1ca52171c4efedb46
+cpcontacts.nestela.ci,03e5d929650e5384d9a3367de9f825b095b7

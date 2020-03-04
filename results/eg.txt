@@ -4,3 +4,9 @@ mail.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b
 webdisk.newline.com.eg,04415374a93c8841f29d552b314bcf6447d5
 autodiscover.joytravel.com.eg,03431ff415f5b8d66da6180d7bc93ae19f87
 cpcalendars.itcmedical.com.eg,04f72c8a8c7619460cdda768c448049df6b0
+webmail.arwatravel.com.eg,0350be6a929c1a387dae00f552afbbc25127
+mail.ses.com.eg,03b75fb3c71ae2849927e0674e487a35edbf
+webmail.contech.com.eg,03bb3c55d77f5fb243fb32351e9a4ae69184
+autodiscover.nunu.com.eg,03c1f880646c34f035178aa55e184e1ebc33
+tourahcement.com.eg,041c791ef80d4d54722265149900bac587d6
+cpanel.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b

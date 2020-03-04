@@ -6,3 +6,15 @@ www.turkom.tc,04bf747ace669ec5c0e65f9cedb6c94a2b95
 www.ibc.tc,04bbeb53a897d4cca209a23341f46f59f896
 www.ferroli.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
 www.seo.com.tc,03ad0b54d874dae7b4692a6af8e03f3d822a
+www.buderus.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
+www.betonkalip.tc,03b9c66c191f4660a31269a745f68b89a9dc
+cpanel.serviskayitmerkezleri.net.tc,03def3b67473138854742f0b399354d5eb9b
+cpanel.serviskayitmerkezler.net.tc,033f2c89f0c9314fad17174fd9a9112a8e55
+teknikservisi.com.tc,0357774ac34e90a4a01c795cc9d2dbf084da
+cpanel.servisleri.com.tc,04ffeb633bfd7772cca342ebe4ea9603a543
+cpanel.servistalep.com.tc,0335792df221cb9a8639c116d779692ee8f2
+eca.servisleri.com.tc,03de8bbb5daacc90d65d9dd8f0aba9b3f714
+eca.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
+hoover.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
+mail.mucbirseyyah.fy.tc,036c1d63f793dcc61469174401d00efff6d2
+mail.edirnecilingir.com.tc,037de89d3fe2d0cae2c3c26b4c2ed3b8ef00

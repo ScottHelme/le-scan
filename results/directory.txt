@@ -2,3 +2,4 @@ mail.adap.directory,03cbd466abe6cacb14ff06e17e6a56e4d166
 phonemasr.directory,037e1387f1a3a39ac3494a57f7b81918cc6a
 webdisk.fablab.directory,0387e51f69662b07720d62b62896cfda1f65
 boys.directory,035e6f839c713ab57dc5ebffb0df44db4b4b
+www.fame.directory,0361953e8067fb2f90c2c1d00bb132b40b5b

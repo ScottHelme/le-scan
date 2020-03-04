@@ -6,3 +6,10 @@ bisness.aero,0302af71c772c3012bb6910edf95626e9e74
 ssp.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52
 sip.aaq.aero,048099b688d1db016ef06ea572740599561d
 nc.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52
+board.registry.preprod.pxcom.aero,03ce89d631ccdd5a44866540fa160bc215c0
+cpanel.abris.aero,04a314895166001ca8b907fc1bdd9a471eff
+webdisk.iab-group.aero,03701dc94c520e75808caac21f723417947c
+autoconfig.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52
+cpanel.pulsar.aero,03e722222e7a1b6c43c8f4a508225444649c
+api.prd01.avian.aero,04d1168d9fe4c9170dce1dc4530bf8897c8d
+whm.airportsworld.aero,03a93e05ef41f616a490d902ef706b92aa80

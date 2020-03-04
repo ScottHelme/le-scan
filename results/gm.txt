@@ -1,1 +1,2 @@
 cpanel.gambia2go.gm,03ebd468b9cba9b541d1d6d800aee217f380
+mail.adequategroup.gm,047c39a91f2efa6581e711264dc4aa16211c

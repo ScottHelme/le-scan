@@ -1,3 +1,6 @@
 brandable.fyi,036a9e227e32b72f5d82d14b24cf91fc21a9
 www.mito.fyi,039a8bc8c53ad5b8bc8832d4bc367e6a9c1e
 webmail.riddles.fyi,040103c64533251bb301756f9bfbef17d025
+8888.fyi,03c3ec881d0861ef3af917c7e12a84f66961
+cpcontacts.peterborough.fyi,031df22cf0cd16acf8e796367e9c8e3cab75
+crunchyfamily.jane.fyi,03f55994f3e4aa2a8e9703bfaf3a575824bb

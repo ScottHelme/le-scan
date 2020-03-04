@@ -4,3 +4,11 @@ autodiscover.alpha.ag,03ab7d8fc854e54bfabf53c32e9bbf1b1a5a
 www.kasse.andreew.ag,039ba185015a16a3421d90288cfc2235557a
 clubo.wda.ag,030421005edbd987e509b825141e9167191c
 nmp.ag,039bd8635b6eb1f10ec892cf24f0c8e70003
+kuechenpartner.ag,04d409ce19e06b5328c9d578a441b1093a0e
+web.factura.ag,02
+webmail.homologa-plataformas.wda.ag,03118be2614af9d9c93a81484ecc87dd4aab
+www.immodeal.ag,04e0e101c299a27b9e8cc699e8dee92dd454
+cpanel.clubo.wda.ag,030421005edbd987e509b825141e9167191c
+newsroom.dsa-marketing.ag,034fc0f16e7b6ba6b72028519cd54d2ea217
+www.flixtor.ag,0488729d4b6d04ef6c03915ae20b3d704ad4
+cpcalendars.homologa-plataformas.wda.ag,03118be2614af9d9c93a81484ecc87dd4aab

@@ -3,3 +3,5 @@ kine.pub,049e28639abcb42f17cfe4a0676476b59962
 rbx.pub,035d7af90b584fc40d97f405bcdc0734aefd
 mytrials-ci.internal.pub,0443921c58334b257c626df433fc4b405842
 mytrials.internal.pub,033e1cfa04aed4df8387e3a2f9bb37883587
+cpcalendars.itinerantpress.pub,032d01890d8a88cded27f2192a13864954a0
+www.itinerantpress.pub,032d01890d8a88cded27f2192a13864954a0

@@ -1,3 +1,6 @@
 gloriousgrapes.wine,037ac331864b613a56f0cf9cb0714077307f
 webmail.locomotiva.wine,03340a5290cc990c5f62d2a34673b94a5a84
 webmail.tua.wine,04be6c28dcc97adc6a6fc3ee781f4f8b2dab
+fr.truant.wine,03b682951a3535db19238a35a95bd22a0cf5
+www.logistics.wine,037b1495405c0e5a64ec2b7c3512325990cc
+webmail.logistics.wine,037b1495405c0e5a64ec2b7c3512325990cc

@@ -1,1 +1,3 @@
 linked.farm,03115042020ea734d1c8e3ce06d7f92b38d6
+cpcalendars.skeleton.farm,03caaa950a398307c4f0b24ea0095eb156a8
+cpanel.fastrender.farm,034622dd7ee1402a89fae8600dc7bc64c505

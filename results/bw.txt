@@ -19,3 +19,11 @@ www.pikulgroup-co-bw.3igroup.co.bw,049b9ceb1c01160b4d4b3d778d1cf6674cd4
 www.metrotile.co.bw,03520587394b32df8caa8241d7c5c782decd
 webdisk.classicintelphotography.co.bw,03fb7eaa7b6b6a04eb9d73f830bf7a125fb0
 cpanel.nataguestinn.co.bw,033ac5feddb7a082996532e7d4c66294717e
+www.dikgang.co.bw,04ab3749061fddccce0c11d97c1f42efcf50
+www.kolobengsprings.co.bw,0308358a4f1c665b9e830b9246da9f5df4c0
+progressiveinstitute.co.bw,039c269c78cee5b51c3c6533762715c741c0
+www.justsafari.co.bw,03d6fcaf8eb2464b905ba17a7fa23d8368a6
+webmail.factorfast.co.bw,03c170d88898efb52f06dc7561e1e75a4cbf
+www.triscend.co.bw,036a8262c2a09df10fbdacc7310d1efdff51
+webdisk.factorfast.co.bw,03c170d88898efb52f06dc7561e1e75a4cbf
+mail.allfore1.org.bw,042d529c4ab2bc9b8827db0d7c2a6c812397

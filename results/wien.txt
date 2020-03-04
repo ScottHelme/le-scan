@@ -1,0 +1,3 @@
+www.jugendarbeit.wien,037793cf56db297382a56dbbd7af606405cd
+www.jugendinfo.wien,03bf5de5aaeec88177a3b3cac72651f5ee08
+www.arbeiter.wien,033d6321832cd8600afcb1d177867ee106e8

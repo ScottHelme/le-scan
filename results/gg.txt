@@ -10,3 +10,9 @@ gamehost.gg,036d9171276296eb562e634706da3491ec4d
 www.primeleague.gg,035f7df9afa5db596cb22f75c2e47629810f
 cpcontacts.esportbase.gg,03874aac3c3ee18518862ceb57b48dbf3186
 webdisk.trashtier.gg,03afc23f239dc7b1c7456950f91902abb13f
+cpcalendars.volunteer.gg,03795bf1b6163a8e379980eb937f57d2eec5
+www.vnew.noetic.gg,042b288dc90a9c85533cb944bd4410ef70ad
+readyup.gg,04c3c04c234f4ae823ebd8912f5a1ae09c33
+static1.millenium.gg,04405795aa288dd1f97ded1959a5990bd4b3
+webmail.atf.gg,034f0d96686728b10eae3a4ad81c13414226
+ipv6.kaas.gg,043a50a3f3fe1da9a65d3d6b01f8dd1e715a

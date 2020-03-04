@@ -7,3 +7,5 @@ cpcalendars.nabuh.energy,04660455c875650bb8e5815ddd0fd18049df
 qwest.energy,04df981ae923181805e7443883871e8e636b
 cpcontacts.tnt.energy,03033d8e1c5b43a849f74b420faebc5a9a5b
 wholesale.energy,0346efe66e2046f7bb28978ff896df04a835
+www.gozero.energy,038a1ce0d9b08d7633d186a8f949f5eeb67d
+cpanel.qwest.energy,04df981ae923181805e7443883871e8e636b

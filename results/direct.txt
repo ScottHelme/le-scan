@@ -1,1 +1,4 @@
 shipit.direct,035502cc5033c7ebd2a0e4336b0bd6f08e6c
+cpcontacts.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826
+mscgdb.governance.direct,03f273adb99506b46aa932c259d85c45ed5b
+price-rc.bb.direct,037171f92701fc6612ff4b37d237e7e4b7f8

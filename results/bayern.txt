@@ -1,2 +1,8 @@
 test.list.bayern,03dd1fe49761781100fd226da73bddb7256e
 xn--verkuferin-t5a.bayern,033d6321832cd8600afcb1d177867ee106e8
+media.mediateam.bayern,03cb97ce979a864e5ef5f31156d8ce2fd1fc
+dazuverdienen.bayern,033d6321832cd8600afcb1d177867ee106e8
+klage.bayern,03c6f3fd9ad5d7eb3b155cbedf4e1b919a46
+xn--kndigung-65a.bayern,033d6321832cd8600afcb1d177867ee106e8
+stoi.list.bayern,03dd1fe49761781100fd226da73bddb7256e
+xn--knstler-n2a.bayern,033d6321832cd8600afcb1d177867ee106e8

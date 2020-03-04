@@ -22,3 +22,5 @@ asc.devdb.ows2kunden.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
 asc.devdb.portaldemoal.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
 webdisk.ihtilaf.team,0323dfb3caa17e14c5c6378769805ecb91c1
 apeldoorn.analyze.team,032f1556500fefb859a9fb078ea590dd788c
+autoconfig.steiger.team,047aff5fe567e7e42b57c36203d96fb7d712
+zwartwitd.analyze.team,0464c2b57a55c9055eb803120ad9bc827286

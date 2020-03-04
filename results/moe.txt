@@ -4,3 +4,8 @@ webdisk.adorkable.moe,03aadfbb1e8c9ff584ea8f28ef0d6a7cbf2b
 www.allu.moe,0369a517d404d3543206247727dab58fb1e8
 mail.sammy.moe,03b9d77ac375906d01f51e3f31c3df917856
 yaku.moe,04e138650e49c9c6942264d40ae26ddada4b
+test.map.mirucmt.mc.saru.moe,0365393d3b347b130761fd65593cc81fc5cc
+dis.potofu.moe,032146bc59d97516794952598656f028de43
+webdisk.allu.moe,0369a517d404d3543206247727dab58fb1e8
+48g.mnh48.moe,03b8603f40be783146bd6ea8944c013a04ca
+pve.home.saru.moe,037ca2a99a957c56cd1216ef80f8be19d077

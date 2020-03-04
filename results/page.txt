@@ -4,3 +4,6 @@ myclient.page,0430465a39a94eb90d0220985f7b647c78ce
 staging.rattra.page,03bdf58ebcdd7f8999a8725c957f340a3ddf
 www.accounts.craigslist.org.paidad.page,03ea76725b0c61d8006ba4e7ed42ce4bed07
 www.paidad.page,03ea76725b0c61d8006ba4e7ed42ce4bed07
+ourwedding.page,0327049642d1e0ba6f790f5c217a39eeab1f
+webdisk.iad.beta-test.page,03be43923243182d067311ae2a604d322dd3
+www.aurelius-carlisle.page,03b1c8900db3e138a37512db6c4615fd39bd

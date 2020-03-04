@@ -1,2 +1,3 @@
 www.mines.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
 www.sp11dec.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
+www.mea.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2

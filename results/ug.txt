@@ -11,3 +11,10 @@ webmail.hamenterprises.co.ug,0388bd7245414cb356ba84ceeb469bd74442
 cpcalendars.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
 shuukuvocss.ac.ug,03d59d452978fbfaf564b91f9691f311914c
 jcu.go.ug,03ac47746a13a0defad95da65f098530e424
+webmail.milleniumheights.co.ug,04fe054bd5c06cb318f2172e79dcb9f7a631
+autodiscover.fti.ac.ug,03f2703ea175532b1cf0641fa3d6ca4bca59
+webdisk.frankbyaruhanga.ug,03483c854445c4707ccef32beb94fb7913f2
+webmail.betimo.co.ug,04734f6b37a08c5c76e28f4d0c1193d6f688
+webdisk.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
+mail.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
+cpanel.fti.ac.ug,03f2703ea175532b1cf0641fa3d6ca4bca59

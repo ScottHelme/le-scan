@@ -5,3 +5,6 @@ travail.market,0313c10265c8e3550b3f6101d91e6a9448c0
 franchise.market,03a7ac99c079be842151601da8827736ed15
 www.gryadka.market,04a49f7c2bbda28da9672a4ba272b3149230
 www.longlive.market,0337a6e1b41c9aaae750a434bd6999f4076a
+cyber.market,038a5f81eea8fdfbc8a9826e088b0d195615
+www.shoe.market,0313abf5f607116c9a2c57fc026f505f1566
+modir98.exnovin.market,033cda1707e83aece1cb6b16b104f42968b0
