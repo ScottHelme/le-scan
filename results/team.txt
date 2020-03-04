@@ -46,3 +46,12 @@ www.work-placement.whitespace.team,036d43787dcd3bbbc371725e187697fc90fd
 cpanel.projex.team,035566ee7ec14cd43f0262b2f05a8f5751bf
 webdisk.tops.standby.team,039dc02be1edcc21550f1974d5bd2744ee69
 dindoa.analyze.team,032f1556500fefb859a9fb078ea590dd788c
+yeang.team,03eddaf423d9b1a38deb20639f4bc916392f
+90941.b2b-jewelry.team,0316f2a703254700db818fcffae60f4d16df
+render.git.ember.team,03987dac8ec1ca740e0dd92d13b522e8ec2a
+nertravel.atlo.team,037c35ecd58587ef191fd9afbe9e195888ec
+warmunda.analyze.team,032f1556500fefb859a9fb078ea590dd788c
+bitbucket.course.team,038601352031f20d0ad563000b330eff185d
+cpanel.builderallsuccess.team,0392d54651e6fa4d0ee0235077b969a0af14
+uploads.git.ember.team,03987dac8ec1ca740e0dd92d13b522e8ec2a
+www.wingos.standby.team,03dcc9cc4610eda118359cf12b68cf3f64cd

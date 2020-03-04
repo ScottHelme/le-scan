@@ -38,3 +38,12 @@ webmail.esportbase.gg,03874aac3c3ee18518862ceb57b48dbf3186
 yea.gg,044fa1f0b3131ff4fc6e3693d00780ef38a6
 www.gamehost.gg,036d9171276296eb562e634706da3491ec4d
 cpcontacts.wulf.gg,03d2c953ac696c9783f79674036dadab0718
+www.eblitz.gg,0358e77cf91b1b6498741f86e5ace28eb36d
+cpanel.attrm.gg,04b1142f37a3604ee6a2cce1beb0eada83aa
+sql.vaush.gg,03859076191724168ef30535c59c576b487b
+sql.vermin.gg,039bbb98d5a5c4f41167a82baa13cab02579
+mail.vue.gg,0349f2e4d3ecca1fd8129d330b7b94dda1c2
+dev.vaush.gg,04dd25152141495368a179fa85ecc988d3d2
+www.mac.gg,035629213218e663736f6708c02cea2067d7
+secure.alvin.gg,03a44a0f2d767be76c6b1006ad1590e1aaac
+www.i.kaas.gg,043a50a3f3fe1da9a65d3d6b01f8dd1e715a

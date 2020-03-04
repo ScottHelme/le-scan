@@ -1,1 +1,3 @@
 mail.pawlowski.recipes,035e646c8ec4e4238b764871eb9f74016f7c
+cpcalendars.berry.recipes,04916ee68353ff8dff22e0cf776278fc2d42
+mail.bestbengali.recipes,0432e9f7385f36ab6ec7bde632a72841939b

@@ -5,3 +5,5 @@ havit.cash,035e083f74c37595376b172efbe2dc0972be
 mail.paco.cash,0370cde03235d2300e895408df05552d0bc3
 www.comparison.cash,0381268296cd6639eb9f4fe034f1210b574a
 mailer.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+exchange-mock.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+exchangemock.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738

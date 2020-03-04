@@ -56,3 +56,13 @@ deconfianzacr.email.cr,03ddf71d69a81f56416402d306d6afbb2f41
 mail.disenoyproduccion.co.cr,03069097f6e6c77eb2b592e4f391092da681
 www.jupyter.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
 autodiscover.fumiflex.cr,033029c78d03d68758cdd92e0a14b4452267
+www.labexp.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
+cpanel.sca.cr,037551ff289f8825b9ce97e9d3bea0e1cb8c
+cpcontacts.di.cr,0363ffe5b6b829f0c19a8f3a35fe25ec492e
+cpanel.refrisa.cr,038e46b59520641f2bb0035fec461c8a3319
+mail.anacastillo.cr,0304f82ec94d40f80acd837a53fb83ca8fb8
+cpcalendars.transcar.cr,0328aeefb0f3ce2e4ae996215e45442ee63b
+cpanel.kravmaga.cr,0380a15f5cb53621b029d3c0e0b7cce1af18
+www.navitia.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
+cpanel.seguridadalimentaria.cr,0499cd7d64f4787ef6c1d60d4ee988431176
+www.papel.co.cr,03e88a698488a584ab6b2b0925bf96fbd199

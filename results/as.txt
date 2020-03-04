@@ -10,3 +10,6 @@ www.registrere.as,046f023a70045711d2c0981af7afc1b06236
 mail.gyp.as,04878fc7344939708c823cbebea441143738
 www.ramet.as,034b2df1a1398cdf86acfd555cccce93e08f
 casino.as,03d0bd75687ec4e86c119fa08e0d266c5a20
+webdisk.tinnoset.as,03fa1ede59ebf651307cd80ccf08a15683a8
+mamibuy.pro.as,03ccbc1b482419edee0adbf9f76758f2de51
+www.smooth.as,037fe8f446f1c3fb02c7094add27c680dc20

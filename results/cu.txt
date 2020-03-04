@@ -6,3 +6,10 @@ zldap1.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
 zldap2.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
 latablilla.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
 gproy.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+www.ict.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+www.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+zmbx1.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+zmbx2.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+www.cent.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+cubanaquimica.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25
+zconsejo.uo.edu.cu,042085752207ca90eaf112a6bc0a271eaf25

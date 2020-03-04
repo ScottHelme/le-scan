@@ -21,3 +21,4 @@ www.lang.consulting,039b261553040aaaa2d685fc00551a4c458e
 jaccs.consulting,0365f617f3ac57de37c296343c7fbec528d4
 www.andes.consulting,0383869fafa70069934e092ee3c60b94b2c5
 ahlen.consulting,036118c13ec29a69f4f3659c57adf295fd57
+www.dev.ismsoft.consulting,03b4e0541f98da80fed47fbbbcfe51deb1f5

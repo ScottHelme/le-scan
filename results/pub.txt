@@ -19,3 +19,8 @@ www.rbx.pub,035d7af90b584fc40d97f405bcdc0734aefd
 gitlab110.itd.pub,0335b6ab56fe9e111ad1573d0862be169d11
 www.babilonia.pub,031494ef232258c08a510e7d78877f1289f1
 webdisk.mrwolf.pub,043cc2090037c1897c2fb5c876549bf96238
+app.deer.bft.pub,0386bda76f4170b9ba494afd8fdc1f6809e9
+www.staging.embodiedwisdom.pub,03d01b68bc9762ecb3887a819e540ea28ec1
+mail.nrdb.pub,03e074411fa0cfc5fa17b78cd2a7f4169407
+l.secret.pub,046ac22dd2af5175c6c15e4102a9d51d810c
+cpanel.mojo.pub,038655b98043f4b6fe71fc086cf7937f535a

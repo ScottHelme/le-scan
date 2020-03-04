@@ -9,3 +9,8 @@ cpanel.contemplative.eco,04b9d99abef02d345e9d8f851141a073e1a9
 www.possiblepackaging.pivot.eco,03b37db4475d282aad8f19fa277456c0f7d6
 www.bailetusnad.eco,03baea9d958a1544175e96aee87d84a8c846
 www.contemplative.eco,04b9d99abef02d345e9d8f851141a073e1a9
+cpanel.seger.eco,03bcae9f78bafc4f54d9776d647347393d90
+autodiscover.contemplative.eco,04b9d99abef02d345e9d8f851141a073e1a9
+www.seger.eco,03bcae9f78bafc4f54d9776d647347393d90
+tuigel.eco,046bfaef7ec2ca24fc9c25b5bbec1391f220
+autodiscover.seger.eco,03bcae9f78bafc4f54d9776d647347393d90

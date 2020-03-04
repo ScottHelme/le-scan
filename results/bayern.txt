@@ -13,3 +13,9 @@ erdwaerme-chiemgau.bayern,03b55cd8aa8f5f15a9b0410e36f2b29a3628
 sp.list.bayern,03dd1fe49761781100fd226da73bddb7256e
 imap.rommel.bayern,035c6f04f92316ce46830d0cd77de5ac8c57
 www.speed-dating.bayern,033d6321832cd8600afcb1d177867ee106e8
+www.xn--kndigung-65a.bayern,033d6321832cd8600afcb1d177867ee106e8
+koestner.bayern,03501a777a0bc295f2452281f93a2258347f
+anerkennung.bayern,033d6321832cd8600afcb1d177867ee106e8
+pop3.list.bayern,03dd1fe49761781100fd226da73bddb7256e
+www.xn--knstler-n2a.bayern,033d6321832cd8600afcb1d177867ee106e8
+agraringenieur.bayern,033d6321832cd8600afcb1d177867ee106e8

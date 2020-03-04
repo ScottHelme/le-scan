@@ -2,3 +2,5 @@ www.entreprises.institute,03abeb2781099dc72f46ffd51031b6e2c8f0
 webdisk.learn-english-in-bangkok.institute,04f166a6e43f6b581f19ad0c4ff0fe7731d9
 the.gregor.institute,03671630c4ff5651bfa011b0eba1739b94d3
 uat.courses.talentdevelopment.institute,041889ea1c9966853692f0fda4af10aab788
+wms.institute,03696d5595c35ef036a07ef50b83965c4d4b
+autodiscover.sandra.institute,035a438aee32eebfaa6fedb06a9aa51cb587

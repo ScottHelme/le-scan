@@ -36,3 +36,14 @@ cpcalendars.british-study.dz,03133eb4f6409490e9ac7e42647ccbf0f9b1
 mail.cloaoran.dz,03861c7f981f3678cc847422f98e7902e7de
 azur-fruits.dz,0362d87061ca093f8ba153ea9c6b6303e9b2
 azurfruits.dz,0362d87061ca093f8ba153ea9c6b6303e9b2
+cpanel.setor.dz,037c3c8bc25e86b333c82b273c25bc1f3afb
+webdisk.azur-fruits.dz,0362d87061ca093f8ba153ea9c6b6303e9b2
+www.cloaoran.dz,03861c7f981f3678cc847422f98e7902e7de
+webdisk.artactif-oran.dz,03ec7ca725cc8f11feb42ff0e59bcff5b59c
+webmail.british-study.dz,03133eb4f6409490e9ac7e42647ccbf0f9b1
+webdisk.siami.dz,03719331912b686ded24d99d6d376aa8313a
+www.gsiac.dz,030fcff7b12222ac9cb3c04fc2ee81024546
+mail.ayapro.dz,03d90be01d409e53a2099b94d0c6f6256a1a
+autodiscover.kronestore.dz,0375e58306e60e88683b0049127ebed45a0e
+www.dmcc.dz,044d408c6d22f796b8069c44cb5d937e7d15
+webmail.keyna.dz,0408627a2be5b1afc9b267ae844004d754fd

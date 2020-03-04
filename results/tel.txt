@@ -4,3 +4,7 @@ www.7-812.tel,0470cd7f4589c8e9d0bc8f4c4f65cb745d2b
 www.heyn.tel,036ade4d1fb7ad64f47106b21b8c8a81b9d8
 webchannels.tel,0308e27bd3338349d814d9833a5676749109
 webchannel.tel,047137de557af6d1d672f656a96328235836
+giorgio.tel,0361b684c505a95ea498da0ab449586600c2
+www.realpolitik.tel,034802adb1e203ca741cff142d65380a6caf
+cpcalendars.realpolitik.tel,034802adb1e203ca741cff142d65380a6caf
+cpcalendars.inputcard.tel,032b57d266af8efdf025869aa7353bcb74d0

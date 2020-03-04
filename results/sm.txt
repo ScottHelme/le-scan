@@ -1,2 +1,3 @@
 mail.lafabbricadellecandele.sm,04c3a3425f53796d0620d385af08572894ee
 www.usm.sm,04d020c7f684bb02cca90a48fea9c1befdc6
+cpcontacts.usm.sm,04d020c7f684bb02cca90a48fea9c1befdc6

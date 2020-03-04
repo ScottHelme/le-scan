@@ -3,3 +3,5 @@ generalpanel.com.ni,0347d3ca9939f43bf6c92f3aa6841f50027b
 webdisk.copersa.com.ni,03088817f0a0ad773e576da994e069afd1dd
 www2.edestinos.com.ni,037a0ccb9782851adf6f7880dd0097e27b17
 cpanel.cepad.org.ni,03af0a29242733e3d4cd182fe633644b4a0c
+mail.anac.org.ni,0335c8b7f05a56ed652cff7d9f3efda99d43
+mail.asas21.com.ni,04c3b145582106c38330d2aaf8a1d791fd99

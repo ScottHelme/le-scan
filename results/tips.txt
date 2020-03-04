@@ -25,3 +25,5 @@ cpanel.woo.tips,03a2ab4d309285c270654fe66b0b811c9256
 restonnocc.akamai.tips,03332e1e83487da9381ff803a0e6ffc034e9
 xn--brserberg-q9a.city.tips,030930b3865330c2fb909cc7dca719d39c46
 xn--brs-hoa.city.tips,030930b3865330c2fb909cc7dca719d39c46
+cpcontacts.sensual.tips,03379a8b646ef3ad6554735b2a9c2f799e5e
+mail.bestbet.tips,042f9d8ab693d54db19aa25e1a71babf7de2

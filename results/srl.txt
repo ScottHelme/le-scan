@@ -19,3 +19,7 @@ www.gecogreen.telco.srl,036ddb98f3da3800cddbaa799df60786f567
 cpanel.law.srl,048a43c2f42c0db1ca98f702811fc707acf0
 www.itmag.srl,0321d73195984026f84bb860293d56a5a6d1
 extranet.digitalsolution.srl,04574d3201d13d0cbbf454bdca1b1e7b9604
+cpanel.wordpress.srl,03b6b20000badbed0f26794e3c3b53553524
+www.law.srl,048a43c2f42c0db1ca98f702811fc707acf0
+cpanel.greenway.srl,03432e0b70db1cf5b8d6c3a370cd106378f6
+mail.stanga.srl,03effae8edd53f883e9afecd4117d53a9f31

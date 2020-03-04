@@ -7,3 +7,6 @@ cpcalendars.wienflughafen.taxi,03edf4ad6fa25b071b7a8bec4d1f551f9a52
 app.sou.taxi,04b0b5364bd8a21b18cc57576a86b2da9e24
 noibaitaxi.noibai.taxi,04dc8462b621c3c07319e942f629a4a61085
 autodiscover.dunoon.taxi,039e2d2c70d930e89b8e829a0bc6a32fbcd5
+www.flughafenmaxi.taxi,03b29debcac62acc85a04912a85095e603f1
+azur.taxi,04877d1646485bb302b538ad78b9dcbe7047
+www.sev.seo.taxi,03e768dc7916ea29f856e11b55bc719ed375

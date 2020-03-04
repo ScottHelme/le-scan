@@ -10,3 +10,6 @@ www.orientalmedicine.doctor,03a2e53580acec6185eac1ff35103d7ddd35
 cpcontacts.fue.doctor,043485a0a7d71eb7116dd9b959495cada9a8
 webmail.cmt.doctor,0466e234409e92f47379bafb2ae681b30259
 cpanel.fue.doctor,043485a0a7d71eb7116dd9b959495cada9a8
+autodiscover.cmt.doctor,0466e234409e92f47379bafb2ae681b30259
+www.compassion.doctor,037f67598856e8b8d780173d82da0b687ecf
+webmail.access.doctor,038041a24e7eccdb7430477237cf5191094d

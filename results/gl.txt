@@ -17,3 +17,10 @@ www.kti.gl,03540e95cb6ff1db801b0e2311637ab9f738
 www.imaani.gl,034eebd81d84ae7592adec034b978af9bd4d
 www.kaf.gl,034eebd81d84ae7592adec034b978af9bd4d
 www.nuuttarneq.gl,034eebd81d84ae7592adec034b978af9bd4d
+webdisk.qef.gl,038c82fc437c71fffb1b90cc8c40f1617150
+cpcontacts.mxg.gl,03895b93818c99b985c89a25d0086f078215
+ombudsmand.gl,032f53834db3f93d837376ca66dafe74f524
+ombudsmandi.gl,032f53834db3f93d837376ca66dafe74f524
+whm.snow.gl,0344e4dea4fde47bf9256503384a3067a8ff
+saammaatta.gl,04e9f27bbab7896ed66ac8294966f208a35b
+webmail.mxg.gl,03895b93818c99b985c89a25d0086f078215

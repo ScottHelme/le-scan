@@ -10,3 +10,4 @@ www.msg.direct,033717cc35403e1aca8f4b938e80b00da018
 webdisk.cocoa.direct,0338389a4f4b7b4f248f5d171ab9e08374bb
 webmail.aktien.direct,03fa1404a3ac556aafbf959095bb3fb9d890
 webmail.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826
+bx-d.bb.direct,03e2758feba8d59b32845c01ee5bbed9321d

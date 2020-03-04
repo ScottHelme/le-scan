@@ -39,3 +39,8 @@ webdisk.acesso.click,03e5ff500c5c19fd1a2f5a4734718fb6405f
 cpanel.c-m.click,039364e6880cc0946f3dd08b2ef41422b4f4
 catch.click,033eed6fe456cff261291da74df32f76301e
 terbungsu.sub.click,03401ab27f7271df6f3f2f7e8daed4bfbec3
+cpcontacts.user.click,03d274edb53510cef8acd3d9578681315bbd
+cpcontacts.network.webeuro.click,03ef9584c961b45c3c73ea013bdfff6dd104
+mail.bestbookunlimited.click,03d41e9cef1a311c0b94c5c82e3b4376f959
+caliente.click,0455c148063dcd571c59c06aa9225640c616
+www.kringloop.click,03b051fe49090c5e4572b271bb5bfdb26327

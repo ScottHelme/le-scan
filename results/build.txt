@@ -4,3 +4,7 @@ cpcontacts.trs.fused.build,044c0e8b31e0d2e9aba7940988956a754f8e
 webdisk.makecontracts.build,03258fc4d7d55d1baf0386584f696e37fb51
 webmail.communautestbernard.fused.build,031c83bfcc73b8145496e03888338a55481c
 cpcalendars.afterschool.fused.build,039097e243dceb3c6f6f06721a48cfb5b23b
+webmail.ecolubeexpress.fused.build,03dc207e16b58d6bdd8ac2f88b4884a5c356
+cpcontacts.ecolubeexpress.fused.build,03dc207e16b58d6bdd8ac2f88b4884a5c356
+hr.backslash.build,047c19f81b229068f1d808e17c17e38cd364
+mail.up.fused.build,032db52e75a07ba5622ea625f882ec9218d3

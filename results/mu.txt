@@ -24,3 +24,9 @@ whm.eventsmauritius.mu,03950a7556e67e9bdcba3440a438a9c0b776
 resto.kom.mu,03cc2715bbe95bf9f045fe0092513a65d672
 conciergerie.mu,03a02b07abfd8aae6d96e4b8513ce60a6571
 www.dev-ipl.gowest.mu,036d7e7dc9fa8591e6a138041738b4828aba
+www.veterinaire.mu,03b88c3f4fc8cdc36d01194e38c45d1d3a45
+webdisk.watak.mu,035a1d87b5c8680b4b6a26d7375244c45ade
+touris12.tourism-mauritius.mu,032e5b56ef989430f7bb75fce5e3075eaf72
+whm.maurice365.mu,032e5b56ef989430f7bb75fce5e3075eaf72
+www.gplegal.mu,039eaa6aacb31121a7d1237eb589dd2e7710
+mail.ilemaurice365.mu,032e5b56ef989430f7bb75fce5e3075eaf72

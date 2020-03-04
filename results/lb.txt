@@ -9,3 +9,4 @@ cpanel.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc
 webdisk.brightanimals.com.lb,03a52756104e03e03c4fc4ec0f4eb994e204
 www.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc
 www.springcommunity.com.lb,04f818bdeb605604883c4126b9d2e3ffbfa6
+cpanel.greentech.com.lb,03b3891b9d11c7632c0131a8ba59fdcb0b21

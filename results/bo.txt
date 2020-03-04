@@ -71,3 +71,14 @@ webdisk.sagradocorazon.edu.bo,048e43a4ca9f5df57bbbf0be19452b88cd9b
 dak.openbiz.com.bo,0370e25fb67ff20579f4983423244f898fe7
 spektra.com.bo,03991d03b9fce2482d7c77dcce730afb51bd
 cpanel.tomeytraiga.bo,03fa0835d6dc50a8bbae115b3d94455b9cb1
+mail.sancarlos.gob.bo,035bc048231cc463aa64fba8c6985b12aaf3
+cpanel.ods-orient.com.bo,0440197386e426072693d4e51810cf6e3f7f
+appalarmas.servicios.emi.edu.bo,03ed2105ad56793d3f72f1f9a9ff273eb6fe
+cpanel.sancarlos.gob.bo,035bc048231cc463aa64fba8c6985b12aaf3
+mail.maber.com.bo,031158a2a8d1e5e553b7e610e3268510c360
+webmail.glfb.com.bo,032ebe1f55c1e86cdc3755296fa1951435cf
+mail.hotburger.com.bo,0376a27b00cbdc6b7259ef31a53e4c6a9ec8
+lea.com.bo,0327baee0b3a2bb3dc99de08bd633a39ed81
+www.openbiz.com.bo,0370e25fb67ff20579f4983423244f898fe7
+mail.meca.com.bo,039a3e2ea3cfa06e159f56648a368efd26ce
+www.procamelidos.gob.bo,039b1684b743c21232238e8dc0df6f98607d

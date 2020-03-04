@@ -3,3 +3,5 @@ shipit.cheap,0414ea70892f4fcbdab84d0f52995d1471ce
 bus.transit.cheap,03bebce743cddddd5645fb0bd9cef7ee591d
 webdisk.license.cheap,0355a6c87f3d5c76aabfe9cbab9b27e9ad73
 havit.cheap,03eba216cc3400421c2cafe3e16621f6aedf
+mail.license.cheap,0355a6c87f3d5c76aabfe9cbab9b27e9ad73
+plchan.cheap,03eba216cc3400421c2cafe3e16621f6aedf

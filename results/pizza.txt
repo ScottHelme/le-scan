@@ -21,3 +21,12 @@ uk.lucas.ticketswap.pizza,039c5e1a1861065b62984c25c5da0afd3d84
 www.jew.pizza,03cdd27373c6eb674148ceb83e80aba8e04d
 www.leopard.pizza,033153d58ea6cc251c85ce31d8ed6c83afa1
 be.derek.ticketswap.pizza,04f044a0f6376efa82385bd69d802692f27b
+com-br.carina.ticketswap.pizza,031f60b892ca8c13eeb81f07f0c41800b2a5
+com-br.derek.ticketswap.pizza,04f044a0f6376efa82385bd69d802692f27b
+pt.derek.ticketswap.pizza,04f044a0f6376efa82385bd69d802692f27b
+com-br.joao.ticketswap.pizza,03b03c82f12fdd6746987087386066341dc2
+com-br.lucas.ticketswap.pizza,039c5e1a1861065b62984c25c5da0afd3d84
+lo-cal.pizza,034a847c53ba8339d9140687c6d2e08b8e9a
+pl.carina.ticketswap.pizza,031f60b892ca8c13eeb81f07f0c41800b2a5
+cpcontacts.cluj.pizza,030597848a7f6f20a26fec4a40b957344d1a
+com.carina.ticketswap.pizza,031f60b892ca8c13eeb81f07f0c41800b2a5

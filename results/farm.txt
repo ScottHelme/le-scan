@@ -11,3 +11,8 @@ www.win.farm,0334e70db1d2da861ff9bdbcde5744206d8d
 onebarnfarmfetes.farm,03a74115a61ef668ed0add5ec153e9a7af9b
 cpcalendars.thistlecove.farm,03de3a047f98b265a17e916e9b843b59469b
 cpanel.trosil.farm,032b9bfecc96e4c3a82636100592b7a2743b
+agrar-drohne.farm,048da862ffd72a2e2007e99d1f0cca563ff9
+uat.fendi.ows.farm,03594e0f0e49b5b1d0bfc66f36a8e687b841
+greenfield.farm,0378f9bc11e5a4762c7be72c8e552fbb9e90
+riverduck.farm,03614a840586c113dda1e0c6178459b87723
+student.ideaz.farm,03c168e801e828edc2ec87f734990d189824

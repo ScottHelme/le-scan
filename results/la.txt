@@ -67,3 +67,11 @@ www.tei.la,04f217fe74489c29f93fb0487be1c44e7c70
 cpanel.cepa.la,046dd3bcf57f94330f672997c750a7565173
 reset.la,0394e6e1ecdd7e3830dbff8dbc1d08ba38c1
 www.esta.la,033b38c443d71728b63ecec32cae7ea2d19f
+webdisk.egr.la,03d50e5a626e888aca03b635fb14228f90ad
+mail.shie.la,04f217fe74489c29f93fb0487be1c44e7c70
+www.zai.la,036cc53d836f63125ee8d4c6d1a62aee288f
+whm.masterweb.la,048d23bda897b8833532f7eea057d09d6cc8
+oko.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
+oko.api.execution.prod.avo.la,032417dd78e0cb496cc0215994873ddbc585
+oko.api.execution.test.avo.la,0337621a95a92f80a3c61b6cf2fa8d3c0c6c
+oko.avo.la,032133aec6f58e01e7b8bb7610a1597056ae

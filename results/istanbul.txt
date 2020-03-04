@@ -21,3 +21,5 @@ www.mototaxi.istanbul,0361da915e26097c77f68f09cffc28542d7a
 webmail.ru.elitiumesthetic.istanbul,03b5cb31dd86852137dda2c3cecbdba8468e
 webdisk.growthhacking.istanbul,03bc61bfd88feede743423b7d5bb0956837b
 kargo.miniport.istanbul,03de6313e8ce05c394d36405efb645104b24
+turky.istanbul,03978480c1b52cca345909037f8c53c056e5
+www.wonderground.istanbul,0341c9d7ab220e2697a63f398f5b7f1f6b69

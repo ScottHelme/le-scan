@@ -30,3 +30,8 @@ webmail.metronews.ps,0374c99cfcb97e1f2347f1b1bb17c0c52162
 www.cdacharity.ps,048a1a69d3379ea6dda9dd0425f2dad1d5b9
 hebronlive.ps,03b834e1dfb79be09e9a1049a73d3d7fc3b5
 webmail.xomoda.ps,0388a06686430542db82b844172b2c62882a
+www.ppc-plo.ps,03555744d77b2c83cf2706c070c593d45504
+cpcontacts.roots.ps,03e47620be41c939da6a58120e06f06c301a
+cpanel.tesco.ps,039e2c1468775f64f54dc36b69941d631e63
+www.naqshdecor.ps,03fd96d29eee4ed73340428bcd6a2362f2fd
+cpcalendars.naqshdecor.ps,03fd96d29eee4ed73340428bcd6a2362f2fd

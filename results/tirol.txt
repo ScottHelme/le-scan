@@ -8,3 +8,5 @@ taxi-service.tirol,03de802f33e4900a4356c0b60023d86e0706
 harasser.tirol,03b5cfccdf7d411253495102244e96f123fe
 www.taxi-service.tirol,03de802f33e4900a4356c0b60023d86e0706
 cpcalendars.ohnegrenzen.tirol,03aa879a9d63a996714d7e98c21ba91cbc5c
+haberlhuette.tirol,03814431739250e424776f311e6aaf5deab6
+haberl.tirol,03814431739250e424776f311e6aaf5deab6

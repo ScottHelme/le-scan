@@ -7,3 +7,6 @@ cpcalendars.ith.gal,039c55e6838cc8ce54d31fa346265d936589
 webdisk.liceodenoia.gal,039369266ded8e431d382004e9503681ecf4
 bibliotecadixital.xerais.gal,034194f5d34bea3a4191261a4b5875e5e252
 cpanel.neurotech.gal,03fe7dae444bbd85b5e229c7f1710ab8b451
+agrarizate.gal,038763de923a8dc99ed26e590e17265f357d
+cpanel.ith.gal,039c55e6838cc8ce54d31fa346265d936589
+www.neurotech.gal,03fe7dae444bbd85b5e229c7f1710ab8b451

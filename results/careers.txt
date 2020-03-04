@@ -3,3 +3,4 @@ ka.aptitude.careers,04a9455a977b9f31a0fd39976f25a783e99e
 www.kt.aptitude.careers,04a9455a977b9f31a0fd39976f25a783e99e
 changeyourgame.careers,0496633c2959bbb8f089bc47fd80f7048cc3
 pelstate.careers,03f206b676c7c8ec0d9d51b277c62922851a
+www.pelstate.careers,03f206b676c7c8ec0d9d51b277c62922851a

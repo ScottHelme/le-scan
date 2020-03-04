@@ -16,3 +16,4 @@ webmail.greenenergy.money,04f3a78ae234ab0b724645386bce0f476c16
 www.sweepstake.money,03eb0058c7b57f2b11e2884837a9ff2a3e91
 nasdaq.money,03875d27e3c227205bfb18db4bf3ae112aa2
 www.eths.money,03875d27e3c227205bfb18db4bf3ae112aa2
+autodiscover.zerocash.money,046c5b814873b888d2535e1b77e74cbd3815

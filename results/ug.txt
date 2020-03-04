@@ -43,3 +43,9 @@ webmail.klarchdiocese.org.ug,038d190c1f63b8be486b60755a134476a44c
 autodiscover.datatrack.co.ug,030db9be83ec8a1b4c6c033e48712bc6b187
 webdisk.shuukuvocss.ac.ug,03d59d452978fbfaf564b91f9691f311914c
 settendaenterprises.co.ug,03ac5ba098f4c5437a50abeaf582356ae033
+cpcontacts.bornagain.co.ug,0489decad97e84d5d4f8ac26b127c50b3f9d
+webmail.sinotranslog.co.ug,037c06e4c8e69c6ffcd39d8c940239b19c99
+mail.frankbyaruhanga.ug,03483c854445c4707ccef32beb94fb7913f2
+cpanel.dailypost.co.ug,0487e414c75f09489eea2f114afe755c90fb
+zero.betpawa.ug,03e7611c9bcb5d4efdf67a6ffcd8f68362d4
+cpcontacts.akiatours.co.ug,03685613a71ad747e955fb07cbcf0471e01b

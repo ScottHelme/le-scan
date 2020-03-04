@@ -19,3 +19,6 @@ cpanel.dolomite.bio,0457f2b3badd0dee9557b71b2075e1352b6d
 url.cmd.bio,0318ffb9404764612a35589c766aa09b4ad4
 mail.apple.bio,039b9025ad9ae80a8733b3bbc2a1a9df4039
 cpcontacts.silvania.bio,03c3406f2817de35664c1985b8a290d94e00
+webmail.marocterroir.bio,044858505b2770e0c6e72428e93304fae328
+webmail.pomme.bio,039b9025ad9ae80a8733b3bbc2a1a9df4039
+networks.bio,032cead6c8c7099115362d8c4b3980fa60a9

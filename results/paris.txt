@@ -13,3 +13,6 @@ dev75.elbe.paris,030a5abde9605705f7a18066945db3129678
 lamaisonpichard.paris,035a79101a276afca9bfb1c82f698ebaf408
 www.labellevie.paris,0353e3b6f8e9920e26acb0744eed85e0d146
 www.keepkool.paris,03d28c7e7021fe3aae7c41932434f6155750
+cpanel.citytours.paris,03e6b282c2f5c9ae266c2ef93bbd0e8c2dca
+www.res.paris,03246135b64fd382f2d903ddeedb7de316d0
+fdj-corpo-integ001.goandup.paris,03f304b2771dcb023a172f76110abadc68b3

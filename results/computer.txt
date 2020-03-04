@@ -1,3 +1,6 @@
 internet.computer,038a429665b9e225816ed1dabf7e7d3bcca4
 mail.matrix.computer,032d8d1424e27c89e0d22aeb529ce995d3d1
 webmail.lakecity.computer,0329e6548e414a170e8532fc6fd628262dff
+nguyenphong.computer,030363cca9cd76f343d3378684d8347337f3
+www.internet.computer,038a429665b9e225816ed1dabf7e7d3bcca4
+down.lab.computer,04a6352eebf30640c71cd9c1fa639d9640bf

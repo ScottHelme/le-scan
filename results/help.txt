@@ -21,3 +21,6 @@ stage.medtour.help,03d607424539691b79a90fb8a01652604e98
 cpanel.drivingwithjules.help,038569c8bf5dbf7ca173c8d1d0669ec3f3f5
 bpim.execupay.help,033dc461965359a293b657204f6fd4d3e057
 cpanel.com-log.help,0459123a3f1d93c390e8f57130bc96848bda
+www.dwjules.drivingwithjules.help,032445a86dd7403a71c735f4778ef24f03e2
+www.dwjules.help,038569c8bf5dbf7ca173c8d1d0669ec3f3f5
+phenix.help,03cdcb272d93f7902a82d3bd671addd818a0

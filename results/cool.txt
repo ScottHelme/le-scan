@@ -44,3 +44,9 @@ subshop-shopware5-5.rateit.cool,0356256b3a218a15a9c2d179556950bb1c92
 www.lindsay.cool,03c117587167cda3386480f9b1217ff19768
 www.seopanel.inshop.cool,031298ca4d5f42aec460734ef64ae1b79cb5
 drei-fragezeichen.de.cool,03964c758bd8d128b17673912b77fb871eea
+vod.ioio.cool,03c8e1262911ef528fdb3b6667dbaa8b39e9
+m.int.cnyes.cool,03c84ca75010c17ed0f93898424f718cd08d
+cms.beta.cnyes.cool,03c84ca75010c17ed0f93898424f718cd08d
+www.cubecart.inshop.cool,031298ca4d5f42aec460734ef64ae1b79cb5
+smoo.de.cool,042d197289a28e63144488bc6112b052cc8c
+www.shadows-musikwelt.de.cool,0454a57c1592ee96a44bd4e8f1ffedbacf73

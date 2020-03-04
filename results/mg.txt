@@ -44,3 +44,7 @@ webdisk.becan.mg,0335b9e7863dac69c8e858bf83ecc88e3753
 rakotomalala.mg,03dfc9b8d46d04e75bff1056d7a73aacaf34
 webmail.accentformation.mg,032851cc22fa04161751aace7e8be1bed123
 mariot.rahona.mg,03353ae16b370da8fcee49f742f904554017
+cpcontacts.esv-madagascar.mg,04db42f6e6b55c54e5c3e25991797757a4f5
+webmail.bipsysteme.mg,03b6072a85c743439db24a4acd576be34d9e
+lareference.mg,040b0a1cb5d46bb9bd29509c9367910a1206
+webdisk.esp-antsiranana.mg,04a8091003de76da1c82cfd4637d6b40a03a

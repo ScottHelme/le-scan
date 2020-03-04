@@ -8,3 +8,5 @@ my.verum.pet,03b64c35956462fd2497cb555ab8dd2b9e0d
 cpcontacts.pet-parent.pet,04c638da9b9a4ba264b7b64a233eec505ca1
 mail.pawsetrack.pet,046019432ac46f79f6fa390a4c0fdaf1ff28
 www.diario.pet,039063817d0119121d81434483d8c20ba720
+distemper.pet,04ca574f6405aa934bfd1e0af0e88b132622
+fiv.pet,0445f453c4342a659426a509eb682335c8d1

@@ -17,3 +17,6 @@ www.petscan.wien,039fd7b3c5dad7637866134a8775c29ccf9a
 webdisk.firmensuche.wien,03b7208cd0551e7d984045df0fa5b621dee0
 webmail.viennatangocongress.wien,03371645b540094e89aa8a00d83da314e903
 pet-ct.wien,039fd7b3c5dad7637866134a8775c29ccf9a
+www.tonninger.wien,03764ed1340a2e674c5b92b8f404f0cdcd12
+agrana.wien,039bc6a3a3134a9302f3ff940354f2d130ea
+webmail.ssb.wien,034535104d652b15e2ae9cba8999cc852c92

@@ -17,3 +17,5 @@ smolenskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
 permskij-kraj.provider.promo,035dbb0db5c434be919d15b86db5f5477705
 yamalo-nenetskij-vtonomnyj-okrug.provider.promo,035dbb0db5c434be919d15b86db5f5477705
 nizhegorodskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
+samarskya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
+kostromskaya.provider.promo,035dbb0db5c434be919d15b86db5f5477705

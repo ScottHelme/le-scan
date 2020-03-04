@@ -1,3 +1,4 @@
 artdebut.dance,03d45add3a03a44010998ddf9fb94988fa7a
 www.prominence.dance,032e3d068c50924fda82f8ee29994a0df21b
 bwos.brisbanebalboaswing.dance,0338d154f478c9d425d51f5e9a97b9e1dc4f
+www.folklorche.dance,04e5e47558db9630c63dee895cc0def93d58

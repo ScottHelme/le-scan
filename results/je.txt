@@ -11,3 +11,5 @@ webmail.poltergeist.je,033c70eab79d338b8ae4d08365fe7b493612
 surveys.je,036d23d09def55b65c2c8ce5bdc7d35b03ec
 cpanel.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
 www.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
+webdisk.ianwebb.je,0317e2cff287e831708c62e3b874635d1204
+webdisk.paulwright.preview.je,030725a6a7e288853b2e28134f95d6a834cb

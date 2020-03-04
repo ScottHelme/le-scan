@@ -7,3 +7,6 @@ webdisk.ktl.band,032b22ee70119b1c6fada1e20d94c9dfe494
 cpcontacts.dialup.band,04fa36f78d4e2d4b957bb87e8c960468fcdd
 bajotierra.band,030f1122ccfcaa83db95355d16326847a881
 www.ktl.band,032b22ee70119b1c6fada1e20d94c9dfe494
+www.lightupthemoon.band,03fe4d1be31d1158d792504ccb12f3445479
+mail.dieperfekte.band,037dfe54c60a52d965974f55750877f985a3
+cabinfever.band,03eee650975d1c7e11fa92fa807225318213

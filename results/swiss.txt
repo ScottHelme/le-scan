@@ -13,3 +13,5 @@ www.avabox.swiss,031119a38374fe77782250d8b96d51de2085
 www.avacube.swiss,031119a38374fe77782250d8b96d51de2085
 xwa.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
 www.treuhandatelier.swiss,03c58123ec65f971b7a0f8eed22abba5c1a3
+www.solo.swiss,036c7929966ba72bf80ba82c1f6a94211241
+pop.glasex.swiss,035a412bb31d2aa5629af3844573cc65ae58

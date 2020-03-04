@@ -45,3 +45,12 @@ cpanel.law.uokerbala.edu.iq,037b088f8296d05203e44fa5789f948ed4d1
 provider.com.iq,03bd46c14cf518020003ecf27c8e3b2d18a6
 webdisk.ebd.iq,032aa201f273d917bacda564710db1ba0be5
 cpcalendars.science.uokerbala.edu.iq,031b8e1750c6d5d8a47b32448eb7d140496e
+webmail.cbcs.uokerbala.edu.iq,031b8e1750c6d5d8a47b32448eb7d140496e
+webdisk.haval.iq,037ce3d9a61f0761d6dd8750241627e502f2
+autodiscover.bcms.edu.iq,030d4d3218aed21e3fb94517270f35659d76
+www.st.iq,03a32e60d1efc1ee0dee641b9103f07767a7
+webdisk.iraqsky.iq,037e2f0ba62815aaaed5ae4d91ca8ec3549c
+cpanel.ss.iq,03dd3791c5ad3ef0e8de7e21a7e44ab21903
+hewariraq.iq,03ce3260591e3f84d323ada1273525d9e324
+kerbalacss.uokerbala.edu.iq,0395afb8f9fd47459be42f795dd4601cfea5
+mail.license.scopesky.iq,0304379277acf4ec53835a9c7f09f55aabd8

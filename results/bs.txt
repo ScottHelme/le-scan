@@ -3,3 +3,4 @@ www.suaitalia.we.bs,030cde7f4ab8e357c9a756bdf94e1bbe8db2
 d.suaitalia.we.bs,030cde7f4ab8e357c9a756bdf94e1bbe8db2
 www9.suaitalia.we.bs,030cde7f4ab8e357c9a756bdf94e1bbe8db2
 v.suaitalia.we.bs,030cde7f4ab8e357c9a756bdf94e1bbe8db2
+s.suaitalia.we.bs,030cde7f4ab8e357c9a756bdf94e1bbe8db2

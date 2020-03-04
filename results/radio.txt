@@ -11,3 +11,6 @@ www.dm7ds.radio,04df1cbcd3e118ada8b812682a5bb355104a
 cpcontacts.malecon.radio,03842d16d333442d3896d02e69927f4129c6
 mail.wb7eux.radio,03665928af66c467689866adc3cba52d79d6
 www.malecon.radio,03842d16d333442d3896d02e69927f4129c6
+admin.scratch.radio,04da700ce8bf1a6a4d3530228f705e83d7a0
+webdisk.n0fy.radio,031bdb9ddfe6f70f28585dbf6185210f8e03
+www.admin.scratch.radio,04da700ce8bf1a6a4d3530228f705e83d7a0

@@ -2,3 +2,6 @@ webdisk.cardy.cards,04120401e57b16020cb399bea761b13c4bd7
 webmail.cardy.cards,04120401e57b16020cb399bea761b13c4bd7
 www.comparecredit.cards,03d02ea7d55b5c25a2a8c090bf4f6cdbe742
 webdisk.starrs.cards,030baf50c05a852e493732a03d1897574897
+elearn.cards,033380b15aff03164a0db73efa2a1f8ec64f
+www.starrs.cards,030baf50c05a852e493732a03d1897574897
+cpcontacts.starrs.cards,030baf50c05a852e493732a03d1897574897

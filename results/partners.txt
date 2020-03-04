@@ -10,3 +10,5 @@ cpcalendars.wiki.maverick.partners,0395e15325aab64d013b714c7deaabfc5627
 www.concept.partners,0390f61d9763a2fb288a5f80ae88f4d19e7d
 cpcalendars.blocklogic.partners,0308f16980c30c0bddc6502efce97b8e5937
 webmail.wiki.maverick.partners,0395e15325aab64d013b714c7deaabfc5627
+whm.maverick.partners,03fd5cfecfd19a3b7984a083cfc3055b4999
+pt.effinity.partners,03053c5e8124269752912d2b0621f184ee30

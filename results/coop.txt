@@ -30,3 +30,9 @@ sql.quiplusest.coop,03acb0d4efde6bed0893a58786ce6d1b022e
 test.bigsolar.sharenergy.webarch.coop,03dae89f7ca934b44d0e68680422732299df
 mail.sctv.coop,037836c8181ba2688c4002e834ea66d135ad
 www.cacsi.coop,03e1a66c3333cc989d5a3c75dc9e73a640f9
+urmc.uor.colab.coop,036e53e72f4b7ac3d50967ce894864e8613d
+autodiscover.elabore.coop,0492a24a92681ffd29fc88c61d2585078e67
+ipfs.stage.colab.coop,030a9e6519e04ddc8a7b60f01a8228d4013a
+www.ppec.coop,03a1d54492a8ede33f71cc286777409a5342
+blogs.fevecta.coop,03edb4a8e296ec025d9af7d703753b362d55
+cpcontacts.lacuinadelcomu.coop,03c5a2c6474ad835a7c8a6e43968bb79c25e

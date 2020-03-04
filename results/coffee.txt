@@ -18,3 +18,4 @@ cpcalendars.globalcolombia.coffee,03d4c95346b3294db987718e88fcfb788b46
 webmail.bagira.coffee,032cbcb71f2ad161e084a942e6e88bde93a8
 webmail.wanta.coffee,04862b2d6e4818a7de671cba20f09388a612
 lovepeace.coffee,03b214adf6a89dda763293fb6ef5345f75c1
+bitbucket.8-bit.coffee,03ec67cb80305ef41aaef7ffe62a28c13de5

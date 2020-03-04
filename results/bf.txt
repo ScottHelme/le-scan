@@ -2,3 +2,5 @@ www.mines.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
 www.sp11dec.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
 www.mea.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
 mail.millenium.bf,04487cda4b8770cc0074f18b410f856e32e3
+www.action-sociale.gov.bf,03aeff38870dabc6bf0b65495c4dffde25a2
+home.e-millenium.bf,04487cda4b8770cc0074f18b410f856e32e3

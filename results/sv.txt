@@ -17,3 +17,11 @@ cpcontacts.opticasfranklin.com.sv,0352aab3d335cd34928261d335446da85392
 cpanel.svnettest.sv,03fa212b78c83dbb4d69046e1ab891039b92
 cpcontacts.gpsplus.com.sv,03d6e4ec40f3fc64a22dea843c1bba703a0d
 distel.com.sv,04562193cf516efd8c0cc2bb0c901e4b3008
+prbs.shaws.com.sv,03f38e9f5920c7cebd1d7f72ab1a9d1358eb
+webdisk.gpsplus.com.sv,03d6e4ec40f3fc64a22dea843c1bba703a0d
+autodiscover.svnettest.sv,03fa212b78c83dbb4d69046e1ab891039b92
+www.goldtree.com.sv,039415fd877ab780aa359928fbac68867dff
+www.hackfest.sv,03da0f5257ab5af4247fc40e51d9f624fe46
+webdisk.montajes.com.sv,04684b75053ae4c6b62cc858b4031aefeeed
+yxy.com.sv,03992a108a985082f11bf74f4b0665635a8a
+webdisk.hackfest.sv,03da0f5257ab5af4247fc40e51d9f624fe46

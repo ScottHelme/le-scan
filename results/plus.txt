@@ -20,3 +20,10 @@ mail.desk.plus,03a57b8a90d1f9de30963b1dd46d28820254
 jobmatch.plus,0309cd0ea772ee9a9776d0cdb8012d66aca7
 www.valueprofile.plus,03032e9b2b9f2429963197b2c65b8fe0ad98
 manus.plus,0340486fb9521a79af9ca4e39755ff39486e
+dg.plus,0368c4cd6ffcd909bc5612646e8e224bd851
+www.dg.plus,0368c4cd6ffcd909bc5612646e8e224bd851
+yonetim.panel.plus,0320e8cfcae3c1ab556b71b9ccee82d6d030
+vinz.plus,0387fc04e0f1671287df2123462cef50a544
+www.kiraz.panel.plus,0320e8cfcae3c1ab556b71b9ccee82d6d030
+cpcalendars.cpanel.plus,049f8fb022fdf71f961595035b6cedf2029d
+mail.vitality.plus,03265ea02ea955460770b7a27d7db025bce7

@@ -9,3 +9,5 @@ www.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
 cpcalendars.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4
 www.imacau.com.mo,0323b02a81cd2e67c32e9c05a4ac98460a6d
 webmail.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4
+gb.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+gb.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1

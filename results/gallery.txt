@@ -9,3 +9,8 @@ cpanel.magnolia.gallery,04bceb3d0c5d5ab4c8b97a1019567fe2deea
 mail.aries.gallery,0357a29b62b6ca7acf74815e9788482747cb
 tst.cavern.gallery,04c24efebcdccfd8d81d3486c0aab5eeb0e4
 www.magma.gallery,035343ceda310db12ec299ba643cade95af4
+maya.gallery,030be03473a6bcb5f4e67657f375f3a82bc6
+geyer.gallery,036b69ff180a8616cb376261465c18f614a4
+www.camera.cavern.gallery,04c24efebcdccfd8d81d3486c0aab5eeb0e4
+ipfs.staging.ark.gallery,034073b972e0a05946e6395e571d2d721322
+www.maya.gallery,030be03473a6bcb5f4e67657f375f3a82bc6

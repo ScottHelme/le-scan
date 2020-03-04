@@ -34,3 +34,5 @@ www.ictservices.ci,03893a2b497763cc0361ce01a8adc06bfa32
 webdisk.ebc.ci,0303b2f2d8c834d3b6ffa64a9eed9c5ce81b
 cpcalendars.tramtransit.ci,04e5e407c9128794e773fc12b1b65b0ee20d
 mail.tramtransit.ci,04e5e407c9128794e773fc12b1b65b0ee20d
+www.reussiren.ci,03f81b63d57807b77d5a86c4232561915c3d
+cpcalendars.kd-securite.ci,0382a19d83f8c08e9db660b5aaa5cf07cc7d

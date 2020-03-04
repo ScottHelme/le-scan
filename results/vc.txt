@@ -33,3 +33,9 @@ dn.vc,0408857a3cf6a57017bb1717b87bb3b010e1
 loja.pragas.com.vc,03f1dd746f132e424f14783f56645e4b4adb
 cinemotionlab.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
 cpcalendars.markaprime.com.vc,0390491bda31b537ce88169a19c3f2778a24
+gibrotuts.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+cpcalendars.cozyprop.vc,0331324eb9da3ca87531a7537dd39f620873
+webmail.icloud.com.vc,04e4a565c3db47e6cda0679ecf98e7dfdc53
+imagens.flix.com.vc,04bea478c510e753538dc247fe77a78e95c4
+webmail.garcia.vc,03d7b3d509a84130773edaaf3581875caf9d
+autodiscover.icloud.com.vc,04e4a565c3db47e6cda0679ecf98e7dfdc53

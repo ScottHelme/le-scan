@@ -1,3 +1,6 @@
 www.russia.insure,04f94d71f6929045b170ca6b790a8aab4289
 www.org.insure,036750d7b466d4a6c6f8863b72d13a8cf03a
 cpanel.awg.insure,0398d20c46942ba7040d2fd94fac66afd2fe
+webdisk.firstchoice.insure,04061f01415bfacc318cae6820a4759ba334
+www.acacia.insure,03d4264d77d01431c9bcaadd5e289c29b8a2
+cpanel.acacia.insure,03d4264d77d01431c9bcaadd5e289c29b8a2

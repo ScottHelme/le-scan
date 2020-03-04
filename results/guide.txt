@@ -9,3 +9,6 @@ kufstein-guides.kufstein.guide,040a5371bfc8de8fc59f18e3012da8d9a702
 mail.nocost.guide,037e148660beab75182c8f667d5c723f16ec
 webmail.nocost.guide,037e148660beab75182c8f667d5c723f16ec
 bulb.guide,0320e1ee8430430bc76f7672935d4209ec1e
+elearn.guide,0330e417bb0827a5682d2772eb98f029900e
+cpcalendars.marketers.guide,03a85b4e75a8148f48aede05cbe5243f883a
+derby.guide,039768371b9260d732a0e01a92fd5f4d35fa

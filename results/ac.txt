@@ -5,3 +5,6 @@ cpcalendars.ogx.ac,0332fe6053ad3f38a3121e1405e8dbd03aea
 www.dwd.ac,031e56e97552ba90dd239b6f3d8a001136fc
 traefik.dev.sylva.ac,03aba5b8e64019772b786f6286254f652113
 webdisk.cbmx.ac,033556fa80ae7991050da8b1df3af506934f
+webmail.ogx.ac,0332fe6053ad3f38a3121e1405e8dbd03aea
+spa.unikam.ac,039a6d4ca7b1bbba296e1caecee233629248
+autodiscover.rdi.ac,03b060be432d09cb0a01562f8fdefbb4eceb

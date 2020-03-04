@@ -7,3 +7,4 @@ arts.iua.edu.sd,0462e1e3de714f1416d473cf54247a76d738
 webmail.semcon.sd,03e575270f9aea853fdd0e255eecd1d305cc
 www.semcon.sd,03e575270f9aea853fdd0e255eecd1d305cc
 shariea.iua.edu.sd,0462e1e3de714f1416d473cf54247a76d738
+mail.paykam.sd,038a6e9a4014505c03553898efe591bf7bd5

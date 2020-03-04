@@ -3,3 +3,4 @@ cpcontacts.confucius-institute.joburg,03d6e52eb779af7c95f319417d0d745e4b7c
 autodiscover.confucius-institute.joburg,03d6e52eb779af7c95f319417d0d745e4b7c
 cpcontacts.nrfchair-diplomacy.joburg,03bbaad0fc98c0e34f8256ee598c4ee716f7
 www.lindenglassworks.joburg,03001797b3de01a65eb0c415eea21470315e
+mail.nrfchair-diplomacy.joburg,03bbaad0fc98c0e34f8256ee598c4ee716f7

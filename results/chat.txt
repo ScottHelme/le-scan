@@ -8,3 +8,5 @@ le-27.kat.chat,03a9bfb5e65ae316e0f02c69cb8497e44a45
 es.staging.kat.chat,03a9bfb5e65ae316e0f02c69cb8497e44a45
 rss.parajsa.chat,035880aac96e4e758908a76f577d48a090d2
 fruitninja.boo.chat,0397686ab440d030a88e506b10e5639dc245
+plchan.chat,0358b15d26bc50ad21f2f97fb650ec59fd7d
+ru.staging.kat.chat,03a9bfb5e65ae316e0f02c69cb8497e44a45

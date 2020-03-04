@@ -12,3 +12,4 @@ cpcontacts.bikerbeat.ooo,0318c439d85d5e933a47db6317911d7b67ee
 mail.setiaykk.ooo,03a330cb2d034db4b7090849be357249de56
 gabriel.ooo,0466773d5be5231e4723f2a32d5a976bcc99
 cpanel.setiaykk.ooo,03a330cb2d034db4b7090849be357249de56
+autodiscover.roscom.ooo,04b6069173cff376819d9eaab3e72779b599

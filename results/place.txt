@@ -22,3 +22,12 @@ carpet.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 pet-care.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 house-painter.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 itsafe.place,04ba9425bb2ddd0969856a9f28dfd818548d
+www.laundry.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+cabinets.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+animal-hospital.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+www.painter.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+hair-salon.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+mail.all-in-one.place,0324b4d561944d40deb3215c4c13c538d889
+betterhealthierbodies.co.place,0330e2902246059ad2f329d8e590cef0a936
+financial.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+www.acemachinery.co.place,031f92882529cedcc73d538b850f81157b06

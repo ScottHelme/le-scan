@@ -49,3 +49,13 @@ doq.to,03cc505a03bb1645295c3a2fb95e1f928c11
 amp-job.goo.to,03886b68f3528866580b79f623d1ec6a1c5e
 dbadmin.10100.to,03efe0eb2f8ba1f2a50d959c1238524ce83f
 jerrysblog.uk.to,038973af8b353f8399a91db99f4d5c58decd
+mp3.galactic.to,04c7ead19eef0fa23f8e2141bb894f44fd1c
+dev.coopaccess.bnk.to,03be1b16bdb435fbcde44ec4e1e0ec1446f9
+office.pdx32.us.to,032f3979fa6dff1991bb17b39a07b82a1111
+cura.tion.to,04d895a2432fb347015460298cdfb2976792
+autodiscover.mted.gov.to,03b41b7e8032d20f9d6241ac1c0810368c30
+myip.10100.to,03efe0eb2f8ba1f2a50d959c1238524ce83f
+costbot.rd.to,044fa207bd7a65b3e6112a51264c12d02032
+events.ernst.to,03b1845f4d0c31f7d315e66bc1d485d7f192
+hyper.to,03388eae025792d85d8af229114beac7a119
+cpanel.movies132.to,0334eac6401244bc05c343dff49ec1c8c1df

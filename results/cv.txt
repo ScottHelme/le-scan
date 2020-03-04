@@ -18,3 +18,8 @@ mail.inktoner.cv,035a07df88ae539925e864ffc12b0dd459ca
 mail.delivery.cv,03d64aaff4ead23b6c97a7751e57dd02e564
 webmail.tendetudo.cv,03b1d8e503025eba7adc7a6f3bee6f411350
 webdisk.aguasnoa.cv,04391e9a100c2371dee0bd71f60c002aa0b5
+www.kibali.cv,03fb519c1a59565361935190352b7405f0d1
+cruzvermelha.org.cv,0380d44290ede1f70d61d81e8f6e4705813c
+autodiscover.cruzvermelha.org.cv,0380d44290ede1f70d61d81e8f6e4705813c
+cpcalendars.inpharma.cv,049e07c90b9b92c99cf684d4aa8f49b3d862
+www.kibo.cv,03cc687cb1b2c2ca0f708a0fe1ba0179f30c

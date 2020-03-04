@@ -117,3 +117,5 @@ webmail.jearsh.bid,03ffedfda7ca865cc0f1fd99a4dca2c2b61b
 ngtld.bid,0356329e567dd0c76a1823ea2bc5d9d5704f
 baltimore.bid,0383b5f0f6789385e5d12cc7801b530e237a
 www.serverz.bid,034341d39c2adb38fa7a00be471b7e76625e
+cpcontacts.jearsh.bid,03ffedfda7ca865cc0f1fd99a4dca2c2b61b
+webdisk.jearsh.bid,03ffedfda7ca865cc0f1fd99a4dca2c2b61b

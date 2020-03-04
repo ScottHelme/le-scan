@@ -32,3 +32,8 @@ webdisk.openaccess.school,0318e3e6c873a75c8216c74ec26dd6067745
 shirley.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
 ayb.school,03d545197c013c953201031ccedef91093e3
 cardio.school,0489451bc119530a677018f3ee383d777e91
+www.openaccess.school,0318e3e6c873a75c8216c74ec26dd6067745
+valerie-bey.esprit-livre.school,04a9130fee45c0f541e350c5da5ea9412b46
+autodiscover.openaccess.school,0318e3e6c873a75c8216c74ec26dd6067745
+www.shadow.school,0367947fab5ef1da43af1892c9d11d94ecf7
+www.glory.school,0338bf41819f1f5a85a8f0e9669a07cb93aa

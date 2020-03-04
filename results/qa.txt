@@ -24,3 +24,11 @@ cpcontacts.ddaf.qa,0437025f593b8613a02f3de676c427bab2f7
 albandar.qa,03797cc076ede76b4cec1330ed58f3c6d854
 cpcalendars.sktcc.qa,04c70a0253423843bca123d31aae365c966a
 webdisk.permianwax.qa,031e9362266a03346bc13fc3651681fe07de
+autodiscover.cms.qa,038a38202823a1f489dea53005c5d513a4b5
+www.servex.com.qa,030e2f0aafda3c832a269638ce42a2f21521
+www.servex.qa,030e2f0aafda3c832a269638ce42a2f21521
+dev.qres.qa,046f396af7fbf9aac2a585437d0513df4f20
+webdisk.brilliance.qa,04551fa108bba7749d0e544a8ec002e8eb0e
+cpcalendars.globalsupply.qa,038a38202823a1f489dea53005c5d513a4b5
+webmail.essa.qa,033621b94669f7f4492efc26fd13b8d40006
+www.thetorchdoha.com.qa,04ccf591b609fde0272e6582222b09fb1aef

@@ -37,3 +37,8 @@ imap.brainstorming.sn,03e5dffb48b440a19823a5b0e6487467d72e
 imap.rysarahotel.sn,03e5dffb48b440a19823a5b0e6487467d72e
 tmp.immobilier.sn,03d88957e7b603717a93b4a045972a02249e
 pop.getma.sn,03e5dffb48b440a19823a5b0e6487467d72e
+imap.budget.sn,03e5dffb48b440a19823a5b0e6487467d72e
+mail.socomaf.sn,03e5dffb48b440a19823a5b0e6487467d72e
+pop.globalimmo.sn,03e5dffb48b440a19823a5b0e6487467d72e
+mail.semis.sn,03e5dffb48b440a19823a5b0e6487467d72e
+mail.progressen.sn,03e5dffb48b440a19823a5b0e6487467d72e

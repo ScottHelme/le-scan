@@ -18,3 +18,4 @@ www.daudi.chaki.foundation,03eb826923b4317893870cb0754afc49175d
 www.brightfuture.foundation,0326cd5e1b95e2d201dd9949a780213670e0
 le-59.pilots.deliver.foundation,038f07cad9bc8e1ddda33083b4e5d676a267
 cpcontacts.deaf.foundation,037e383fe1ebbb80c5912ddf369d6b316f2b
+www.theallgood.foundation,03d85b808dc0cf19add342a9bf58da8b78e9

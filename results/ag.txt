@@ -19,3 +19,14 @@ em.dsa-marketing.ag,034fc0f16e7b6ba6b72028519cd54d2ea217
 cpcontacts.mhvida.wda.ag,0395865f455e3d59f8a270f73e8d4632f7ad
 abstract.i-motion.ag,03790a1b59390b9a2d24f1ed8bb942f0bbe7
 poweredbybushel.ag,035aa86e4e72422db4a28f8ff538989d04bf
+jobnet.ag,0309cd0ea772ee9a9776d0cdb8012d66aca7
+cpcontacts.clubo.wda.ag,030421005edbd987e509b825141e9167191c
+webmail.sft.ag,03c8a7b4123b867fd64ff6b87954e8e89b5b
+mail.balandis.ag,038853073324e1b2953be76feb84f37ee88b
+etc.wda.ag,0330eee01b268909ec4b19a726afb83ba616
+www.textomatic.ag,030a0ec1da9961a8744fdb8d7db0eb0d8f53
+www.dsa-marketing.ag,034fc0f16e7b6ba6b72028519cd54d2ea217
+odoo-02.istec.ag,03ea75eb8a28d42d0d556378937f1a93b1da
+www.1588.ag,03a4f0ab63493a009a31580154bde94f9567
+cpcontacts.etc.wda.ag,0330eee01b268909ec4b19a726afb83ba616
+www.1589.ag,03a4f0ab63493a009a31580154bde94f9567

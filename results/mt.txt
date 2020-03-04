@@ -20,3 +20,8 @@ pexxi.com.mt,03bd90a4eceee39e57c463a9a3a9f1ae3dcd
 www.sakosushi.com.mt,03bd90a4eceee39e57c463a9a3a9f1ae3dcd
 corporate.klikk.com.mt,03f6c00d437a7d722afb6a4e2b8516f5d953
 chophouse.com.mt,03bd90a4eceee39e57c463a9a3a9f1ae3dcd
+cpanel.helicopters.com.mt,03f035ca78fbf9bf1bf5ba45dfc3750693ff
+cpanel.helifly.com.mt,03266cfe98130ae256396583466c7f826611
+www.sscs.com.mt,03640db0c1a949a8cc42ac0fabe979e41fb6
+www.enemed.com.mt,03ed14ab2482f2af07c83daaf058711348cb
+webdisk.mscc.org.mt,04e6c9680051470e0ad21e07b2d0b409dc54

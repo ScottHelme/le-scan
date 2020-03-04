@@ -13,3 +13,6 @@ www.silentdiving.training,03a899eb9002ab684eb6b3e1f953aa7b275d
 www.genesis.training,03f3fb0313ff0a2cfd5005506c17f6e5df64
 cpcontacts.chdt-mot.training,033a339d9403b14f7f1b7e964d23cadb5cc1
 jaccs.training,0365f617f3ac57de37c296343c7fbec528d4
+www.hackinbo.training,032c205dbb003f9336d300dac9936210096e
+cpcalendars.fostering.training,04193471cdb69c069b238e2bdfeeaa5779e9
+webdisk.ccba.training,03bbddf0ddcf44c913e19b1898d026af4cfc

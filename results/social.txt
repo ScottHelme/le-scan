@@ -9,3 +9,7 @@ seoonfire.social,04240cb8e369bfed4d297dcac5e76265c807
 www.cardedeu.social,03c1f449b52d0aa2f506a01161af96b55db7
 m.daan.aan.social,03077a429af0a598b60f84119db21e790e8e
 www.seoonfire.social,04240cb8e369bfed4d297dcac5e76265c807
+photos.mnfed.social,0333e6cda94876454cb05e78a9ae81607a83
+cpcalendars.ownit.social,030fd3742692766f0d3ff8d3046a7c51809d
+webmail.publi.social,0359f843c076f820a1deb6f2aa2a1a7aca60
+www.marco.social,031204e2136c9b6338ff97370ef995aae4c4

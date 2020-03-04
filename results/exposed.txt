@@ -3,3 +3,5 @@ cpcontacts.poker.exposed,03b18f17695336c01684e541c3d3f763eafc
 hurt.exposed,03af8c95967afd007886dee299d969a0a371
 havit.exposed,04c3e147dea7b8d206b4baa8e361349d6526
 www.alsaud.exposed,031311cef2c374b8b892e192bbd96986de3b
+www.poker.exposed,03b18f17695336c01684e541c3d3f763eafc
+www.wars.exposed,03bc29c83aa7da44756c9c84081d6af8ab7c

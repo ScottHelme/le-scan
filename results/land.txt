@@ -13,3 +13,5 @@ cpanel.srv1.madart.land,04acd8072439112c754eb030aa7cfaeb6ab8
 cpanel.samurai.land,04734d8b857d0279b89cc33fe9a2cee0f7ff
 webmail.srv1.madart.land,04acd8072439112c754eb030aa7cfaeb6ab8
 webmail.magento22.madart.land,038dc4ad6da741c1f7af624cedaa145664e5
+madeinice.land,04a782c854b2e30d6f6f1178b3101e5ee4af
+madein.land,04ba41d8560d9140d67fc6dc195c1666aea0

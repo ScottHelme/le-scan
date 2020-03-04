@@ -26,3 +26,6 @@ cpcontacts.addaviation.aero,04c5a8d1c4bb3a4c9d7281a18da190460369
 cpanel.dis.aero,04650e9c53da7b5d49d12a8e4111de61baa3
 webmail.flylevel.aero,03a83d7137479e34723b99121a428aedff0a
 www.addaviation.aero,04c5a8d1c4bb3a4c9d7281a18da190460369
+mail.dienstleistung.aero,04e9092e50987622ae58b9ffd305ae334c1e
+webdisk.panjet.aero,0340959d9391ca57dbc4239198bf9a978d05
+lool.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52

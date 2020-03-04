@@ -13,3 +13,10 @@ www.olk9cookeville.dog,03eb6aa5a24165b57f973ade431e0e9ecf60
 www.olk9.dog,03f99efc8e7b9ffbb048d8b5bbbb67cbc8b5
 www.olk9tn.dog,036faf1a46a9a027311f7d5ae293d2ec704a
 www.olk9wv.dog,031e7fb5a74d08b2f984b6239abe07ea0039
+mail.olk9cookeville.dog,03eb6aa5a24165b57f973ade431e0e9ecf60
+mail.olk9.dog,03f99efc8e7b9ffbb048d8b5bbbb67cbc8b5
+mail.olk9tn.dog,036faf1a46a9a027311f7d5ae293d2ec704a
+mail.olk9wv.dog,031e7fb5a74d08b2f984b6239abe07ea0039
+staging.doggr.dog,035ad7a6869fe2aeed97110aff33675a0f83
+cpanel.tibi.dog,03534d6df4d5049a725d58b08f17eff24bfc
+wwwmatt.know.dog,03d72aab33f083e66bb7c059ae741642b95c

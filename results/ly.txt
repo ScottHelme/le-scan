@@ -13,3 +13,4 @@ ueberwachungskameras.uxact.ly,04ccc57b7143a7b32dc387a516f21e3f269d
 englishtest.elmasar.com.ly,03786501178481bee99732a7feae6a20e874
 cpanel.sloven.ly,03347fa23680a5a9a764f9450d5c0d36a47e
 britze.uxact.ly,04ccc57b7143a7b32dc387a516f21e3f269d
+promeq.uxact.ly,04ccc57b7143a7b32dc387a516f21e3f269d

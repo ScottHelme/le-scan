@@ -21,3 +21,8 @@ mail.nativelook.software,03546ce89e5bb797c9d99b43066bc8b353ea
 healthy.bytes.software,030511659fdc57fba981dde1309c793930ff
 workflow.prod.ada.bond.software,0397c99cf28913ff4b5e66fe047f7d75e62f
 demo.oasis2.software,03b1e861e078e8ac117b58bd670ed50ddc76
+demo.oasis.software,0458609293f3a68ede85bf26069fd2903798
+prod.usanz.bond.software,0335eb82906f3ef7e001cd695255da8e81d1
+cpanel.nativelook.software,03546ce89e5bb797c9d99b43066bc8b353ea
+aks.devprime.software,031403bbd92f647cd6197be577eb32b7a9ca
+www.avalanche.software,03dac1f3593c2cfc031037597afab32ec6b3

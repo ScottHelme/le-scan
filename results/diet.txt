@@ -1,2 +1,3 @@
 internet.diet,032c389fd7aa4ae2c35c8536fc70a9f5ed67
 sood.diet,033b936e7b56f5207a7ae4f17419d33ffab0
+www.internet.diet,032c389fd7aa4ae2c35c8536fc70a9f5ed67

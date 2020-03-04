@@ -32,3 +32,13 @@ www.hezw.dofoy.fr.nf,03025bc4b2c79f02ec839a3029d2d2773e65
 habe.dofoy.fr.nf,03fa5c43a5980a8b6d53f72b580b59bde674
 vstzk.dofoy.fr.nf,03fa5c43a5980a8b6d53f72b580b59bde674
 tqoyv.dofoy.fr.nf,03fa5c43a5980a8b6d53f72b580b59bde674
+tdwom.dofoy.fr.nf,03dc72ea745eab6d1b1a46c3a4e38e3ff4f5
+cpcontacts.teams-dc.fr.nf,03cde81200a3e34c6b0f8ba68eacd62db19a
+blosoangop.fr.nf,0447a477b8a1f7acc140daed1ca1351f1657
+www.hfctd.dofoy.fr.nf,03022e6962c253fa793aa893ddb5140ad88e
+www.liuxy.dofoy.fr.nf,03146123f5958843d30e8532c17cb04d2c26
+sxhbj.dofoy.fr.nf,0348e8ad435876367c5f720a19d815d9e748
+trjso.dofoy.fr.nf,03453ec67491bc513329599e72db147f86df
+bitbucket.ninjafactory.fr.nf,03a56ed03046d841e6ef696a32778d13d60e
+sxhvs.dofoy.fr.nf,03dc72ea745eab6d1b1a46c3a4e38e3ff4f5
+www.ybmys.dofoy.fr.nf,03453ec67491bc513329599e72db147f86df

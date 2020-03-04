@@ -4,3 +4,4 @@ cpanel.greenlightauto.repair,03c5b5b77d09a1886365531636dd37e8191b
 autodiscover.roofingmississauga.repair,0355b614245c5e25c8604df7e6cae1701560
 webdisk.star-point.repair,04a705074db8bdbb0698eb00fc44f7a4d6a3
 www.star-point.repair,04a705074db8bdbb0698eb00fc44f7a4d6a3
+cpcontacts.star-point.repair,04a705074db8bdbb0698eb00fc44f7a4d6a3

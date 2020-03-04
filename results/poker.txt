@@ -1,2 +1,3 @@
 cashtour.poker,039a476f0ab318265869dabbbf654c1e53af
 jims.poker,03353eb08ac075a0ee93e30cb6b9face41f5
+infura.sha.api.virtue.poker,04f15251e3074e2860b06b8c8e7312073292

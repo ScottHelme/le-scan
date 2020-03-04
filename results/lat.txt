@@ -9,3 +9,7 @@ mail.sisoi.lat,03d9fd41870ea7989647b8025e96d44c643b
 www.bitram.lat,03fbceb01adf730ea105554615ecf5ac8a4b
 webdisk.meridium.lat,039f2f961e4c70db13d9e4ccda9bbf3b4d92
 grupomedica.lat,03d7f9c501a40fbfa3f77cd7df5cb92ae371
+webdisk.fusion.lat,0307fae1452ddd34e41c68d3087a4a46faea
+mail.grupomedica.lat,03d7f9c501a40fbfa3f77cd7df5cb92ae371
+www.clia.clia.lat,03b15a2e9fca86e76958e5d066eb20670333
+www.clia.lat,03b15a2e9fca86e76958e5d066eb20670333

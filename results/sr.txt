@@ -15,3 +15,5 @@ cpcontacts.mvv.sr,04713995060da88e7bfac5d776f99042555e
 asianv.asiainternationalnv.sr,036636a31d3f595ecc866a663814b31df1b0
 asianv.sr,036636a31d3f595ecc866a663814b31df1b0
 status.ride.sr,037a52723ca688b5373b0fe83fd1a2582c89
+cpcontacts.360marketing.sr,04648e918e3ebe670dbcc7ca5d62dd8d72f0
+cpcalendars.iearn.sr,0305eab8865ad325d693377d7672f43a6bee

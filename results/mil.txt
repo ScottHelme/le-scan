@@ -38,3 +38,14 @@ www.cac.mil,0339d7daccfd806472a2d3cfc612c730ee78
 v3.myafn.dodmedia.osd.mil,04ca7fd5a3d2de73c828f1a53a86d5e93ae3
 www.dma.mil,0339d7daccfd806472a2d3cfc612c730ee78
 mcdonald.nrmc.amedd.army.mil,0375089069441b1586dc28dd599c71f6400c
+www.nap.usace.army.mil,0351b5e94dc7e184d5b8097c3b8699d264e4
+www.nationalmuseum.af.mil,03b2855955432006585793614bc1b4a8d911
+www.whs.mil,04366afccae8ec0988e844fdd02557609a86
+www.dodig.mil,0339d7daccfd806472a2d3cfc612c730ee78
+www.recruiting.af.mil,03585eaff6373ac12ec9e65864b11190c0e1
+www.4af.afrc.af.mil,03b2855955432006585793614bc1b4a8d911
+www.niagara.afrc.af.mil,03b2855955432006585793614bc1b4a8d911
+imp.myafn.dodmedia.osd.mil,01de3f
+www.creech.af.mil,03b2855955432006585793614bc1b4a8d911
+www.pacaf.af.mil,03b2855955432006585793614bc1b4a8d911
+www.keesler.af.mil,03b2855955432006585793614bc1b4a8d911

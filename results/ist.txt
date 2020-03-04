@@ -11,3 +11,7 @@ www.track.ist,0458ad5a700e420b31b6418858688f4315d7
 www.digidays.ist,030f7ecddda22179c35597f40d82589a8246
 mail.mythic.ist,03848e2fe6dbbf4b1bb5de4fb714ec5427f2
 turky.ist,0383dd2b217ab7d70e5c760cdb06f747cdc4
+tasit.ist,0312e959b4bb9df927d21bd6c3e7df187e92
+webdisk.peron.ist,031feca1a732afaf6e124dd0b9c42ecd4a8b
+www.doorhandle.ist,03e545b520a9d805b67d51d63ec83c74f74f
+ps-ayakkabi.ist,048379eab5d0f842855d179d20046161f8ea

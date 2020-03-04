@@ -5,3 +5,4 @@ cyber.report,035115c30c2986d8938b8f583b9722ce551d
 www.arbitrage.report,0343b89443ea1ba0274374fe18e3024f2697
 app-admin.mylab.report,037a0f72eafde5692d0e5e398c43ef3fce7a
 com-msg.report,033b77128a44c53c143bc5a2dce2fa3a004f
+doctor.mylab.report,037a0f72eafde5692d0e5e398c43ef3fce7a

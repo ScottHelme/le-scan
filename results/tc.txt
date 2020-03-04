@@ -33,3 +33,11 @@ webdisk.merkezteknikservis.net.tc,043ee32348df95cd3f603d93d4a246c5694b
 cpcontacts.petshop.com.tc,0315f94b23683663840a5099bef8e47b20d7
 cagrimerkezi.net.tc,030830dbad02a692fd1aea006243f56fef4d
 ppml.tc,030ce505af4f9dd45f162d441c89a9d26dd5
+ayca.fy.tc,0341c68fcf5e22c08506730bbc01f506667a
+webdisk.toptankontor.com.tc,03526b153a85aa1f15da7c0284bb4b785129
+regal.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
+www.matbaacagdas.com.servisler.com.tc,0381a233f158dca1c80497b03aad01ef43e9
+www.petshop.com.tc,0315f94b23683663840a5099bef8e47b20d7
+keratin.be.tc,03e5fd5443623573e84f6aa1c08cecb3d372
+beko.servisleri.com.tc,03de8bbb5daacc90d65d9dd8f0aba9b3f714
+beko.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314

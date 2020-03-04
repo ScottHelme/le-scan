@@ -3,3 +3,5 @@ www.votare.funky.ong,0335dc3fe6b2ecb702a270503e38d465dbba
 www.optzecist.ro.funky.ong,03922dd73a019e6173a64d1e78090f61ceec
 www.piatadespaga.funky.ong,03922dd73a019e6173a64d1e78090f61ceec
 www.factual.funky.ong,0312b2acf039f01daef96032dc8723e935cb
+fife2018.filantropia.ong,038fb9f3072d2562b137e5fda38a4ac5d645
+fife2019.filantropia.ong,038fb9f3072d2562b137e5fda38a4ac5d645

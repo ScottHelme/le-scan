@@ -13,3 +13,5 @@ webmail.diinta.so,04dfb0495757df2dfecbc2b52cfc3ba17f8c
 rn.cd.test.kru.so,0337150136f30e0399911612535b0e9648b4
 webmail.adnmedia.so,03a63b00bcf051c1f3dfd8a85a0887321ac7
 blockchain.so,034c8f53666e0d026e4d878f3616a104efb1
+webdisk.sahalfinance.so,03d8af58064abd135d366af5546c53edb041
+cpanel.dhaqaaledhowr.so,038a7d0e8ec3ffbd9510337220c4c4b5c991

@@ -9,3 +9,5 @@ avata.industries,04ffd7bf9f78df1dfda470c4b4424b5f49d3
 treble.industries,0366a163f8e7e54260921934f9eb7f932c99
 www.sulphur.industries,0399a484f425f8c7f1c76e840ff3b95612ca
 autodiscover.preston.industries,03da11fba36eaa1710949fedc67a29288297
+www.glazing.industries,0390f61d9763a2fb288a5f80ae88f4d19e7d
+bde.industries,03c990ac65721808395d1fffdb8ee461e035

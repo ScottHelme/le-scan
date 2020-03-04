@@ -19,3 +19,11 @@ www.kosena.bible,0317d579b6b1832298a72a5089aef88fbb0f
 www.hack.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e
 together.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e
 www.angaataha.bible,03106c6332748a6afdd7855b775f7f347029
+www.bola.bible,039def34429b5903098f5b48f450a1a64988
+gwahatike.bible,039def34429b5903098f5b48f450a1a64988
+www.cbd.bible,03430c439e8cec902b21a07fcc8d3025a389
+www.dedua.bible,039def34429b5903098f5b48f450a1a64988
+www.gwahatike.bible,039def34429b5903098f5b48f450a1a64988
+www.ubir.bible,039def34429b5903098f5b48f450a1a64988
+adventistcommentary.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e
+www.tkjv.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e

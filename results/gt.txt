@@ -60,3 +60,10 @@ webmail.zonar.com.gt,038385d9474db770794fd08fef915e7629dd
 cpanel.odontostetic.com.gt,04305a903b1604db58fdfbcb87a27ba54e38
 webmail.contrapoder.gt,0365dde64ef1928752a950b38b5506cac268
 mail.pmfkhj.we.gt,03110926084a4940b2c1ac76b8e66b18f5de
+cpcalendars.oka.com.gt,036e7a832fa80cd6682d2a1a4785094d3be7
+cpanel.hosting.io.gt,04a73fbe4141895bcef09f065a897d7666e1
+cpanel.wordplay.com.gt,047f5447bdeb07835ec183cd844d93751ece
+cpanel.denimart.com.gt,039513124d6fa1ac09aac695561b12dfa38d
+webdisk.matematicadiscreta16.io.gt,03686e9d8f9973a57a5e707b954abcdb8d9e
+cpanel.ceramicagenesis.com.gt,0339e97e241f4eb959d2addaa95359a43dbc
+congresos.ccqqfar.usac.edu.gt,04efbb4e8c33a19e65d03dfcbd129712a935

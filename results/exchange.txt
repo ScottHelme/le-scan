@@ -8,3 +8,5 @@ cpcontacts.gowowx.exchange,043ddfa8d66d77588ece85934fd35dcbfcb6
 www.arbitrage.exchange,039cbcca51c9afe094f456fcd0da17e48420
 coin2credit.exchange,046db775f2351cc64dc0560cb9a81cf3750f
 coin4credit.exchange,0317d579b6b1832298a72a5089aef88fbb0f
+webdisk.cbucks.exchange,03ed5e311783b7bbc1258359f6f7b237bc35
+incoin.exchange,032bf42e20504c476ef1985240c0e507bd0e

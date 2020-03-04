@@ -2,3 +2,6 @@ vanavaru.villa.mv,03037a141d5e4bade39fff4c2eafcb461f9c
 www.lga.gov.mv,03ab4f629973e02b138f42de8a578559e600
 travelbay.mv,03581942cf8081539e3477a93fb550c684cd
 autodiscover.crosswatermaldives.mv,037197bec17ff309681527bf697835a16e45
+thelanga.com.mv,0310219865035b492b44e2c2262a089b5beb
+www.maleoffice.com.mv,03e30314f1a5298204cb2672ed64d7423b19
+mail.accord.mv,0333e65655c1b14da2473a72d82b0f40c60e

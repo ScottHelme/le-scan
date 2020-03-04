@@ -24,3 +24,8 @@ autodiscover.shopcameras.youget.deals,034aaa46648d5ee196834130b3272830f8a0
 cpcontacts.vines.deals,039d9bd6975a7103e4b449301cb8a058ad3d
 webmail.your-ukulele.youget.deals,037ee6a4abc8eb7b65805a020ab5327e61c2
 rims.instock.deals,0357042b87d2d4c5210ef5319914c1bfd014
+www.terrific.deals,032c87f3351e4409271371f32fe8907ccb62
+vinyl.instock.deals,0357042b87d2d4c5210ef5319914c1bfd014
+cpanel.shopcameras.youget.deals,034aaa46648d5ee196834130b3272830f8a0
+www.xboxworld.youget.deals,03bbd323230c5e39eca3d8e8d93db9dc347b
+trumpets.instock.deals,0357042b87d2d4c5210ef5319914c1bfd014

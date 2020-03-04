@@ -1,1 +1,3 @@
 bulbdrying.equipment,033754a03c3640dce473f2ef52a564e429c0
+seeddrying.equipment,033754a03c3640dce473f2ef52a564e429c0
+bde.equipment,041ed6de0f4e22fef4f9fcbc12ba616164e7

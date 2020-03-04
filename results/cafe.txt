@@ -13,3 +13,8 @@ www.steakbox.cafe,03bdc926451a86b4bc65dba625f4947ee957
 www.doom.cafe,0338781f3beef1517950c55358c5018f6a39
 cpcalendars.skyblock.cafe,033472c8eab0dd5d1d26dc0b5b3f128dfccd
 www.psilocybin.cafe,03b6b7931db5033108178d34a0fafc4fad38
+webdisk.fairplay.cafe,03b353c5795e8175669f65603408cb5e0c17
+cpanel.helium.cafe,04a48720f7992bbb03a3e4b47c39171939c4
+plchan.cafe,039def34429b5903098f5b48f450a1a64988
+webmail.fairplay.cafe,03b353c5795e8175669f65603408cb5e0c17
+plch.cafe,030e5b4c4a773fbc21f8557c19b28cf4bea5

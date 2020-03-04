@@ -65,3 +65,17 @@ www.reunion-trail.re,043dcef224aeb3c1168975aba5f1bafefd9d
 sfd.icrc.re,03292b2e152e2aae2e90f6d1e8f1dd0449f1
 www.reuniontrail.re,049c81b20551bfa1bf520823c250cd426357
 cpanel.6figu.re,032bf2b497fa994d9685db5774411c17e9f7
+www.kafrine.re,0348e8daccc89cbbe0395e9aab3cf5de5d42
+gpsadm.tsi.re,03687e6721be73dc62b8cd142db552242770
+support.tsi.re,03687e6721be73dc62b8cd142db552242770
+www.chrysalide.re,0340fcb44108271d6a62199f377c3723ebc0
+gpsapi.tsi.re,03687e6721be73dc62b8cd142db552242770
+www.moodle.re,031b42bdc8ffe2878468d20662c36f67928f
+pacetraining.reuniontrail.re,049c81b20551bfa1bf520823c250cd426357
+shop.p2c.re,04a52a1716391b4ecb183d60f5c70601c8cb
+mail.rui.re,0498d50fc9c21ea4764871d390904fe71c39
+talk.tsi.re,03687e6721be73dc62b8cd142db552242770
+portail.domotile.re,0381d6429c1b05b4d41eff8f41238756d989
+webmail.rui.re,0498d50fc9c21ea4764871d390904fe71c39
+autodiscover.reuniontrail.re,043dcef224aeb3c1168975aba5f1bafefd9d
+site.mithril.re,038ee3a2020a8bc8881a63980b5382aa160e

@@ -10,3 +10,7 @@ www.peace.delivery,0361953e8067fb2f90c2c1d00bb132b40b5b
 ce-bas.demoprod.dxp.delivery,03284deee3b0de9b8b4f9047e18602f5fe05
 ce-bas.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
 ce-bas-ukloc.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+cpcontacts.hair.delivery,0388558a7e4e01f434812ee395cbe341d602
+apiv2-dash.seu.delivery,032df654ca6b18b7d1f8f981e483eac0d3b8
+login-ab.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+apiv2.seu.delivery,032df654ca6b18b7d1f8f981e483eac0d3b8

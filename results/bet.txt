@@ -23,3 +23,7 @@ cpcalendars.itv7.bet,04cf7174cdb9a7a8f566a70d0e799e702d37
 ch.invictus.bet,032ef5e310a2873a093884fbffbb88851f0c
 www.okna.bet,0334e70db1d2da861ff9bdbcde5744206d8d
 hu.invictus.bet,032ef5e310a2873a093884fbffbb88851f0c
+cpcontacts.asiabet.bet,034672db7235c3ac0c568ce032b1b19afb86
+www.thealphabet.allpro.bet,03d6d8c6305ea02fc88ad0cbeebd59bf1479
+bg.invictus.bet,032ef5e310a2873a093884fbffbb88851f0c
+www.iwin88.bet,0353587566becc636ba293bb46e2a2003dbd

@@ -33,3 +33,8 @@ webmail.allcity.rw,03094de5d4d65660de135393f5e25064d923
 cpcalendars.megapesa.rw,03173e5e66e7b694f4298ef5fe03589c1238
 webmail.megabit.co.rw,046bb53ace2c7917bf0ea40e33f232036353
 cpcalendars.abfoundation.rw,0308188e8fda43668ba2b235ea4891a7cbd4
+aceds.ur.ac.rw,0359234bafa4a929b412e560c27cef08dddc
+www.collegesaintandre.ac.rw,03f025b89a6ecff704ba8a10a4b11aec49cb
+fabrice.co.rw,03bce1f41b4767800979ed8fe91413576fdb
+mail.netechengineering.co.rw,032c8d0f1ee18efd7bf5c9581ff2b05f41fb
+fabrice.iotech.co.rw,03bce1f41b4767800979ed8fe91413576fdb

@@ -4,3 +4,4 @@ edom.golf,04ba20e1b08a9ebd517c45e0d69b3236ec36
 mail.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d
 kalamazoo.golf,03a87fc45d7cccc811b0445882a3e69f5b56
 www.oncourse.golf,03cb0500c8c3862a9dd48fa378e5aa954530
+www.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d

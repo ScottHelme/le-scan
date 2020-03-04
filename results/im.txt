@@ -60,3 +60,13 @@ mail.haq.im,0486a0400cd52e4db0b077757b7ae86a9e42
 w.msc.im,037023f9dc722a4b3fbb2fd8dd2d19d3fba5
 cpanel.prepaidcards.im,03e02f1a187cb10d82d3ce2266bf00134302
 www.catalog.im,04a7f9246869bf190fafd0d7ce8b97741ad2
+mail.rug.im,04a005023e3488dbc291880fc0cb8f446fe7
+cpcalendars.prepaidcards.im,03e02f1a187cb10d82d3ce2266bf00134302
+cpanel.haq.im,0486a0400cd52e4db0b077757b7ae86a9e42
+webdisk.writer.im,03c8a4aff451935ab49e30a4086c5eed73a2
+webmail.rug.im,04a005023e3488dbc291880fc0cb8f446fe7
+cpcalendars.epl.im,045c2fa9fa3506cb96cf8a62b0a09f5fd628
+autoconfig.gsn.im,03e9133044771c81e78be07ec7ebd18dfdff
+cpanel.hitlist.im,03b3b4b76663b36daac3228c8a7301fa0f49
+www.robvinefund.im,04096b5eb17c75a477acefbfdc33047deae9
+cpcalendars.brokenheart.im,037b2d2ff5bac87fca72cfaf55124d66d9a7

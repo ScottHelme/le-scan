@@ -7,3 +7,5 @@ barc.amsterdam,04767051837c3b36705bcd82c79475eb3081
 www.demo.deverbeteringparket.amsterdam,03833874663ae9fb46aeecb2f7abe69ee3d5
 www.9straatjes.amsterdam,03ca71cc6fe07e67165f04baad33574314ca
 fabric.amsterdam,03b07bebdf496ab88211562af91f21ba2c1e
+kmvrijbushuren.amsterdam,034e7acbf99825492d84a83b17de7c85a7e8
+auto-poetsen.amsterdam,03bd6f9d73b093d1bad0c0bad8903398f59c

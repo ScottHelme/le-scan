@@ -23,3 +23,7 @@ domoticz.insane.wtf,039f40625022bd1d1ced36992a12ef20bea9
 mail.mailto.wtf,0379ddb699553f3069f250bc593fe20b099e
 cloud.rudi.wtf,03ca6352d437c18a11bbf7973c7f2aa5c79b
 wtf.pony.wtf,03918008b0a0f2dffc24c15810853a63181a
+gitlab.banner.wtf,03f800b5b08ecd284daf04632067dbbf392e
+mail.captan.wtf,042388cedd64f2a5b9ca9a314ae6cd176a96
+keys.c2.wtf,0348e2c80f43f6e26fd7bf1da8100c30e1d8
+www.rudi.wtf,03ca6352d437c18a11bbf7973c7f2aa5c79b

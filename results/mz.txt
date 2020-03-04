@@ -45,3 +45,9 @@ www.segconsulting.co.mz,03264c96fde047620eac02e8aed4168e0fa0
 webdisk.codal.co.mz,04808e2661a543e5dbfa467e3cfa1eaad804
 cpanel.seg.co.mz,033dd35dd48648224a470fa9a5d644dcb7ba
 cpanel.segconsulting.co.mz,03264c96fde047620eac02e8aed4168e0fa0
+www.exames.eep.co.mz,04fbdae0af13380cd9c6ace0eb51a4a77329
+webmail.tl.co.mz,045ac6c52d3781904980f2b059fdbcb98583
+webmail.tl-grupoipg.co.mz,045d4fdff50ae789ea6de025204776d346f8
+cpcontacts.casadoaluminio.co.mz,04990d53cd63144e97ccb5dde11b41e8ab1d
+webdisk.plmfm.co.mz,04f7e12a3bae60b3ea966179d20a07979e7b
+webdisk.autoart.co.mz,0335a14bb39544c921c6518e4cc6a85d951a

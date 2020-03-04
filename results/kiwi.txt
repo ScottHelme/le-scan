@@ -7,3 +7,6 @@ webmail.workplacesafety.kiwi,047dde24b2bbc09c25447d45cdbac2125044
 www.workplacesafety.kiwi,047dde24b2bbc09c25447d45cdbac2125044
 cpcontacts.bdh.kiwi,030be10c634556175b1b08ff80182d6b8ce0
 cpanel.cafes.kiwi,048f658cd64b7a2cfd71abd1cc7eb31b90d8
+autoconfig.tiwi.kiwi,033e29cb338226d3856bfb44f364e5e65874
+cpanel.bdh.kiwi,030be10c634556175b1b08ff80182d6b8ce0
+webdisk.hotloaded.kiwi,04ced0c306c035a94c60346c38158c803682

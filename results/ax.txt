@@ -9,3 +9,4 @@ www.ily.ax,03f882f63b2f0ccb695c3c4ff683ab126bf1
 www.alandiastrings.ax,0387161a9f633f380303c3e7f031e53471e1
 sql.os.ax,0387dc702aee2489196f11ba5c775bf03d2e
 mail.intermar.ax,03c110382c56d25bb747ea8c47c006ce3df8
+cpanel.zoomcamp.ax,04d62cd3e66eab195725929e8a01b1d95cdb

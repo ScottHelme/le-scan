@@ -24,3 +24,9 @@ drkrieger.moe,03cae026152be992f0cde0010b54d0bd7b7a
 nero.moe,0347c3dd7ea3b8ef1f58fef24c7b27e13acd
 sstmlt.moe,03c69f48bd679ce4ede7382fd5921d9b77d6
 sstm.moe,03c69f48bd679ce4ede7382fd5921d9b77d6
+inner15.map.mirucmt.mc.saru.moe,0365393d3b347b130761fd65593cc81fc5cc
+www.mika.moe,0326a20f8f9b3a4bc7ec71fe8d24826547bc
+icecast.home.saru.moe,0365393d3b347b130761fd65593cc81fc5cc
+eli.moe,03bf5c01fbdcedf8338def193b9ae364d01e
+tmpup.saru.moe,0365393d3b347b130761fd65593cc81fc5cc
+webmail.adorkable.moe,03aadfbb1e8c9ff584ea8f28ef0d6a7cbf2b

@@ -17,3 +17,5 @@ zwinkr.love,032eb128deccdd721d6af929255e23ae6fd6
 www.hotsauce.love,03dc474db2cf34884c298cf2ba96c7692d32
 pt.coolio.love,0356d4456b0bff27f0869dae7abf7d2ed4ca
 www.victoriarose.love,037c5056d81c120aa6b259f4758a2ac9b9cc
+de.coolio.love,0356d4456b0bff27f0869dae7abf7d2ed4ca
+www.yabo.love,036475e927207b100b385d969be33a97c283

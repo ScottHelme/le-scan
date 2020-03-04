@@ -25,3 +25,7 @@ mail.bitbox.sh,03340740887feb3f82edcaca47af36f2adc8
 www.fl-aglaw.com.stage-y77w3ti-draeoe6d5s3sa.us.platform.sh,03edf3dbdec200f1b6f39ab291d13f3f01a9
 txt.2501.sh,03f86841d2d0507ac858d6db7b85bee51dec
 workflow.schleswig-holstein.sh,03c4e6483a184da4276201031f4a89ab3116
+www.jrod.sh,03606aa7cadf26b9e65745cd69f61158caf0
+mail.dogspots.sh,03a3d0451e4cdf9d6bdf1d95520fa41604b8
+bitbucket.kabuto.sh,0310107af237b74fb8804710728ce1c61d31
+cpcalendars.cis.sh,03ee7a72a2b2b429c5ca65cb0ec11e62c191

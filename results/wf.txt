@@ -2,3 +2,6 @@ cpcontacts.probugas.wf,03f4f6cc44db45174aea4058793a77d16fc8
 ftp.boulanger.wf,0385032d491a1713a0e75a4d3a1b2ae62a53
 dl.x9.wf,03a0dac1ae41970710a778b8b4b3135fd52e
 imap.boulanger.wf,0385032d491a1713a0e75a4d3a1b2ae62a53
+www.probugas.wf,03f4f6cc44db45174aea4058793a77d16fc8
+webmail.ici.wf,03ade065872a743fa35de6965457a231138a
+titi.i-love-poney.wf,036b287243af2a4f36ab672d70995d1c0aab

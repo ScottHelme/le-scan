@@ -5,3 +5,4 @@ master.ca.rapala.fishing,03475d6b23d447f295197ede7a61c1d93a34
 de.sufix.fishing,0414fa04ccdb46379ce1eb75f4bab76ca6cb
 saovicente.fishing,03323089660dee6397e90f7eb554e8e91565
 webmail.shor.fishing,03316465a25935e17b29a077717f6e4b2567
+www.shor.fishing,03316465a25935e17b29a077717f6e4b2567

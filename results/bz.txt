@@ -17,3 +17,9 @@ www.meanpage.medic.bz,03e8f0f6c2a7d7e619a97546e9a28796cd44
 www.kiraku.bz,036d5b7f3b46a26eeed9b5fda024e6b3be2e
 mail.crms.bz,0360b85d913df396e2a9a242d01b64544fb0
 digital-learning.bz,03d63258c35ed008bbe95c526d76a76e314a
+mayaguide.bz,036592e3d58d8773dc99a449ca5cb4488829
+dr-elsbernd.cms.hz01.mnk.bz,033b57a087abdcb515569fe24eb54425dfe0
+dr-elsbernd.cms.hz01.mnk.bz.cms.hz01.mnk.bz,033b57a087abdcb515569fe24eb54425dfe0
+cpanel.planb.bz,03656ea61bac1dad20adf37d3ef7a31de1c4
+www.mayaguide.bz,036592e3d58d8773dc99a449ca5cb4488829
+cpcontacts.mayaguide.bz,036592e3d58d8773dc99a449ca5cb4488829

@@ -4,3 +4,5 @@ webmail.elyonsas.bj,03636ed7e55bfcc85699c25f3b486ca25aab
 webmail.cetra.bj,0321e9c426402b42caa22c8c069a4e35fcdb
 mail.ngassociates.bj,0327f36b06b81a5b0fb2e2124e817d5f8624
 www.bluesquare.bj,03a589af03258b0cc2946745627d44ec3708
+mail.smartconsulting.bj,0304a270681798979dbc762b6f66262ce947
+hdf.bj,037837dc2bcd8e4c4a609be0aba40bf16b4f

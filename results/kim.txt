@@ -13,3 +13,5 @@ webmail.asansorcu.kim,04cd41ed28704fda978d8bb863278dcd7866
 cdn.keedi.kim,036cdbf621c7af74c8877212494648259f78
 dump.fuh.kim,03f465323d0aa199ac7fdbff378f68b4fe51
 www.juicelagu.erl.kim,0328703d8314d8747545ae7dde7b4d9d4df4
+webdisk.ankaraotokurtarma.kim,03a47b28fde2c79bda51b428c8b9a53b569f
+down.kim,032e7ec864b0ea55afe8e8814224012afdee

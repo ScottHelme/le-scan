@@ -4,3 +4,4 @@ cpcalendars.jobsincapetown.capetown,03aaddd8b824f2aa5bd2528e78d3d8a0843b
 autodiscover.onpoint.capetown,04699533e2fd35a521ab9ea97536a46f15d8
 webdisk.eatplaydrink.capetown,03582f7e454506d850fa08fc1ac507f0b61b
 cpcontacts.renovations.capetown,0412223497e79a70572910317dded55e1733
+www.internet.capetown,03edd293b2850336f31008960afe589fb1e7

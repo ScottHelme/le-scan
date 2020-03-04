@@ -6,3 +6,5 @@ leipzig.panorama.community,03070ab90020b461eab4ddbe8339b834528c
 hamburg.panorama.community,03070ab90020b461eab4ddbe8339b834528c
 custom.na59.demo.community,031e4cbae1146acd48d50e7bf322bf14dc79
 koeln.panorama.community,03070ab90020b461eab4ddbe8339b834528c
+www.schmaus.community,03c826d0aac386d7d5c3695a2124dddd3037
+beon.community,0362aaadb64d2c3b149ec148be70b4241aea

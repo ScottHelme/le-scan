@@ -1,2 +1,4 @@
 gabriele-richter.immobilien,033848958472d972509af3189bab77e82ff7
 permoser.immobilien,036596d9fa0de5565e57e4c2ce22c48dcefc
+jachmann.immobilien,037f358f607785886e5cb0ed9f1699f63db1
+pop3.mt-klaus.immobilien,03112aba561a600a21e0b3c83c57db0ac8c0

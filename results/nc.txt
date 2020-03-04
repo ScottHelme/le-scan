@@ -6,3 +6,8 @@ edt.cfa.cci.nc,03c364aa44043e5899b130d1bb0c095f3f9e
 www.papao.nc,03e6c01452df74a4683111e86a3ef43314cf
 test.bfc.nc,03f75e51e961edc8cd3603e71abc10f89a7e
 dump.optimal.nc,03e8eea0a985a3e7e89f5f680fe01d3bb01d
+jardiland.nc,03b7a11254510c301d588af7f19625da8511
+demo.optimal.nc,03e8eea0a985a3e7e89f5f680fe01d3bb01d
+www.jardiland.nc,03b7a11254510c301d588af7f19625da8511
+www.labilletterie.nc,036b3a5bd6c53d90fc2c7221b0a27348d572
+www.labilletterie.tickets.nc,036b3a5bd6c53d90fc2c7221b0a27348d572

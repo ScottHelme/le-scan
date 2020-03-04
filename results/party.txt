@@ -24,3 +24,7 @@ www.kutnginx.brian.party,03d8d3a1f76d5062f0df27ae713176aa0146
 mail.telephreak2600net.party,03de49f64e1eaa12e9ee4f0c2b4bbf0c0f68
 cloud.rte.party,037c69659dc8bea7e3d4172badf6af48335f
 cpanel.domainscience.party,0327ba8e665acc7d0cd428b8418bc9a3dc46
+cpanel.hosting.party,04fd3e71d487444df9081780d5196c0ea231
+www.peremen.party,03a3a8acfe232976d079883a2dd78acce244
+itsapants.party,038636e1f21fca8e7ef5509db1d44dca9833
+webdisk.mersin.party,03b72ce110c3d8856d01ea61ddba9939e827

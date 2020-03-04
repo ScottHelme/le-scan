@@ -5,3 +5,7 @@ www.rentistan.kg,035cd2ef2f877e86706efdbe3dba139a82d4
 job.kg,03f17ee1c79418b1a44c47fd7ed5d728a6e6
 cloud.rnd.kg,03d390e076a03bdcd8381d78c7d2c05af9a7
 tax.kg,03d390e076a03bdcd8381d78c7d2c05af9a7
+lb-24.com.kg,03a8f05c7e4c131b84c3ca9117cfb91f317e
+www.tax.kg,03d390e076a03bdcd8381d78c7d2c05af9a7
+webmail.lb-24.com.kg,03a8f05c7e4c131b84c3ca9117cfb91f317e
+speleo.kg,0370991589a604351c0c1a58ca32f8e5f981

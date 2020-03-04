@@ -26,3 +26,10 @@ cpcontacts.awklibrary.af,03a8664753113146f9217eb03027cb4cfc1e
 webdisk.ncdp.org.af,047082dee3609736f1c16e44823e73f5a9dd
 www.astprint.af,03f2a5cf4614820f8481dc6589e7a86cb16e
 cpanel.awklibrary.af,03a8664753113146f9217eb03027cb4cfc1e
+cpcontacts.didactic.af,03f67dac8dfb58344e971eeed0a5fb46fb2f
+webmail.cfra.org.af,0354b10e36bbaabae150cd86f252ead1992d
+sql.whitele.af,038bf45d36651c720b690bab5c7d5ad8fc2f
+www.disciplined.af,03eca9d30fb2f7d7e7d72c068d4f59e38757
+webmail.arg.aop.gov.af,036b6b0675b6d2145d5e2aa7ca2dbdd65db9
+webmail.argarchive.gov.af,035fa2fa5771bd8eaaeff475934599a2e910
+webdisk.suntelecom.af,039c5380fbf929b616f842776d81140edbcf

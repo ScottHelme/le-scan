@@ -1,2 +1,5 @@
 smartregion.moscow,04f472bbca0ce2f44820fe777e45fc77d0e5
 cpcontacts.mgt.moscow,04673b6f6e723194d0310bf2f9bcfacecda3
+digitally-enabled-cms.mck.moscow,036d5cc6a40c4c88557c982c92f68a86f966
+fdm.moscow,039b24c902b120fae79576671df3f7d537a4
+www.victorinox.moscow,038cc601129fa65965231130fcd3c811d021

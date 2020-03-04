@@ -6,3 +6,5 @@ cpcontacts.carver.vet,03dc58a279d1ae9a5e59f26737bd83601077
 cpcalendars.idexx.vet,037148d390c8ee5d3456f4019650c2d61d6f
 webdisk.ojaghia.vet,0361b15c811df76aa4a342e5fd39e220ec87
 cpcalendars.ojaghia.vet,0361b15c811df76aa4a342e5fd39e220ec87
+cpcalendars.canakkaleanka.vet,03dea05ef658ced0a11c86fe9299c1adc310
+www.canakkaleanka.vet,03dea05ef658ced0a11c86fe9299c1adc310

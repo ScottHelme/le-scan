@@ -1,2 +1,3 @@
 portal.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6
 lucht.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6
+dgpress.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6

@@ -8,3 +8,5 @@ mail.didieatthat.lol,03341d74dc4ba7f1e9eca4635bf0fb9a31e5
 warframe.lol,036d9171276296eb562e634706da3491ec4d
 webdisk.didieatthat.lol,03341d74dc4ba7f1e9eca4635bf0fb9a31e5
 traefik.glove.lol,03b97b4a2f24f9dd89542a1768b05cd5731a
+pop3.m3m.lol,03f541c450271d930c5d78ef8759e9711026
+cpcontacts.kai.lol,0312388879f41881950a2a48c947ddd8da9d

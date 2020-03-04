@@ -1,3 +1,4 @@
 whatsapp.ren,0383accc2c007ecf44faa9ca857a37be3c6f
 cm.newcom.ren,03a53cbee839f05972d45ae22267877954f8
 wx.module.ren,03ebac945154d87c27d9c847ccd9f6257cfb
+dennis.ren,0417d567b53751804c8c2417f1e98e22c734

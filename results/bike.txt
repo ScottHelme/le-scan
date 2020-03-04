@@ -16,3 +16,6 @@ mail.bicisport.bike,03f6ea7dfa6e1afd21ffa8f660c7e4b0d395
 www.motovlog.bike,0330d1f80a21d52c6664ee547a1c1d45018f
 www.internet.bike,031661dbeaba5b6e88c46f9260c6843251b1
 bgg.bike,04275a5e0d7db26b71974bffbb205744168c
+dcrando.qa.ridestats.bike,0327ed89e9942c3fe2bf99a8a0258302d83e
+pattaya.bike,038d00ff2fb51b0d9436dce7041a3693e3fc
+dcr.ridestats.bike,03e42c916610b7892320c8d3bfd5d6b529cf

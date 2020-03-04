@@ -17,3 +17,8 @@ mail.edj.video,0350ada6ba1ed909bb46ea175105e981369c
 mail.nativelook.video,0337f14307c340179143d21ff437e030dcf8
 www.ictp.video,033b916951ec679f1b90219ea7f657b19540
 cpcalendars.streamthis.video,0359485ae7b897706b5fbcfc26067a0ac2d4
+webdisk.streamthis.video,0359485ae7b897706b5fbcfc26067a0ac2d4
+mail.h265.video,03bb060630480cfd860393c0e216d5ff3267
+mail.h266.video,032645850ec5bee14ac280c7b1c97e7406ab
+cpanel.nativelook.video,0337f14307c340179143d21ff437e030dcf8
+cpanel.helium.video,0349dc0c4e92640ab94ebff967fd998f5176

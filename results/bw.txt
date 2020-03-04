@@ -51,3 +51,10 @@ cpanel.tropical.co.bw,035635b19db18612e4770bfe079b1e8e3e1d
 mail.rmc.co.bw,03ca1af4251e3fbdbe83e136a9b15c6b15b3
 webmail.ostrendo.co.bw,0324d8db2a1d1cfc1916d4698c39c7e630e8
 ravenmarson.zuri.net.bw,03904f9f85bd98ce54d8dd12bae9b29aaca9
+mail.sosiego.co.bw,04cb15ef844b04d5bdd18ccd8ad5ff6068eb
+www.bernardbolele.zuri.net.bw,032062d916a861386acfba4fd59fadb382a2
+mail.adinfinitumgroup.co.bw,049b9ceb1c01160b4d4b3d778d1cf6674cd4
+cpanel.lokwaloattorneys.co.bw,0307f88a4a13812841b7b5a772b7f913051a
+webdisk.protime.co.bw,036986cf77c1cbdf8500b9e654c576786d9c
+mail.sosolar.co.bw,03fd456b409dd73291544a1e545c4a3047e7
+mail.ravenmarson.co.bw,03904f9f85bd98ce54d8dd12bae9b29aaca9

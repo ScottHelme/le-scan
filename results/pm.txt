@@ -19,3 +19,8 @@ tv.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a
 webmail.sushi.pm,03d9a8103e9179c61209f67c4508ddf133a8
 www.dulapiorulmayei.ro.warp.pm,035b3ead089a9d48bc5a496e745408e46ec9
 s.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a
+media.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a
+mail.kob.pm,034bffcb30f68cdb923c186d4b4acd19151a
+www.tina.pm,03f02cd0222b35c8ac5e1658bd3b0b71a8bc
+mail.vitalis.pm,03941b12a9c74848722d57466cc46e519f56
+www.jom.pm,033cd5c405a708ac44f0ca4d6606eda6c73e

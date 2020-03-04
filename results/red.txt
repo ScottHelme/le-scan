@@ -21,3 +21,6 @@ users.dialectica.red,04e04708defc2d65ffbbf377f5cd2857754c
 www.hotsauce.red,0476f9d0b5c58cba2b44314d1c44b49a000f
 www.estafados.red,03e020a8c9e9759be43563ec7cf5ae25e6ed
 cpcalendars.markalia.red,03aa5168283792713dfb3af40561d9bd9c9e
+cpcalendars.terracotta.red,0356eeaf9904e4b697c2b76da4ffb31309f7
+xique.mmi.red,03abfc2c361c6cfb27eb22525fc359d216fc
+xique.weitu.red,03abfc2c361c6cfb27eb22525fc359d216fc
