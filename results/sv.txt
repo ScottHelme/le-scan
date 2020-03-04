@@ -1,2 +1,4 @@
 cpanel.isoc.sv,049cc80856541476bfbc6c490782b401abb1
 cpcontacts.unpocodehistoria.sv,0411079bae8a3b12e2a27f4971e3f1927f8d
+cpcalendars.sivarlife.sv,034b648291ec322b86decbc35fa7508c0c4d
+cpanel.brandfactory.com.sv,03d76466197c1c837508a1b724d4078f9bbf

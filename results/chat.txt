@@ -1,2 +1,3 @@
 jugendinfo.chat,03bf5de5aaeec88177a3b3cac72651f5ee08
 files.phpc.chat,04075771e26bbb5486427abab5c1f95884a3
+beta.exeter.rugbyclub.chat,0332abcb8bea241cedb43797fc486f6b3629

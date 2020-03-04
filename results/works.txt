@@ -9,3 +9,7 @@ brooks.uap.works,03268f3e7fb80fd14e3c41f0a4d2ffa8c9e0
 cpcalendars.ocmagnawave.jazzro.works,03b8203188aaf03a413a11b7aed630fb1f49
 cpcontacts.waviking.jazzro.works,0350c4e148de2e955b659072dca9a27bed0e
 webdisk.midaccounting.jazzro.works,04cf6662296e5838992b60d4ed3ac09a17db
+www.ocmagnawave.jazzro.works,03b8203188aaf03a413a11b7aed630fb1f49
+cpanel.rwpemf.jazzro.works,040166e475b96644cb1bbc8cfcef4d112f0e
+cpcontacts.dawnwyffels.jazzro.works,0325e8df34cc59a02be038dea66ca54a99bc
+christina.works,033068db5dd567b0a9f513526189bc163498

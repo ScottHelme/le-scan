@@ -1,3 +1,5 @@
 agx.africa,03bf310d765cfd1e4a50a1afb28181ef5089
 cpcontacts.data360.africa,031e3ec95432449d57eebedf30825c72a197
 www.destinationdestiny.africa,03e7244763402938ef03e53e62cc33ce1402
+cpanel.intra.vps.cloud-inspire.africa,030bc8041870bed8e4e4c9d1ada0d40993e9
+cpanel.quotesforus.africa,04d0abfa07335d280ea1db7c241631ea2c4b

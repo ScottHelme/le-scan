@@ -1,3 +1,5 @@
 cpcontacts.cres.wales,0468b9b03f69f858deb2270419e4ac5a812b
 cpanel.skyline.wales,03cf7c6809974599601008e8b180947f0769
 webmail.homeopathy.wales,03547d420e9a7c1876111d8afc81e4b9470f
+cpcalendars.tycwch.wales,0367a85f0c37473de7f1b99703c198918795
+www.ferroli.wales,03854372d4cc91b454d70942c621e1a3d0ba

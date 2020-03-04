@@ -6,3 +6,6 @@ www.60.de.cool,03a832f0df338128567835082ccd4b54e9e2
 lehmann-solutions.de.cool,03ea961f1b9141d9675d4a62bd654772c32c
 www.campuswesendorf.de.cool,03964c758bd8d128b17673912b77fb871eea
 bodysculpting.cool,03fcbd4fc523a8282478181127aa30052dfb
+avantages.cool,0490dd2d1197ad6d02d7655b230667517d5f
+hera-wptest.de.cool,0359131d928e4bd18fa86782e06a7f6a9414
+autodiscover.steveis.cool,0392a8ca7093fe00d910d9c3065dbbf9619f

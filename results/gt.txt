@@ -6,3 +6,6 @@ www.temp.colegiointegral.edu.gt,04264e0bf9c7b357c80de7e16ffddd4ac249
 cpcalendars.holamundo.io.gt,039d4beb917bd43bea360ee132f026f2e8ab
 lapromesa.com.gt,03be16e9a9f25d2eb40cf53edb5f83a85379
 cpanel.precalculo2016.io.gt,0384d882da579593820a91fbe9246272968c
+webmail.oscargarc.we.gt,03ab90548f94f16f8ac3ceb3e8b31ef0946d
+cpcontacts.nelsondionisio.we.gt,035b7003f5aacd4b58c419beaa4121180a0b
+www.nahelyp.we.gt,03c85e0e5235b234865c8ada85fd0a1d6b5d

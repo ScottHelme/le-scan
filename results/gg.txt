@@ -7,3 +7,6 @@ cpanel.guernseybirds.org.gg,04da889438a40a4a7ae84c5a0920e968631d
 devcdn.vaush.gg,03859076191724168ef30535c59c576b487b
 devcdn.vermin.gg,039bbb98d5a5c4f41167a82baa13cab02579
 gamehost.gg,036d9171276296eb562e634706da3491ec4d
+www.primeleague.gg,035f7df9afa5db596cb22f75c2e47629810f
+cpcontacts.esportbase.gg,03874aac3c3ee18518862ceb57b48dbf3186
+webdisk.trashtier.gg,03afc23f239dc7b1c7456950f91902abb13f

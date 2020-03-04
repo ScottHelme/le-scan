@@ -10,3 +10,12 @@ pagecomms.dikgosimedia.co.bw,03ffc25944589f3347dac38385e791b72654
 autodiscover.sosiego.co.bw,04cb15ef844b04d5bdd18ccd8ad5ff6068eb
 webmail.fc45.co.bw,03bb4132f0415196a4e5c2f3e16ec8dee725
 jaoleinvestments.co.bw,040c18c1bd376ca3084dedd2449c2855caae
+mail.nataguestinn.co.bw,033ac5feddb7a082996532e7d4c66294717e
+property4u.co.bw,0334e6ccc623209ff89015d767bc8c91a075
+cpcontacts.triscend.co.bw,036a8262c2a09df10fbdacc7310d1efdff51
+www.pikulgroup.3igroup.co.bw,049b9ceb1c01160b4d4b3d778d1cf6674cd4
+www.pikulgroup.co.bw,049b9ceb1c01160b4d4b3d778d1cf6674cd4
+www.pikulgroup-co-bw.3igroup.co.bw,049b9ceb1c01160b4d4b3d778d1cf6674cd4
+www.metrotile.co.bw,03520587394b32df8caa8241d7c5c782decd
+webdisk.classicintelphotography.co.bw,03fb7eaa7b6b6a04eb9d73f830bf7a125fb0
+cpanel.nataguestinn.co.bw,033ac5feddb7a082996532e7d4c66294717e

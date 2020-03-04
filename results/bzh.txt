@@ -3,3 +3,7 @@ beccos-runos.log.bzh,0359b154ef646b55c9a14d02ef345d970756
 le.sigwal.bzh,03b7b6791a43347beb7bd6366ed60267b459
 syncthing.penher.bzh,043ff0ecc67cbbc64a6f1fe598026c09f860
 konan.log.bzh,0359b154ef646b55c9a14d02ef345d970756
+du-libre.bzh,03d8e287012bc339634c0c072ceba7b8ead2
+www.juniorsenior.bzh,03a4bbb239dd0de07762281f3283625548b9
+tebesud.bzh,0378bb75e294a4bfa73111ea0aaa87870b21
+tebesudtv.bzh,0378bb75e294a4bfa73111ea0aaa87870b21

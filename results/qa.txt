@@ -4,3 +4,6 @@ webdisk.cms.qa,038a38202823a1f489dea53005c5d513a4b5
 cpanel.boa.qa,0304895474b7c4ba94ed2d6888024e5afdf8
 www.bazooka.qa,03769af133b5eaf46c9f3e84a1a37b19fd49
 mail.zeroori.qa,03bfd4a8f5ee97734e9cb3f207f17b983a98
+www.servcorp.com.qa,03429aaafcab4b4ae16ae307ede2a4f12718
+italianbathrooms.qa,03983485e2293f358a14f340ded8a843c22e
+mail.jewan.qa,03b740809c5d4ff723242aeefb9ba0052eba

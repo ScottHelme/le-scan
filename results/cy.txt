@@ -10,3 +10,9 @@ www.myfashion.cy,04f2836ddfed7665dc1bca4f682062cb5bb7
 apstecsystems.com.cy,03b0a3614f5351bcd0e7a26320ed1d171af1
 www.caravelhotel.com.cy,03c7a4bda17de7bf94e932bdfd2601a93324
 cpcalendars.directimage.com.cy,03e5e3db732094ecadd8f0c9a1685e76f1a7
+cpanel.dev.primecom.com.cy,0442ce07b0d3758259c012b7d735680e042d
+webdisk.i-print.com.cy,0358663069ec6ff10d13a3d57872cd3672d8
+www.iprint.com.cy,0358663069ec6ff10d13a3d57872cd3672d8
+snackfood.com.cy,037402b6b32bef169e07b7a052c56032a721
+www.larnacaproperties.cy,031fdeb0a96eb2fcd1938952b05311fc3902
+www.forsale.cy,031fdeb0a96eb2fcd1938952b05311fc3902

@@ -7,3 +7,6 @@ cpcontacts.acesso.click,03e5ff500c5c19fd1a2f5a4734718fb6405f
 webmail.hi5.click,03c68772ceb2faa82c63160658b7a8246938
 thumbnail.click,03382e94f87de60c6fbc138c084a03b4dd49
 coronavirus.newsflash.click,03639caacefa5df719ad17ae4dcfa5bec013
+nextcloud.go4it.click,04053b0a5a9d067bc7b5e7e0897f9effa7e3
+webdisk.anglezarke.click,03d6e6a5fab02397ed45e82ca3b4a4cb3b19
+cpanel.webeuro.click,03d5741c213a0be2a539a910a1f74cc0f4ee

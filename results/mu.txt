@@ -6,3 +6,4 @@ www.clubmedjobs.mu,030623d43cc7fb07ecd23f6ca290f09135b1
 www.pubs.kom.mu,03cc2715bbe95bf9f045fe0092513a65d672
 cpcalendars.eventsmauritius.mu,03950a7556e67e9bdcba3440a438a9c0b776
 webmail.maurice365.mu,032e5b56ef989430f7bb75fce5e3075eaf72
+webmail.msf.mu,033efaf8f1f45575fc65387d6cba802012ea

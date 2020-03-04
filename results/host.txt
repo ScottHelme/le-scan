@@ -28,3 +28,14 @@ cpanel.redoya.host,03aeb7c5f0088575b77e92d8c5438909c640
 mail.whois-privacy.host,03972afb6bb29beb293d69e6ac4c41f0f14f
 www.arapi.host,036879cef94162dd3915cde7fcbebbc7e8f3
 webdisk.bulut.host,036fc302c1214944816ece56e4f879fc8617
+mail.eteform.host,0325daabc71cefcb4965a1cb69221f7b41af
+docs.snufkin.host,032d55785158b1ac6804832fb4619c653b04
+www.whois-privacy.host,03972afb6bb29beb293d69e6ac4c41f0f14f
+www.aupem.sataa.roauf.host,03a6efa23e450074fa006422b0224dedd657
+files.snufkin.host,032d55785158b1ac6804832fb4619c653b04
+cpanel.davidgrisaffi.com.roauf.host,03062a5d9dce289235f9ab0c73fa3d1fb733
+webmail.websitecloud.host,034ad3ad802fbe6c033674fe90aa744477cb
+www.castrointernacional.sataa.roauf.host,03e3ab0e78e989d4d07e7e63ce5f32094dfd
+webdisk.fmedits.host,03e0d3c785f6cb0847cf2056b582106fadb8
+mail.global4k.host,0329e88d268ebd2bc8b183f4888686501753
+cpcontacts.siennanation.com.roauf.host,032bc22b0c7da231628fe1ff4ca118c0c034

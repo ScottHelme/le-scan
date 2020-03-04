@@ -4,3 +4,5 @@ webdisk.ysgoltremeirchion.cymru,037a5cc4f3eb222de3352a62086c1d91dc3c
 evi.cymru,04347e5d94877d9cce27d86b09e77556bcf8
 www.thema.cymru,03b627af2eaa5d84ca553187be922a68d685
 mail.afallen.cymru,03870662e03f91c404c9ab0f9fc86b82ee46
+cpcalendars.cyrsiausabothol.cymru,039f631f45ee0777c7cb3bbe5f6463ad6eb6
+webmail.cyrsiausabothol.cymru,039f631f45ee0777c7cb3bbe5f6463ad6eb6

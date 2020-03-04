@@ -20,3 +20,5 @@ asc.devdb.netfonds.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
 asc.devdb.nt2020.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
 asc.devdb.ows2kunden.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
 asc.devdb.portaldemoal.nc7.team,0365cfd6cbc45521b64ca22177fa75bc870b
+webdisk.ihtilaf.team,0323dfb3caa17e14c5c6378769805ecb91c1
+apeldoorn.analyze.team,032f1556500fefb859a9fb078ea590dd788c

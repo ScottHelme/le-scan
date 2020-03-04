@@ -1,1 +1,2 @@
 ebs-cloud.vu,0352b5e889900a046047f43b97e34f0dc40f
+webmail.insta.vu,0486769304aec16434ba3ca3aca29b4ac5de

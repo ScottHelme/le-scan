@@ -1,3 +1,5 @@
 mail.culturecafe.scot,03d8018afe129c97f945536dc9cdba34249b
 doodle.scot,04c85113b25b223b3cdd2ac539d936554ce7
 gender.scot,0675
+mail.revolution.scot,033adcdb6ab32a392dc7a9b9c24d68136b4c
+webdisk.sgeulachdan.scot,0383566c3ef0178ed86bcd425bfb4b1793a1

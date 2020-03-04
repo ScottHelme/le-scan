@@ -10,3 +10,8 @@ www.crediestar.link,038a0ec47764249184214de88ec4ea6bf78a
 apt.clearer.link,04ab30dfb397a5343bb6460ba91bfe72ceab
 cpanel.jiffi.link,035cde643d06e78c5b4b2459e4e28e9d6145
 webmail.polaris.hibiki.link,03a06f02c7f71080f9b62174a4a9730796d7
+getto.link,03b4f3c2a7f73f3fef6a920b6eb4375d0ca6
+sauib.keenetic.link,03aae93d8017208c42e32e8370b4bb41be71
+cpcontacts.elmundro.link,03aa6ff5100f37b3867d654fc2b69ed34c46
+cpcalendars.cyran.link,03875b0bdc1440c96dde86184dc217c9ca55
+mail.getto.link,03b4f3c2a7f73f3fef6a920b6eb4375d0ca6

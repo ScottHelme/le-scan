@@ -1,3 +1,4 @@
 cpcontacts.meridium.lat,039f2f961e4c70db13d9e4ccda9bbf3b4d92
 atcares.lat,0402e7f9db03923c2ea1aaaccc934ae9772a
 www.endemika.lat,03322d042fd61c65fc7d360dfaaa53d4ca5a
+mail.cctv.lat,034ce1c141805e8238f4a79feed8c5c881fa

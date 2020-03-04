@@ -1,1 +1,4 @@
 cpanel.development.foundation,032a303d5e0d50549de890297cbcbdda7b51
+support.digital.foundation,037c3176a3f8d597fe61448d7404c46e0a5c
+cello-iot.hoogwegt.pilots.deliver.foundation,038f07cad9bc8e1ddda33083b4e5d676a267
+mail.paramchaitanya.foundation,03ed818dbdb2afd8e059d53cced8eb2cf068

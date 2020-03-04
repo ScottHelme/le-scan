@@ -28,3 +28,16 @@ www.ujbenglish.co.kr,0365b3659f63abaf5fb178fbe2127759b6a1
 m.studyon.co.kr,03e65e2ff2afd794fc5c3698a57a256bc3ed
 www.meli-melo.co.kr,0456d4ad46fc03c840f2e9f730a69cd1e4f9
 testlink.co.kr,031ab36c2f2176c50610021830a8c2bb0dad
+dairry-korea.kr,034674df90e69ea13b7898d8d3be0dccbb7f
+pms.gstsystem.co.kr,0375ffe4a2eaace55f6b0fda9ea413617e86
+thundermail.kr,031593796f518055cf79465bca7d3dc50a33
+www.xn--hz2b50ozsc36a13od4n.kr,0435ebb37d0a4c928b09ffe63508e0f75005
+www.themansion.co.kr,0340b0981e93db83f1f3d77699fec4375280
+speedtest.chvet.co.kr,047ede8d59cff1a79048898b2d96b5f65f27
+www.redtea.kr,03a8fa12f177480ade0a1a5c2380c978965d
+dchapi.pasol.kr,039cd2367c98832384bfd1672bcd5a4320c4
+subscribers.chade.kr,037df98a230eac741d003e051d966a0159ad
+free0077.deb.kr,0432329b214c5df802b4083263af0aa7ac47
+webdisk.bestexpo.kr,031107b48754ddd001f08b1f2ccdd4143ee2
+www.hellofarms.co.kr,034202a679e60f428a2e4bd7a0c231af1862
+en.egojin.co.kr,030775a4a8bd15297e0150aa71ddaffd9fbf

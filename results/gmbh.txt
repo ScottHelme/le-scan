@@ -1,3 +1,6 @@
 www.diamonds.gmbh,0304e1794dcd3539cc1a3e6fc8a572331552
 zen.gmbh,039b3dee16547a247c8bcc837608dd5da82d
 mail.diamonds.gmbh,0304e1794dcd3539cc1a3e6fc8a572331552
+cloud.bsw-consult.gmbh,0391aedf10721ae519b0babf249cae729762
+cloud.bundesrepublikdeutschland.gmbh,0495892f6a1c784abec1c377894980f6050a
+www.de-support.gmbh,048cbe7ccd56710f10267c4f1640797f5601

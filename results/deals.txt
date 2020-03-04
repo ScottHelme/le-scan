@@ -1,1 +1,4 @@
 cpcontacts.shopcameras.youget.deals,034aaa46648d5ee196834130b3272830f8a0
+webdisk.topcbd.deals,034e556f561bb36ae6007bbd8022c396dc0b
+shipit.deals,03a557f705411b8b5c2ca3408ac62c8af7de
+www.frozenvelvet.rentacar.deals,042583154d43d2a24331902f7b03b191e643

@@ -5,3 +5,7 @@ cpcalendars.serviscon.com.bo,032455437ba9758c1cb7e497b16831fa58e4
 mail.lacasadelreten.com.bo,03f424db312fced824a15c230aefec82ae7e
 cpanel.gamcolquechaca.gob.bo,04c43f0ef4c186369b2ebc6fe69737528fd7
 shipcargo.com.bo,030b242255a50553630ee2ccf837da845789
+unibienes.com.bo,03efd982c90366266e7c896ebdc1e82af535
+www.ico.org.bo,03d148a86cdfc44ee72e31575960efba5a56
+sedeschuquisaca.gob.bo,03c24bdc72da1de0edb0ee9a50f822471cab
+pk.info.bo,0370e25fb67ff20579f4983423244f898fe7

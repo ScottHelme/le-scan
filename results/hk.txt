@@ -18,3 +18,17 @@ mytourtime.princesshouse.hk,0305a0dbd993a993eed6b34f6c7b36648871
 mail.healthcheck.com.hk,0394a36820ac5f69d127b0f8e0a783fe6781
 vistxt.ctl.cityu.edu.hk,03bb4a52dba7451695d037753a10b5aab3af
 mfldist1.tonego.hk,03ba110644fa5674a2f439476f64dc714803
+cpanel.viral.hk,03cac7a29ebeca37a7826e5a10c651fa8389
+nacltd.com.hk,03b4e4e82553a4b6049ed96331480f9273d9
+cpcontacts.mainpointdesign.com.hk,0482170850b0515f9bc9e73bca7e207b4486
+www.ferrero.com.hk,03c55fd19cd4b1421d952e0d476babcbc6cb
+dev.chateau.hk,04b8b39e92646971e53925fd5cca384bd6d5
+webmail.studybuddy.hk,030bd4a7179ac4dae99db94cf993bebbfbe1
+webdisk.mainpointdesign.com.hk,0482170850b0515f9bc9e73bca7e207b4486
+webdisk.sgc.hk,033ad8bc58ae44bf66b32652a39cfd039e67
+webmail.face.hk,03572a6b100b6dba1f9d22b533644ad2a100
+www.icphk.org.hk,03072a86f719e143ca74037c3d4e68f97d0e
+nas01.pixelcat.com.hk,0346b2670e7b086ca473f4e384b4154e3ed1
+www.yuki-luggagetag.com.hk,03bcac55f39f46fb815db1a7f5c391d1e672
+emtf.hk,04d8d639ae2e524847bc2b147e3cbc4007df
+webdisk.midway.hk,03702ef5b452e84784cfa652edc9ad2d35c2

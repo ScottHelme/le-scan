@@ -1,2 +1,7 @@
 bayview.coop,038f4bb7abddf7af1680e3871df1ee6b6cdd
 collabora.quiplusest.coop,03acb0d4efde6bed0893a58786ce6d1b022e
+webmail.fco-cfo.coop,03884fba6e4701ce0edb7c0aa76ebbb32dea
+www.covingtonelectric.coop,0455a6dff5dad4a7337660d8a196b691816e
+cpcontacts.londonfood.coop,03a29f774ca6505cb0d3a256c6cb312d9e89
+webdisk.auria.coop,037e78e3d644aeaf238905d4ea84d2136821
+teb.coop,035e3ff322dc3773d1332d5ff2f69bea78a2

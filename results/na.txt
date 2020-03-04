@@ -9,3 +9,8 @@ cpanel.afrimaterials.com.na,03c3f04ec5bb331ace4d7f6bb5a83a8e6f17
 cpcalendars.swt.com.na,03daca92d74cb30ea2820a8dffc4fc8957c5
 cpcalendars.greenspace.org.na,032daab31cb03a9395cc9e51adfc45f13565
 webdisk.eenhanatc.com.na,04d6c8c09fc80e184e7a4b88aa813e8395b5
+cpanel.ondangwatc.org.na,0476b5080cda5542b4ceb8952259f641ebf9
+webdisk.jbic.com.na,03d2c2951b53ae8e7225761b0fce578ed7f1
+webdisk.nnc.org.na,049adc5498d1880e499fab825f5d61bbfa5a
+cpcontacts.worldskillsnamibia.na,03c60c3328348d0033beef9a960b9ae045ea
+www.kadhilaamoomo.com.na,0338e60eb2e1d7bf429bc80f5a11f126518d

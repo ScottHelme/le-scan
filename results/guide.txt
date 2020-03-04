@@ -1,1 +1,5 @@
 dpo.guide,0463727f4886af2c395949f272d894f77fd9
+mail.afd.guide,037e0fd0a7b698f88348b3c33c816e3378e1
+cpanel.centralvalley.guide,03c18f2580f9ac68e3a1108c143400d4b19c
+capetowntravel.guide,038abcdb4cfda61fb924421f94f7188a59d6
+www.optio.guide,039cc7fc3af2ef0b023e9a85881c68d4c41f

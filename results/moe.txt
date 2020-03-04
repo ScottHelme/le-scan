@@ -3,3 +3,4 @@ www.allthefallen.moe,03e0023546b20b39f077d046cba2abea83b8
 webdisk.adorkable.moe,03aadfbb1e8c9ff584ea8f28ef0d6a7cbf2b
 www.allu.moe,0369a517d404d3543206247727dab58fb1e8
 mail.sammy.moe,03b9d77ac375906d01f51e3f31c3df917856
+yaku.moe,04e138650e49c9c6942264d40ae26ddada4b

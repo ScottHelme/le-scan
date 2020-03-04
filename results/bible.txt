@@ -1,2 +1,8 @@
 www.b42.bible,03210b0bd30bd607f5c8de2f9180852b6e56
 www.comeandfollowme.bible,038f6ad1bab874b50910837bd5d1f981099c
+kosena.bible,0317d579b6b1832298a72a5089aef88fbb0f
+edolo.bible,039def34429b5903098f5b48f450a1a64988
+www.lectionarycompany.bible,045cba817a2cff55b7282420d75f64576a5d
+hiddenrobot.bible,03801b441b420265a76ae5a5966a28d9a020
+yala.bible,03b4d6025ddd6bd1c8ffaf9f0fb65df9aa52
+answersingenesis.bible,04d8647383d855914a2a81ff0368580457fd

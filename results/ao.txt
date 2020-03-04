@@ -13,3 +13,12 @@ transcontinental.co.ao,0391b15593f98199f08a61918f1daf3f94a2
 mail.clinicacaridadenovavida.co.ao,03adb8a80dfdf045fd70e619d78f7869b510
 mail.clinicacaridadenv.ao,03adb8a80dfdf045fd70e619d78f7869b510
 visual4u.ao,03f7597a5c8a4d4cb583045487fa18b1ce0d
+webmail.fabrimetal.co.ao,036f68904ef410bf01dfb0d6b45461bf9ad7
+cpanel.xn--abrao-1ra.ao,0300a004b36891b3b1fa8ca87f6d9f5e7c6c
+royalseguros.co.ao,03ba829ddc165be4a98d2fdedd5ad1095823
+cpcontacts.kwanza.co.ao,030e6d69c30d3b9476b3d7555b152ac3b1eb
+webdisk.angosementes.co.ao,0487283a16d01c77b7974182987151173ba6
+cpcalendars.ferpinta.co.ao,03828875ac5abc9fe3def7104b0f5d805cd9
+cpcalendars.stonevalley.co.ao,04f321548b4d043d6d4c94120bb11317e793
+webdisk.portofino.co.ao,03c4ffbf28628c04430fb5a52df92c36400a
+www.cabuscom.co.ao,03fffef67af27adaa5cc40d86ee1ed1be653

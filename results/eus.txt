@@ -4,3 +4,7 @@ mail.blog.kaixomaitia.eus,03ccb94334d057bfd88bf31e7da501bcdb5d
 www.egokituz.eus,03fe0dbd97617e8eba93c34279eb231b2930
 webmail.blog.kaixomaitia.eus,03ccb94334d057bfd88bf31e7da501bcdb5d
 webdisk.eeb-ove.eus,0311842711941ee3705280c25a9e6670a71c
+zuzenk.eus,0355d536651feadd4bde92806206663fc2f9
+www.tamayo.eus,03d9da9c7dd62d8e1588ebce8ac8266fd01b
+cpcontacts.herrigintza.eus,03e314989b2780b0a4d964ab8fb7c3d0281e
+www.aldapa.eus,0376506af22d4838b6236e2d75f767c7eef1

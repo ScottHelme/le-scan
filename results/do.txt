@@ -7,3 +7,11 @@ mail.vidapositiva.do,03863cd793eda0b7db5aec5f194fd242257b
 people.gbh.com.do,03c27e0178dfea6dfe8cbc8610d70a2caca9
 tm.com.do,0418a9d62ec24a2b6226bf2180ba5d30bfd4
 autodiscover.3w.web.do,03e0275962ddd8fe745a3739ea364c1fbf2c
+webdisk.coopadomu.proxy.do,03ae0fe7fa51a8d556d575ba3e9ed4320ec9
+webdisk.careyhousehotel.com.do,03d041bb8fa17bebc8e083392f704a0c3e39
+gestion2.em.pren.do,039c5831491da0fe6d051402970ba1dad32c
+multiservice.soluweb.do,03b760e84eaa30582c2fbf2b651defbdbc64
+webmail.careyhousehotel.com.do,03d041bb8fa17bebc8e083392f704a0c3e39
+webdisk.agroambiente.com.do,0367f2b2c4cedc67f94b3899b7bac8483997
+cpanel.qumo.do,03a215f4fb8cdfaebfac7c53958e40dddb3e
+ckm.soluweb.do,03b760e84eaa30582c2fbf2b651defbdbc64

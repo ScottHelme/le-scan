@@ -18,3 +18,11 @@ cpcalendars.ratingbets.su,03e972f85d768cdc29b0ac54ae3cf42f81ce
 www.windtunnel.su,03f0afb0a5c58d98a50f880f670ff6268356
 www.brutal.su,035c938d0739349d15f22573d042d873aed2
 h.naryan-mar.poiskun.su,0391ec825c39cc9134b8f6cf97728edc4511
+cpanel.valcc.su,03eb01d3aaf76cc111b3e9f7660d09a3542a
+webdisk.fundas.su,04c58e560c6f13dca97fe0328c5bf8b00a0a
+cpcontacts.goodmag.su,039580f1da499f040cc26029267254ab088e
+tm.demal.su,03467f9b01608d18cafd694fdba0fbdc4f39
+a1s.su,03e0df822241c5021e56fa6a53c13d2acda9
+paperclouds.su,04d22142bb704bdbda17ebfc3003bc85951d
+en.glex.su,03775d96c13967be27f15f8487df5c7f9eea
+www.wpd.su,03d68ba1431c50328bdf26c7bec5ff3dcda9

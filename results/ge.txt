@@ -8,3 +8,5 @@ www31.proservice.ge,03ab037c25d1d29c0061162d66fd72e255ea
 cpanel.kaitipi.ge,03eb6c6493764ea94fef5dfdd8d1fc8c6897
 webdisk.dcm.ge,04dec9acd35a3d6db07a892cc17edac1aca6
 webmail.shop.com.ge,03f57533e6e150164bb2085df3966ff69845
+webmail.madliereba.ge,03bb8fa9108c541d5d400b74c4f4fbd8a0de
+webmail.rss.com.ge,03624f420f0e7cd645e37338b59001926dca

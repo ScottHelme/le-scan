@@ -2,3 +2,5 @@ www.waimea.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
 papanui.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
 cpanel.veronelliadvanced.school,043fcde476cd0ef20e88bd9abf1ac987341f
 dzigital.school,032911b25192755bbd5bf547bba17104672f
+mairehau.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc
+avonside.careerwise.school,031913f1b8cab157c377e69ce5707e1978fc

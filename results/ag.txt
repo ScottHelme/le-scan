@@ -1,2 +1,6 @@
 cpanel.caarj.wda.ag,03bb78a704a143aa52bd401796105e8fe098
 dl.movie4k.ag,0488729d4b6d04ef6c03915ae20b3d704ad4
+autodiscover.alpha.ag,03ab7d8fc854e54bfabf53c32e9bbf1b1a5a
+www.kasse.andreew.ag,039ba185015a16a3421d90288cfc2235557a
+clubo.wda.ag,030421005edbd987e509b825141e9167191c
+nmp.ag,039bd8635b6eb1f10ec892cf24f0c8e70003

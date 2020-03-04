@@ -9,3 +9,8 @@ cpanel.rooster.city,0417f3c2715d37e6678abdd5876e1ab0d3ab
 www.karaokeinmy.city,0303181c67ac8d129f914523e27aafdccb73
 cpcalendars.directories.city,031efd2e2661f1b310b077b1115997db1dd9
 webmail.calgary.city,043e072965b5c7a42ae298d02b9977fc6ce5
+avolve.city,03ea67609699cb81a1b3086e2241aac801bb
+re.hanfu.city,04273160a086d866a03a4375a816c64500a4
+cpcontacts.podomoro.city,037d299834a7f0dc7d8fc788bb95fa7ab10d
+webmail.guardasmart.city,035034fb95c754f3f9819289e002842ee33c
+www.branded.city,038db81416b1808927e516484e6ccae7fda8

@@ -3,3 +3,7 @@ dpr.energy,036cacbece5d25dcfe023d0f882d37244ce4
 cpcalendars.co-energy.energy,03f04d0534d18695fd40329e70002ea07478
 cpanel.pfp.energy,04c6ff7025f6b2a65ccc04dec79895f94c0d
 webdisk.tile.energy,04006dd59e722eb4987376fb91ecf0dd7e54
+cpcalendars.nabuh.energy,04660455c875650bb8e5815ddd0fd18049df
+qwest.energy,04df981ae923181805e7443883871e8e636b
+cpcontacts.tnt.energy,03033d8e1c5b43a849f74b420faebc5a9a5b
+wholesale.energy,0346efe66e2046f7bb28978ff896df04a835

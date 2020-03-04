@@ -6,3 +6,8 @@ www.sinotranslog.co.ug,037c06e4c8e69c6ffcd39d8c940239b19c99
 autodiscover.ipc.co.ug,03c76d466712469add2dbda0c52209223ff8
 kynet.ug,040973e07a94b54a321711a090487422c7ca
 cpcalendars.evergreenorganicfoods.co.ug,03f993f8ab850e4a93794c6cf1f630f5217f
+webdisk.klarchdiocese.org.ug,038d190c1f63b8be486b60755a134476a44c
+webmail.hamenterprises.co.ug,0388bd7245414cb356ba84ceeb469bd74442
+cpcalendars.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
+shuukuvocss.ac.ug,03d59d452978fbfaf564b91f9691f311914c
+jcu.go.ug,03ac47746a13a0defad95da65f098530e424

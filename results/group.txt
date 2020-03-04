@@ -8,3 +8,6 @@ webmail.kennian.group,03851e71e9f5cc9b5cb81bb92d3a1613827c
 www.livingroom.group,04866b0ce6ba8dbbb476e7379a981dfe0b45
 webdisk.newlife.group,0306d912b50953ea793a421ffbb75f8fc922
 oftest.ecofuels.group,0363d60a5d777757362624398c74013417a4
+cpcalendars.belmonte.group,03c8ad8fbd3881852904c8a5f06b28fb3272
+cpanel.euphoric.group,03013b36ef1791296f50b9c9d40ae4a686bf
+autodiscover.alrayes.group,03a754be9982467387931fe122e581b4fba9

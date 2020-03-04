@@ -4,3 +4,5 @@ www.contabil.business,03852f23f0c6c559c0b7a13115ec2d37dbfc
 kylin.smalley.business,03bcad0f3bc771164899161a60823bbf3aab
 webmail.5star.business,036a3092450ca414bb41ea0cdbd97a892fc8
 mindelo.business,03323089660dee6397e90f7eb554e8e91565
+cpcalendars.alfacrypto.business,035febe4ae61f8d494061f63cc2889440a5a
+shortener.boostmyweb.co.business,035f237087f860bde130f3bb73e6e519e214

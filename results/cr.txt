@@ -12,3 +12,6 @@ gomezcpa.cr,03777ada36b56aa9f478619d8ea590d448d9
 webmail.prodin.cr,03fb541ea8cd20bb0f84a5afec6a3dcd3119
 webmail.sanlucas.cr,036ccc7367bb109c441e1fb48809dccbbd56
 cpcalendars.belleza.cr,0332c09b99bd252f95d64924c947f4eae07a
+cpcontacts.samayco.cr,03114d38c780d21bf852d68cb3d1090ef218
+webmail.catl.cr,0351164d6ebbc06e8516bba7a058a65e83af
+www.bekuo.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9

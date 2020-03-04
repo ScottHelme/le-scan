@@ -1,2 +1,4 @@
 webdisk.y.tools,03b722e8684c10d496f865fb97c82aa3bd75
 docs.qarr.tools,038636e1f21fca8e7ef5509db1d44dca9833
+git.hidden.tools,0395ff372be0df3a6abe2d9fef5cbbf63376
+www.entwickler.tools,03ac3f22bbf392e3699e0cc9d5c9dd48b814

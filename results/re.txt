@@ -11,3 +11,9 @@ www.galvacolor.re,0416e5948b1f06d0948bebc54f53c317040b
 apple.ssh.re,03e8b7f82d859c99aa781d35e789b5d8e4e6
 rc3.mister-auto.re,03626f886ac6b4688d2ac37294f32fcb9a55
 www.coeur-social-974.re,03c63c3301e587f14e570704dd767a3a9112
+cpcontacts.immo-neuf.re,03c209366a00c7a68aef74941583b0d8a6c4
+webmail.guadagna.re,03ddfca0d76aed0d14657346e571ba1c5558
+superlife.re,0382e4c99a92689e22d4d6604253b1b8dbca
+www.laubergedigitale.re,040e0869957f2ffc410ff8bd57830039d80a
+loocseaux-run-v2.dsi-infra.re,03ef0e25c360fd59f03a31fdc5e1956fca21
+loocseaux-test-v2.dsi-infra.re,03ef0e25c360fd59f03a31fdc5e1956fca21

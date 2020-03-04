@@ -1,3 +1,10 @@
 webmail.ajc.af,04df09a480f888ed6f3d4e072deb7aeac296
 webdisk.sacs.gov.af,03aafb98169b87de030eb9330653931bf3d0
 devcdn.whitele.af,038bf45d36651c720b690bab5c7d5ad8fc2f
+www.malalay.edu.af,036ee1e8b3c42f7647a861123b2be3cf1a52
+ncdp.org.af,047082dee3609736f1c16e44823e73f5a9dd
+golbargsystem.negaristan.af,04ab3b4d3e0f173a294b52f2f7ea4790d6db
+todo.whitele.af,038bf45d36651c720b690bab5c7d5ad8fc2f
+cpanel.arg.gov.af,036b6b0675b6d2145d5e2aa7ca2dbdd65db9
+negaristansystem.negaristan.af,04ab3b4d3e0f173a294b52f2f7ea4790d6db
+webdisk.cfra.org.af,0354b10e36bbaabae150cd86f252ead1992d

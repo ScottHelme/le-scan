@@ -16,3 +16,9 @@ racktables.stg.cloud.im,03bba3f06020e28e931bf2c408e24f6a441f
 ems.co.im,04743e103246134b42e285423673bedb4fbd
 cpcalendars.rug.im,04a005023e3488dbc291880fc0cb8f446fe7
 webdisk.swipecoin.im,03f389f8299d10eea50660517d412b92fd1e
+webdisk.coach.im,03c8a4aff451935ab49e30a4086c5eed73a2
+app.cbc.im,03a84f65d32aaadb4fe2ecb240073d25e8fd
+nginz-https.getomega.im,0355109cc249c8165496790067b8493ef8fb
+nginz-ssl.getomega.im,0355109cc249c8165496790067b8493ef8fb
+mail.ftr.im,031c9a128a33f9609c07dbacc0b19e51ed13
+autodiscover.catalog.im,04a7f9246869bf190fafd0d7ce8b97741ad2

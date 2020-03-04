@@ -2,3 +2,5 @@ webmail.mallorca.photos,03cad2f6810c5a78b32e7990c44b7adf0781
 kocher.photos,04e5ccb949409a1819faedda7bca3606b1fb
 webdisk.incolor.photos,030cae0e84ec0e55e9170c6662f4eafc7b5d
 www.howtoshoot.photos,03b7f8d0e731ca85957f3f48ae7f1563099e
+www.flippedtechnologies.incolor.photos,03b2ec258a331fd2220053b56378b2dd579c
+maxshmax.photos,0313c9f97240561362c7df463b02a4ed5c14

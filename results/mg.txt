@@ -4,3 +4,9 @@ loharanogasy.mg,0356b636698455852f85752d8538ad1f2629
 webdisk.hnjm.mg,03f5b9b9880b6591ca42d0fecb9a8621c6de
 mail.bipsysteme.mg,03b6072a85c743439db24a4acd576be34d9e
 taxibrousse.mg,0423aeb7e4a46d0880ef020d3bf95baa4232
+cpcontacts.esp-antsiranana.mg,04a8091003de76da1c82cfd4637d6b40a03a
+webmail.vita.mg,04a0ce309f5026a2599b75d118bc8337e1a2
+craam.mg,0313b4ca7d08c195bf3d709aaf286c8ef23a
+cpanel.leroyalpalace.mg,0303ebc86d1d96207519b31e7624841b3860
+ordre.gomed.mg,03131abd187352518a1a11ec654bcc3f5684
+www.mitsubishi-motors.mg,038f9d2fc311ebb47fb2f90c13edc8c88853

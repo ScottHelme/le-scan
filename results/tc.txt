@@ -3,3 +3,6 @@ alarko.servisleri.com.tc,03de8bbb5daacc90d65d9dd8f0aba9b3f714
 cpcalendars.servistalep.com.tc,0335792df221cb9a8639c116d779692ee8f2
 webdisk.catholic.tc,036499b2ab455121a7974bacf9af0daa3ea5
 www.turkom.tc,04bf747ace669ec5c0e65f9cedb6c94a2b95
+www.ibc.tc,04bbeb53a897d4cca209a23341f46f59f896
+www.ferroli.servistalep.com.tc,03a6abccd4a34921093369c1ccd883c83314
+www.seo.com.tc,03ad0b54d874dae7b4692a6af8e03f3d822a

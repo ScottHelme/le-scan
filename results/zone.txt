@@ -8,3 +8,7 @@ www.filmstreamingvf.zone,046d0eb143abe1c6219c5df88bff7486073c
 www.filmstreamingvostfr.zone,045779cf627222e8801f35c57a8169389105
 cpanel.mgmdev.zone,039912eed2059b15a0323d1ae84d7ffd64d7
 cpanel.mgm.zone,0361853b1e6675ac958af90d193361fab2b7
+webmail.muslim.zone,033701f2d602742895b375bdcc1a8f875192
+autodiscover.reserve.zone,03d46505b848b9747ec09ed2e1ef47673a42
+www.sci-hub.zone,04b0f9391b966dfde859a4213cc2367329a6
+www.lighthouse.zone,03d38c6e826e15aa913f4bb85bdc80c1f2b3

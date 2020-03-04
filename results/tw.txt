@@ -31,3 +31,14 @@ mail.slitting.com.tw,04e851af7cbaafe9e0ef3c2e32d4d854daa0
 mail.slittingmachine.com.tw,04e851af7cbaafe9e0ef3c2e32d4d854daa0
 windexpert.ce.tku.edu.tw,0328d0392d338a4b6248a3095aff1a1476f1
 openloop.ncnu.edu.tw,03ef54bb88abe00cfd52757d256546044107
+webmail.slitterline.com.tw,04e851af7cbaafe9e0ef3c2e32d4d854daa0
+digitalent.tw,0306a93c9560b6f39ebe9c74c40b58410037
+www.ferrero.com.tw,03c55fd19cd4b1421d952e0d476babcbc6cb
+3jtech.com.tw,0332397d826dc97b4fa939ffba74f6248842
+admin.3www.com.tw,03b02237606bb39ccc803563f3bcc58f0b62
+haveanicestay.com.tw,04795e064a3bfbfbdcd436fb984280bf9254
+cpanel.ocg.tw,030db12de9c7fd6218c6c2ca875810662165
+italianbathrooms.tw,03983485e2293f358a14f340ded8a843c22e
+www.fresh4u.com.tw,037cb345a13dd2bb39b28a2b45d2e86c7e6c
+www.fresh4u.tw,037cb345a13dd2bb39b28a2b45d2e86c7e6c
+shop.biolady.com.tw,034a4c5f9e0dc42735ee4d5b368b6c412a28

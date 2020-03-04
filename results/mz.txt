@@ -4,3 +4,13 @@ cpcalendars.syal.co.mz,043726d56c074ed8b5b6a174a1c920c9182a
 www.data.zat.co.mz,032b17c70bd71dbfc1d1b6ed6fa6577d7f9a
 autodiscover.efas.co.mz,04fb74dc88d89ad1a16d7edc958acb7d7155
 webdisk.ipg-grupo.co.mz,038ba62952b333065cd03a81084db02d7765
+cpcontacts.intrust.co.mz,045f4a6c72f9c5d4612599e488cac5e62a93
+webdisk.efas.co.mz,04fb74dc88d89ad1a16d7edc958acb7d7155
+webdisk.kardapiokaseiro.co.mz,03fb98b3084629d11b058a62b86b4512b84a
+techs.zat.co.mz,032b17c70bd71dbfc1d1b6ed6fa6577d7f9a
+cpanel.kingsenterprise.co.mz,047e5bd15078f940b998b2ee6520d045241f
+edondzo.cosys.co.mz,0366fd9dc3a7262a92f43df30dee3289677c
+edondzo.iscisa.ac.mz,0366fd9dc3a7262a92f43df30dee3289677c
+edondzo.isgn.ac.mz,0366fd9dc3a7262a92f43df30dee3289677c
+webmail.recol.co.mz,03a398c6ef804783184f28582ff61b332a3b
+wonderexport.co.mz,038b518e56df372a5d25f3f4061612ab371a

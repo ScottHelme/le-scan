@@ -19,3 +19,11 @@ cpcalendars.gadir.com.sa,03e39e38bf65ecc5c17d51850e125c2d7e05
 webmail.iqam.com.sa,03c9856414ad1efcbcde22fe50f531937308
 billing.edesign.com.sa,0395397438151863c9d2ec12eed7d493022e
 cpanel.cloudtechnology.com.sa,03ef666eea8882193d9966f296027764b34a
+autodiscover.nsk.sa,03579db11b73f007dad2a6ac28f999018051
+cpcontacts.alshamela.com.sa,0312a432ace15508f6f66f5b63dce8e87f4c
+www.aara.sa,03dc984fbd3ac5c71204c675e9b1279dfedc
+cpcontacts.altawi.com.sa,03409922ae4ea799336385110b089ef2ed0c
+mail.penti.com.sa,03fab9fe129505e59f4ec3b3b8117e66bcc3
+www.goodwindow.sa,0455
+books.allentertainment.com.sa,035160729357baece2adaf4e26b24ad44e39
+cpanel.alkhaialh.com.sa,0390b161a8e1869ae7f64ac9f7bcb4a80069

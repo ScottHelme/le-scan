@@ -1,2 +1,5 @@
 cpanel.pacetraining.run,049c81b20551bfa1bf520823c250cd426357
 cpanel.alut.run,039f3f5cfa38713505b4f90e83103fe3a037
+mail.lin.run,040db6c0d3336dbda51f05d38800866bc8a6
+ftp.naperegonki.run,0450608b5fc3b7e696ce902da974e5807838
+mail.pacetraining.run,049c81b20551bfa1bf520823c250cd426357

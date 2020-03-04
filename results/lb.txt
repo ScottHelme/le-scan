@@ -1,3 +1,4 @@
 webmail.ajial.org.lb,0450b9477d839f3704c6689fc7f070bee6dc
 cpcontacts.bass.edu.lb,0341fcb317a264e7ca8dbaa7042e18030ee5
 webdisk.lfpa.org.lb,0369d42e52126d4777b75fa589ef79b96b7a
+www.ajial.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc

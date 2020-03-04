@@ -1,0 +1,2 @@
+autodiscover.alphaboysschool.org.jm,04b3bd8a8e5c8ba8fff7a61d1bbe2f61370b
+autodiscover.alphainstitute.org.jm,04b097ff5f2c1c60e3547709c23720a29d38

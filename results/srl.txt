@@ -1,1 +1,5 @@
 webmail.arca.srl,041b4df2c3de81bd08c1b3825a8ef0a6dc8b
+autodiscover.artigiani.srl,03235db5b31e544fbbbff48c7268a7ccf3ed
+mail.excellentservice.srl,037644d35b2b834e1b116c8b5d3b5ade12a6
+webmail.rts.srl,03252944f933d88aafbe21dc0d6244965aca
+webdisk.s-mart.srl,031f9a50667e4a36c16bccf9ff0647bc95e6

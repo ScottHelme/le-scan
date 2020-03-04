@@ -6,3 +6,5 @@ cpcalendars.islah.ps,03ebbff58ce500527f6c9096baa81b00c3e0
 webdisk.alahrar.ps,04a7ec998d5cfb92b0ff75e52f69d3573910
 cpcalendars.mediagroup.ps,0496f131957f6c63d047b19154ed2fae4e9e
 webdisk.techzone.ps,0382342c8b0226715811c398e3d6f2fe5d5c
+dokani.ps,0314ace739b19ca9ca6471ce4092f22083a0
+cpcontacts.metronews.ps,0374c99cfcb97e1f2347f1b1bb17c0c52162

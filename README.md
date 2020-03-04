@@ -7,7 +7,7 @@ The purpose of this project is to scan all hosts that may be affected and identi
 
 The file `log.txt` contains a list of all hosts that are affected and is derived from the official list provided by Let's Encrypt. The file can be found [here](https://www.dropbox.com/s/tp47jrpge6brv2g/log.txt?dl=0).
 
-The file `need-renewing.txt` is the result of my crawler scanning those hosts to see which are still using certificates that are due to be revoked and thus need replacing ASAP.
+The file `need-renewing.txt` is the result of my crawler scanning those hosts to see which are still using certificates that are due to be revoked and thus need replacing ASAP. I will only scan a site (eTLD+1) once in order to scan more quickly. As a result, not all of your hostnames will show here if you are affected.
 
 In the `results` folder are country based lists of hosts that are still affected. The hope is that individuals will choose a list and work to notify hosts on that list that they need to take action. 
 

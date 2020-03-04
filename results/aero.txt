@@ -1,3 +1,8 @@
 api.test01.avian.aero,04d1168d9fe4c9170dce1dc4530bf8897c8d
 bearingexchange.aero,03014c9fa78272ffda8da2240a0dcaf28be4
 cpanel.adaviation.aero,049ff3a1f2e54ddf8dcd7426b8302e0aaacf
+windhorse.aero,03ad5f0b685f67c4e2323f81350089705dd6
+bisness.aero,0302af71c772c3012bb6910edf95626e9e74
+ssp.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52
+sip.aaq.aero,048099b688d1db016ef06ea572740599561d
+nc.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52

@@ -1,2 +1,3 @@
 xas.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
 mail.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
+pop.radiologie-luzern.swiss,033e52c07e5c6c2eaf0ea985f61e5bf1b2bb

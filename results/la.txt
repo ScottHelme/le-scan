@@ -13,3 +13,11 @@ brooktroutpartners.avo.la,032133aec6f58e01e7b8bb7610a1597056ae
 webdisk.augusta.la,03894bf316e6406e90562978d1104aee7e4c
 cpcontacts.masterweb.la,048d23bda897b8833532f7eea057d09d6cc8
 mail.tei.la,04f217fe74489c29f93fb0487be1c44e7c70
+www.xirou.la,0305d7a153689c433068748f41b95efeea6e
+mail.fave.la,04f217fe74489c29f93fb0487be1c44e7c70
+metis.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
+whm.eds.la,03baa5fae5337dfa2a41f6493c6025f800a6
+mail.stadtfuehrer.la,03710301417db9d11dd71334dd0ab01f27a8
+pmv.api.avo.la,048931153decc5c031f83e60c28a648f0a1f
+pmv.api.execution.prod.avo.la,032417dd78e0cb496cc0215994873ddbc585
+pmv.api.execution.test.avo.la,0337621a95a92f80a3c61b6cf2fa8d3c0c6c

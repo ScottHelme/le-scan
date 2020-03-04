@@ -3,3 +3,9 @@ webdisk.cracker.uz,03607a040eb8ed3341f3e13ca1b7db2e4be6
 ccartstashkent.uz,04ddb8f9c9001c6da126d179c7351dd039cb
 www.xn--80ajvps.uz,043c840346fdca40e2a8079d4f93f4651ba7
 dev.philips.uz,03890aa832016af05ad696968dfb108f3eb2
+ogam.iknow.uz,0367f15f28e5ba0d6bea4c1c8bef3c429821
+test.estetik.uz,03eb76355e877420246151f30d9981aa1575
+autho.ipcenter.uz,0389416ca1317695f2c5d94e296d907aa183
+crm.procenter.uz,032a48b5b46e4051ef0849874c85ab79a797
+mitratravel.iknow.uz,0367f15f28e5ba0d6bea4c1c8bef3c429821
+www.cambridgegroup.uz,31a6

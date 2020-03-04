@@ -6,3 +6,6 @@ autodiscover.unicoopagi.org.rw,04e6a94e6b7e5a3da3d8024e3d5414904cc7
 webmail.gisakuraguesthouse.rw,0305f70eab4e2b2c8eb3387b7f4b67a8fcac
 cpcontacts.saltel.rw,04fb0cfecec82c1ebb8029c0af5e110d0c99
 autodiscover.rohiaparthotel.co.rw,0302d2747a06e4fdf0c62677b25d9559ec20
+www.ce.ur.ac.rw,0359234bafa4a929b412e560c27cef08dddc
+cpanel.gjrealestate.rw,03bce1f41b4767800979ed8fe91413576fdb
+webdisk.patriots.rw,038eb2a2c97fd5f376dfdfd54f9812bf41ab

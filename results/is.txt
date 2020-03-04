@@ -11,3 +11,8 @@ webmail.varmabok.is,04ebb61e795cf2a1bf395af650428db9af56
 cpanel.bocapharm.is,03e9b7e9d28a3f83c070f64cde1841730859
 openload.is,0488729d4b6d04ef6c03915ae20b3d704ad4
 cpcalendars.icepass.is,03f214b063c4a7b893c40b01ccea308c9d79
+webdisk.platinumbridge.is,03441b313078a01aec5450f550b51cb05e5a
+kroksarinn.is,03b70e735733273c1df6c6feb1ee2cf13373
+waterfire.fas.is,0386fbd473a320d3aec47406bf198e3dbb32
+billing.giant.is,036abf630c3d6772e13760cac8c5e77de391
+webdisk.pyconsulting.is,0399a1f87a53d8216fe066198e9ab35c1b18

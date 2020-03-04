@@ -17,3 +17,10 @@ zhky.ai,03f87f7db32485e22862e38259a63d20f187
 2077.ai,03df00ac2e5744523fefc8bd26ba722d1eb2
 go.msq.ai,037d9fb33a068edd4357ed12ba164756acd5
 visualbehavior.ai,0398d8dc8b1e6aedc53096a65fbcfd94f460
+le-15512320.devops.am.ai,03c83c62c9ca5626ea93f48955070d68df59
+cdn.golem.ai,04e9c5f9b43e54783fcabbd9bce6dad1f3ab
+test-l.prewave.ai,03c98ed4807cdd849be60f9a8b2c7c50a28d
+certos.ai,03d44666f7e8dc467ba71fdf4ac6ba660458
+tarta.ai,04adbadae06dafe035c31631edf319895613
+docs.zoomer.ai,039504d1feff60910bbe5069187991771b42
+api.cloud.somin.ai,03553ff1dbc9d1949835f2f922d946d5ff01

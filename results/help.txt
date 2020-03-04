@@ -3,3 +3,5 @@ cpcalendars.drivingwithjules.help,038569c8bf5dbf7ca173c8d1d0669ec3f3f5
 wellsfargo.regalpay.help,0363bafb27486b50427634cc08606aa23c62
 haut.help,04c11e5cd2ae45e875798b6d83dacccb60e8
 autodiscover.stemthetide.help,041085658fa62ff87a6e45a582c1e391f54c
+cpcalendars.rgpd.help,03196a0f7c2ee83c192b141ca40fdcd783d8
+webmail.yourbusiness.help,03ecb1dacfe6c933a40d7767e3cf50e421c6

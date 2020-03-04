@@ -1,2 +1,3 @@
 emina.fashion,034a55564e4526c5b2ea70f1c6c1cdad09d2
 www.stardust.fashion,03528bb2e9c5cd61b7a5d7621df4510db31e
+autodiscover.sherley.fashion,03efbcbfb2e04ea1f08b9da26600f4ddfd65
