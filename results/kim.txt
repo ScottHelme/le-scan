@@ -8,3 +8,8 @@ cdn.indiansex.kim,04358d756b51aa09513e414bc3b3c7dc8f3b
 img2.indiansex.kim,04358d756b51aa09513e414bc3b3c7dc8f3b
 cpcalendars.ucak.kim,037fb28d118b3b7b2c7b816fd837e08a91ae
 git.keedi.kim,036cdbf621c7af74c8877212494648259f78
+autodiscover.asansorcu.kim,04cd41ed28704fda978d8bb863278dcd7866
+webmail.asansorcu.kim,04cd41ed28704fda978d8bb863278dcd7866
+cdn.keedi.kim,036cdbf621c7af74c8877212494648259f78
+dump.fuh.kim,03f465323d0aa199ac7fdbff378f68b4fe51
+www.juicelagu.erl.kim,0328703d8314d8747545ae7dde7b4d9d4df4

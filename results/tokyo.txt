@@ -11,3 +11,6 @@ rcels.tokyo,037a4df760035fc4f951e880ca4e644b23b9
 mail.discoveries.tokyo,03592b8c572f307f6dc607f297ba007beaac
 the-esthe.tokyo,031d2c0e8588247cc137b1e6603dcf8e381d
 www.smart-info.tokyo,031ae7c7045ab49c8113d29e0739f3c6b1cd
+ikumou-mikata.tokyo,03bc4f7bad5b826277d42d12834fa717d5ea
+www.gatya-kano.tokyo,031d2c0e8588247cc137b1e6603dcf8e381d
+mail.intermediary-company.tokyo,03b6bff68a74e4c4312d1acb6f31b70238d0

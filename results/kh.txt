@@ -11,3 +11,4 @@ mail.globalcomputer.com.kh,03e5d4af64f9fa46464dd60ea5705ff763e9
 cpanel.eac.gov.kh,03e8a887564cab6d05c8ed7dd68d2e49e025
 webmail.blue.com.kh,033aec01c117b92377406e6ffa0c41d71d3b
 cpcalendars.globalcomputer.com.kh,03e5d4af64f9fa46464dd60ea5705ff763e9
+cpcontacts.zhengyongcam.com.kh,03e3dcca610fc25220ffe57439a489e33c41

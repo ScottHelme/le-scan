@@ -9,3 +9,7 @@ mail.samurai.land,04734d8b857d0279b89cc33fe9a2cee0f7ff
 cpcontacts.polese.madart.land,03a598c044ca0890139f66bac5ccbde12a17
 cpcalendars.ancsrv3.madart.land,03d32d7a9699f6e805069f50c2ddb6eb22c1
 www.poke.land,04f350f51715139af72b7f6bf8902d77c913
+cpanel.srv1.madart.land,04acd8072439112c754eb030aa7cfaeb6ab8
+cpanel.samurai.land,04734d8b857d0279b89cc33fe9a2cee0f7ff
+webmail.srv1.madart.land,04acd8072439112c754eb030aa7cfaeb6ab8
+webmail.magento22.madart.land,038dc4ad6da741c1f7af624cedaa145664e5

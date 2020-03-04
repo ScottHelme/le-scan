@@ -25,3 +25,15 @@ mail.vieirasa.sn,03e5dffb48b440a19823a5b0e6487467d72e
 mail.lpdistribution.sn,03e5dffb48b440a19823a5b0e6487467d72e
 smtp.safcom.sn,03e5dffb48b440a19823a5b0e6487467d72e
 imap.retba.sn,03e5dffb48b440a19823a5b0e6487467d72e
+smtp.saf.sn,03e5dffb48b440a19823a5b0e6487467d72e
+webdisk.dorgoo.sn,038cdea4fdc65ce0abbd583d638016cb3ba6
+mail.ert.sn,03e5dffb48b440a19823a5b0e6487467d72e
+webmail.sogas.sn,0318bc04a8a6f956aedd1812d22f784db0c8
+mail.xcommerce.sn,03e5dffb48b440a19823a5b0e6487467d72e
+www.immo.sn,03d88957e7b603717a93b4a045972a02249e
+pop.general-equipements.sn,03e5dffb48b440a19823a5b0e6487467d72e
+mail.globalimmo.sn,03e5dffb48b440a19823a5b0e6487467d72e
+imap.brainstorming.sn,03e5dffb48b440a19823a5b0e6487467d72e
+imap.rysarahotel.sn,03e5dffb48b440a19823a5b0e6487467d72e
+tmp.immobilier.sn,03d88957e7b603717a93b4a045972a02249e
+pop.getma.sn,03e5dffb48b440a19823a5b0e6487467d72e

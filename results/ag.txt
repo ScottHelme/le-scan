@@ -16,3 +16,6 @@ alba.andreew.ag,039ba185015a16a3421d90288cfc2235557a
 robotik.ag,038a4b62933525903179bc7261baac26f784
 www.schlenk.ag,04a05daf868769113e405e3b296b28831caf
 em.dsa-marketing.ag,034fc0f16e7b6ba6b72028519cd54d2ea217
+cpcontacts.mhvida.wda.ag,0395865f455e3d59f8a270f73e8d4632f7ad
+abstract.i-motion.ag,03790a1b59390b9a2d24f1ed8bb942f0bbe7
+poweredbybushel.ag,035aa86e4e72422db4a28f8ff538989d04bf

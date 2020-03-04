@@ -23,3 +23,7 @@ www.granddebut.com.pa,0351c4d6240376672e4fab19ebe8099beef0
 www.panahub.gatech.pa,04f420639b401fc03384023efef15231c30c
 www.carlsjunior.com.pa,03402b1da8572e50d680c9bd8f9e791b7b3e
 cpcalendars.veedol.com.pa,0381b6bb7da16ac88825ca6354b7ec6e2b09
+webdisk.carlsjunior.com.pa,03402b1da8572e50d680c9bd8f9e791b7b3e
+cpanel.castilloconsultores.com.pa,036d6dc013fce839411270a68d98270c2d0a
+www.pressplaypma.artworks.com.pa,04541634cf08c5f46e3be87fd041c3a603c0
+cali.chis.pa,03d1c67eae9e5f93bbfc0e71bcb8d5596b4f

@@ -6,3 +6,13 @@ mail.elcotec.sy,031159a3e568ae67805336dbb6af76c0ba86
 cpcalendars.alhsnaafoods.sy,0369f1f4e7302256b12c37345ee8a86027de
 autodiscover.ibnroshed.sy,030388cff7b2d3136916203ccff0d674dd4c
 autodiscover.dukkan.sy,030f17b0f2edcee8dad5d8dde353a124fc5e
+webmail.profit.sy,04ee6cc4f42f46b830cf816027d84f186b21
+cpanel.zomo.sy,04e3eca871007e36462bb7cab3e282074951
+www.dukkan.sy,030f17b0f2edcee8dad5d8dde353a124fc5e
+webmail.zomo.sy,04e3eca871007e36462bb7cab3e282074951
+cpcalendars.lauralep.sy,03c9794f4b4f7a6c76d1c5b3ec0baea8761c
+api.creatives-group.sy,03e24b78245847f82025328f5830436f916c
+cpcontacts.awqaf-aleppo.sy,033a79fb8c0f1e1b7201379e22b231070f22
+www.emeiba.net.best-souq.sy,03e88dbba2b1fe1979584b5589dbb0b531a4
+cpanel.api.creatives-group.sy,03e24b78245847f82025328f5830436f916c
+cpcontacts.api.creatives-group.sy,03e24b78245847f82025328f5830436f916c

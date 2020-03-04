@@ -15,3 +15,10 @@ webmail.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b
 www.cworks.com.eg,0455acd2a817ba93846a1590cf1163f4bb70
 cpanel.contech.com.eg,03bb3c55d77f5fb243fb32351e9a4ae69184
 cpanel.itcmedical.com.eg,04f72c8a8c7619460cdda768c448049df6b0
+www.contech.com.eg,03bb3c55d77f5fb243fb32351e9a4ae69184
+capitalheightseg.alsafwa.com.eg,031505c08e2a73e4ccef362febfbe6e1f6a9
+cluestep.mas.com.eg,032c0f81344416b08a29e8abeab2ce303697
+capitalhubeg.alsafwa.com.eg,03ddfb8da54cb306c46de2659350ad0d99e2
+webmail.agi.com.eg,035de431bf0e7149723a1ca10e83b43fc051
+www.emeg.com.eg,047fa54854ec04f3bd3901c6181922ae5a14
+cpcalendars.dubaihome.com.eg,037e5a8b1eae537722c56a16652256601fae

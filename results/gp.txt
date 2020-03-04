@@ -1,2 +1,5 @@
 cabinet-dentaire.gp,0499bd67493cc406a14c32797ec7f90fd7d6
 www.cac.gp,04fff7ed8ea5aaa14fae4a4a5d163461dde0
+www.mini.gp,03fc4e496a0974eea4f8ba112d89f7cf57c3
+www.sixti.gp,040352ca3cab1fd5e9f642266a8ce8468831
+www.opel.gp,030561f5bd47c5df07a5b4397a96897c4343

@@ -7,3 +7,6 @@ webmail.logistics.wine,037b1495405c0e5a64ec2b7c3512325990cc
 webmail.letitflo.wine,0351db452fb59fa344a5f0bb99a3c7535524
 auctions.wine,031e4e72650b19a7d9187ad727a0eced5351
 cpanel.letitflo.wine,0351db452fb59fa344a5f0bb99a3c7535524
+webdisk.tua.wine,04be6c28dcc97adc6a6fc3ee781f4f8b2dab
+www.sting.wine,030460df9b3057680e78d8ef2cac93dab253
+www.gloriousgrapes.wine,037ac331864b613a56f0cf9cb0714077307f

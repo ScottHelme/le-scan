@@ -2,3 +2,5 @@ cpcalendars.tradeline.credit,036c3e5bdc16c73be65de229c7aa3f1744b8
 internet.credit,041ed6de0f4e22fef4f9fcbc12ba616164e7
 ecash2.credit,0313abf5f607116c9a2c57fc026f505f1566
 ecashto.credit,03656c6720c6c6be8dd4458008689aa8ba6a
+coin2.credit,03dbaed4cc930cbb77846042a027db93d8ef
+coin4.credit,0313abf5f607116c9a2c57fc026f505f1566

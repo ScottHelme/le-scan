@@ -14,3 +14,8 @@ www.warp.pm,03dc97a19bf04ecfa421a62f04d60ef7cc03
 www.simple.pm,03ee4e2ff794ccb552a3cebb66f4e2354e2a
 sdarot.pm,03496359741d62fbffcc32faf352975d1920
 www.sdarot.pm,03496359741d62fbffcc32faf352975d1920
+www.wav.pm,0386b28458fab3ca7b8afa91b7de00e50253
+tv.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a
+webmail.sushi.pm,03d9a8103e9179c61209f67c4508ddf133a8
+www.dulapiorulmayei.ro.warp.pm,035b3ead089a9d48bc5a496e745408e46ec9
+s.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a

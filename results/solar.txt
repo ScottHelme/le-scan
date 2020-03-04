@@ -1,1 +1,4 @@
 mail.ozgen.solar,037205ccde8497e575bbfce6d2a9af3ce4da
+krs.solar,040f9227555b9831ab1abbbfeef700e7ab71
+sb.solar,03d02ea7d55b5c25a2a8c090bf4f6cdbe742
+www.solora.solar,047e0c3f717543025246c9efc8b4fe5f187f

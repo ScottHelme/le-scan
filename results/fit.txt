@@ -7,3 +7,4 @@ gameplan.fit,039299c736986ce9148e4cea26d4f9503322
 cpcalendars.gameplan.fit,039299c736986ce9148e4cea26d4f9503322
 www.sprech.fit,04d0d2b050cc0ee38647d3b62588faa9afd3
 portaal.phileas.fit,032f74a422f6c01cb70cfb68654ccf801730
+cpcalendars.vpsc.fit,03fdc2222262510d465f9a4e2948c896955c

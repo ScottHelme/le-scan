@@ -1,1 +1,2 @@
 cpcalendars.trailerpark.bargains,0321a785e483b648f1dcaf8425262a22c358
+cpanel.trailerpark.bargains,0321a785e483b648f1dcaf8425262a22c358

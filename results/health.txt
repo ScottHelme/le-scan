@@ -1,1 +1,2 @@
 week.health,0492b10885ff64f2272abad0db9b89088a5f
+zm.amr.health,0330adcc53c37fa68f04556b1fcfb690c80a

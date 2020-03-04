@@ -7,3 +7,9 @@ x.brendan.so,04291f7db4dd74ac3fa4ec361c5875ea00f9
 printplus.printplus.so,0359ff1c25ccd12df0dda1bf0340ccd74186
 webmail.sahalfinance.so,03d8af58064abd135d366af5546c53edb041
 stats.a.nmd.so,03ded9cb054d0e5977d74728ff0717479f95
+alihsan.alihsanhospital.so,04c40a5aa8f25acf91c02c4351ad35b37029
+teknopower.so,03c495c47dd53f17a28dd745d5fbb65bebeb
+webmail.diinta.so,04dfb0495757df2dfecbc2b52cfc3ba17f8c
+rn.cd.test.kru.so,0337150136f30e0399911612535b0e9648b4
+webmail.adnmedia.so,03a63b00bcf051c1f3dfd8a85a0887321ac7
+blockchain.so,034c8f53666e0d026e4d878f3616a104efb1

@@ -3,3 +3,8 @@ docs.qarr.tools,038636e1f21fca8e7ef5509db1d44dca9833
 git.hidden.tools,0395ff372be0df3a6abe2d9fef5cbbf63376
 www.entwickler.tools,03ac3f22bbf392e3699e0cc9d5c9dd48b814
 nc.helsinki.tools,033443d2440213fc61f7dc900d8753a9944b
+namso.tools,03049067c03593667c81b0b1d4f262d9ec11
+cpcalendars.namso.tools,03049067c03593667c81b0b1d4f262d9ec11
+richer.tools,03885c64e6e23d8e1b18235f6a1677813d54
+composer.tools,0390f61d9763a2fb288a5f80ae88f4d19e7d
+drupal.rock.tools,03d96f69407414d1f0eefbc83f8122df840e

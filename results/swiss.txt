@@ -7,3 +7,9 @@ imap.radiologie-luzern.swiss,033e52c07e5c6c2eaf0ea985f61e5bf1b2bb
 fairbrands.swiss,038da63b0fd63120a4eced299ebfaf3fcdcc
 rest.lab-iot.swiss,0356a3e490f5139b9d8d63dd8279892fdff4
 www.citymarathon.swiss,03810fdc941d81371f1285f942795b6c9190
+grottopierino.swiss,03a1a8890a5a0e32f2503cfd2bb48015bc62
+www.ehb.swiss,036095300e10f25a4ecf54cb010f92078a2c
+www.avabox.swiss,031119a38374fe77782250d8b96d51de2085
+www.avacube.swiss,031119a38374fe77782250d8b96d51de2085
+xwa.swb.swiss,03231f20b091ef65139a070f2ee8db21b1ed
+www.treuhandatelier.swiss,03c58123ec65f971b7a0f8eed22abba5c1a3

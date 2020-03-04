@@ -7,3 +7,9 @@ cpcalendars.vote.dog,03325069523c959f6b119b84f7c00e92721c
 webmail.your-obedient-doggie.dog,033f717805ad7be1eb94a554ba4a8a1106e2
 mail.dogbracelet.dog,039875bfddd03b5980b645397099ad6df73e
 www.your-obedient-doggie.dog,033f717805ad7be1eb94a554ba4a8a1106e2
+mail.mfa.dog,03128ea780340eaefe1c68cc94560e6601a2
+cpanel.your-obedient-doggie.dog,033f717805ad7be1eb94a554ba4a8a1106e2
+www.olk9cookeville.dog,03eb6aa5a24165b57f973ade431e0e9ecf60
+www.olk9.dog,03f99efc8e7b9ffbb048d8b5bbbb67cbc8b5
+www.olk9tn.dog,036faf1a46a9a027311f7d5ae293d2ec704a
+www.olk9wv.dog,031e7fb5a74d08b2f984b6239abe07ea0039

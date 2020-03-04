@@ -2,3 +2,5 @@ cpanel.modafinil.study,03c923d1bc8fd3065f4d513878e9fb41f210
 cpcontacts.modafinil.study,03c923d1bc8fd3065f4d513878e9fb41f210
 links4unilife.study,03d6d5c13ac3349748d047037f347a25fb14
 www.ibible.study,034611602b47fb8132a599d8dcc57dd691cf
+mail.marketvisionresearch.study,034dc4020e362a75783bcbe6625245432ce5
+www.modafinil.study,03c923d1bc8fd3065f4d513878e9fb41f210

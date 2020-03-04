@@ -19,3 +19,8 @@ cpcontacts.jboor.qa,039651d093c9d9c6f68faa07efd156a64bce
 webdisk.gp2.qa,037ac47224d74c0354481d8d7318d3247b97
 cpcalendars.brilliance.qa,04551fa108bba7749d0e544a8ec002e8eb0e
 auth.qatartourism.gov.qa,03d0c9723802e519e6eac143f1829e8505ec
+webmail.cms.qa,038a38202823a1f489dea53005c5d513a4b5
+cpcontacts.ddaf.qa,0437025f593b8613a02f3de676c427bab2f7
+albandar.qa,03797cc076ede76b4cec1330ed58f3c6d854
+cpcalendars.sktcc.qa,04c70a0253423843bca123d31aae365c966a
+webdisk.permianwax.qa,031e9362266a03346bc13fc3651681fe07de

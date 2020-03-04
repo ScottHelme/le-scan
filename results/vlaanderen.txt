@@ -1,1 +1,2 @@
 nextcloud.cloud.boven.vlaanderen,043fa7a822b17f9843bfd7c14ae6529fde13
+www.booking.vlaanderen,03f781b2086a53265f553c4f2f7fa424d8d6

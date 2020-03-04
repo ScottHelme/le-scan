@@ -2,3 +2,7 @@ autodiscover.practica.vet,042348e6518afd2ff05d6e8ab48ec83511cd
 hava.vet,03656c6720c6c6be8dd4458008689aa8ba6a
 petalert.vet,034faf1f15887806224c8b0ae07cac3374be
 www.ask.vet,03bc042030a9cf05af2cdae6fbea851cd1f3
+cpcontacts.carver.vet,03dc58a279d1ae9a5e59f26737bd83601077
+cpcalendars.idexx.vet,037148d390c8ee5d3456f4019650c2d61d6f
+webdisk.ojaghia.vet,0361b15c811df76aa4a342e5fd39e220ec87
+cpcalendars.ojaghia.vet,0361b15c811df76aa4a342e5fd39e220ec87

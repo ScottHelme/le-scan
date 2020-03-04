@@ -7,3 +7,5 @@ webdisk.tecnoweb.lat,03fab7cc50e20b42aeb36965873ac03a0bac
 www.frucam.lat,03be6ea3f55d53f178c1cdf020c7dcbfe061
 mail.sisoi.lat,03d9fd41870ea7989647b8025e96d44c643b
 www.bitram.lat,03fbceb01adf730ea105554615ecf5ac8a4b
+webdisk.meridium.lat,039f2f961e4c70db13d9e4ccda9bbf3b4d92
+grupomedica.lat,03d7f9c501a40fbfa3f77cd7df5cb92ae371

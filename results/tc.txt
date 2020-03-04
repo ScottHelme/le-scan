@@ -28,3 +28,8 @@ propertyturkey.be.tc,035d04ace44b236865c85f15b32ae8de2bcf
 webdisk.radyodinle.tc,0377501c28fb5b5272646ddbf52137f46d43
 www.xo.tc,032adce8ae7feb8ca129e378a07248c9b70c
 www.nephanoglu.fy.tc,04e2c416b921eef103cef7257bd442320cd1
+mail.uh.tc,03e0c674628bf20984a7a9471827ddb509e8
+webdisk.merkezteknikservis.net.tc,043ee32348df95cd3f603d93d4a246c5694b
+cpcontacts.petshop.com.tc,0315f94b23683663840a5099bef8e47b20d7
+cagrimerkezi.net.tc,030830dbad02a692fd1aea006243f56fef4d
+ppml.tc,030ce505af4f9dd45f162d441c89a9d26dd5

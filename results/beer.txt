@@ -6,3 +6,5 @@ www.cluj.beer,03479658b6e4eb6b40e94efbba95a19af9b4
 www.bender.beer,033bc83ffde31f0de0b6058ba5ff4e5d50d5
 www.marco-experiment.beer,033c5e76470301dc3b527e01389c40a75f62
 cpanel.cluj.beer,03479658b6e4eb6b40e94efbba95a19af9b4
+funkfest.beer,031c2d7d43bc1552a9f5768a2126bfe52183
+bw.wishyouwere.beer,03959579bb2d02cd22c802ac977afd27841f

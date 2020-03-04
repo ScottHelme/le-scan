@@ -15,3 +15,10 @@ landscaping.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 www.profit.place,0350fd9c2f7165c90c8f0abea37b58f6b04a
 shafiq.co.place,0478a8e6f870af18178fd7d4320b256d7e8b
 pointspermis.co.place,03619da68bba4a3415f55c26d50cc7259dbc
+cpcalendars.rwr.place,03c81060f695880546e62f89bc20d98d2b99
+alterations.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+www.wedding.mommy.co.place,03968d15d678cb1d0e6f35a97fb2d876dc9a
+carpet.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+pet-care.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+house-painter.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+itsafe.place,04ba9425bb2ddd0969856a9f28dfd818548d

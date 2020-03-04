@@ -7,3 +7,6 @@ fluxloop.smooth.as,037fe8f446f1c3fb02c7094add27c680dc20
 hooz.as,048e3d298316ef55b29997acdbf5e68d8af4
 setio.cop.as,032e4cfd63d722b1f1ae6e221eb37b2304ce
 www.registrere.as,046f023a70045711d2c0981af7afc1b06236
+mail.gyp.as,04878fc7344939708c823cbebea441143738
+www.ramet.as,034b2df1a1398cdf86acfd555cccce93e08f
+casino.as,03d0bd75687ec4e86c119fa08e0d266c5a20

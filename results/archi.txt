@@ -1,1 +1,3 @@
 cpcalendars.cdm.archi,034fabc243bc9b07f1f2330d71a50b4c0090
+cpanel.mir.archi,03aa8830ba9c5f15f8e7413fd04be2c6996d
+patry.archi,03f4cd2deb2dadb9c742d93534724350c621

@@ -9,3 +9,9 @@ d2-s2.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 d2-s3.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 d2-s4.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 wiki.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3-s0.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3-s1.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3-s2.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3-s3.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d3-s4.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a

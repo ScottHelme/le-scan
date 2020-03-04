@@ -4,3 +4,8 @@ webdisk.hemming.ax,03c110382c56d25bb747ea8c47c006ce3df8
 webdisk.tildeman.ax,03711e312511bf5ad1743fee8d567961bdaf
 cpanel.kalev.ax,03340f502c67eeab992682f8e6be54266758
 webdisk.fransar.ax,03340f502c67eeab992682f8e6be54266758
+cloud.rin.ax,03b9dc134342e9a42a76f6763a034be3a74d
+www.ily.ax,03f882f63b2f0ccb695c3c4ff683ab126bf1
+www.alandiastrings.ax,0387161a9f633f380303c3e7f031e53471e1
+sql.os.ax,0387dc702aee2489196f11ba5c775bf03d2e
+mail.intermar.ax,03c110382c56d25bb747ea8c47c006ce3df8

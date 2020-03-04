@@ -3,3 +3,10 @@ admin-3.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
 admin-5.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
 cpcalendars.growcart.delivery,0492935041dc70151ede4714c8d0b5a18083
 webdisk.growcart.delivery,0492935041dc70151ede4714c8d0b5a18083
+portal-ui-tenant1.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+portal-ui-tenant2.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+portal-ui-tenant4.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+www.peace.delivery,0361953e8067fb2f90c2c1d00bb132b40b5b
+ce-bas.demoprod.dxp.delivery,03284deee3b0de9b8b4f9047e18602f5fe05
+ce-bas.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce
+ce-bas-ukloc.int2.dxp.delivery,039e996a72880ef6243667fffe41dd1c42ce

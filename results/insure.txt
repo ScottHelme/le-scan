@@ -1,2 +1,3 @@
 www.russia.insure,04f94d71f6929045b170ca6b790a8aab4289
 www.org.insure,036750d7b466d4a6c6f8863b72d13a8cf03a
+cpanel.awg.insure,0398d20c46942ba7040d2fd94fac66afd2fe

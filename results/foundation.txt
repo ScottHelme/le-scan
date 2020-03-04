@@ -11,3 +11,10 @@ webmail.mmlb.foundation,04be9e10ccffefa947a1940412778cdbd24b
 le-35.dev.deliver.foundation,0358ef5b209ab491ce97e096afe5815666db
 www.mmlb.foundation,04be9e10ccffefa947a1940412778cdbd24b
 www.artserbia.foundation,03e9bf2be88a9d2791d86949ab63ba3ab9a8
+webmail.development.foundation,032a303d5e0d50549de890297cbcbdda7b51
+35-review-configmap-le7ige.dev.deliver.foundation,039202170c2e51ef14791912416eafe112c6
+35-review-tc-logging-fvwmyt.dev.deliver.foundation,0378ecd177476fbb1add5fac64a81776cca6
+www.daudi.chaki.foundation,03eb826923b4317893870cb0754afc49175d
+www.brightfuture.foundation,0326cd5e1b95e2d201dd9949a780213670e0
+le-59.pilots.deliver.foundation,038f07cad9bc8e1ddda33083b4e5d676a267
+cpcontacts.deaf.foundation,037e383fe1ebbb80c5912ddf369d6b316f2b

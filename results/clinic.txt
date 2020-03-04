@@ -1,3 +1,4 @@
 webdisk.cool.clinic,04374aa64f5b6eedcb93f95c6ccf0f6ca123
 webdisk.accidentinjury.clinic,032cf72edaa7bcf874878adabef4909aa97f
 budapestdental.clinic,046e1f6e6aa7bb2eefd3e0101da2a2fcd23f
+mail.accidentinjury.clinic,032cf72edaa7bcf874878adabef4909aa97f

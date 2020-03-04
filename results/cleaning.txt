@@ -1,3 +1,5 @@
 carpetandupholstery.cleaning,04d8f81cb6b6540bdc18a29c1a18f6f131b9
 s.mage.cleaning,0449ccb6442aa0948c8e2bb64ef2991f6dfe
 mail.alliance.cleaning,04198afb017c56e99e01d95debc5bad88438
+www.newyork.cleaning,043df7631a8e82ed38759006203ba06b5973
+www.chicago.cleaning,043df7631a8e82ed38759006203ba06b5973

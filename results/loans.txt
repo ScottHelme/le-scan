@@ -1,2 +1,3 @@
 test-loan.tanker.loans,03fa77deb01718c59caecdefcd2a9ba34e4e
 terafunding.tanker.loans,03fa77deb01718c59caecdefcd2a9ba34e4e
+enable.tanker.loans,03fa77deb01718c59caecdefcd2a9ba34e4e

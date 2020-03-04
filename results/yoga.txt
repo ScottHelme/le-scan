@@ -4,3 +4,5 @@ www.bunbury.yoga,04ad722dc225748dd7fc21d06405511c366b
 cpanel.filmtvcompleto.yoga,03b0053f1262d6c310a0065c6c0911096ec2
 www.nishchala.yoga,03c67e3e469808c7ee2ca8ee3021dcb100af
 saovicente.yoga,03323089660dee6397e90f7eb554e8e91565
+www.internationalyogaday.yoga,0386532a44ca8c7ac7db59d7e03a08ea8642
+www.aysel.yoga,039d55c61b6f5bf8d9b80c3c20155872bb6b

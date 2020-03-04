@@ -15,3 +15,6 @@ www.virunga.coffee,03e90ebf811a500e36bdb8fa348a1fa6e52f
 webmail.tuku.coffee,04ed54798d03c57cef7d999384993f6c2bca
 cpanel.troffee.coffee,032a0c50f03eede1b0149cda0c8759a025cf
 cpcalendars.globalcolombia.coffee,03d4c95346b3294db987718e88fcfb788b46
+webmail.bagira.coffee,032cbcb71f2ad161e084a942e6e88bde93a8
+webmail.wanta.coffee,04862b2d6e4818a7de671cba20f09388a612
+lovepeace.coffee,03b214adf6a89dda763293fb6ef5345f75c1

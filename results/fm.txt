@@ -18,3 +18,11 @@ mail.rlabs.fm,035bebb52d4d4d926f7578145674cec78b3e
 www.jewishmusic.fm,03a6cfe23154524ee5e38198a2afa1dd674d
 www.ramdam.fm,03d7a379f485349f0e3d452326cf63bbe6f9
 webmail.eco.fm,03a29f7f7fd54eacc4959b751e50a5997be0
+cpanel.soydigital.fm,04c078c0362ece50add2ae637636d0a446fb
+www.fun1071.fm,0326ba7571bc203b0e8cbfc35bb7c4fe7a21
+www.cfcy.fm,0444e25fd82bc60e786a1f17cf99d710a649
+www.hype.sly.fm,03ae43e6fdf8cef2c35e6b1cee0aa0890285
+webmail.fun1071.fm,030004d222540b1a9ec0a9154842fef00b5c
+autodiscover.sly.fm,03bc936b6339284fe1a02218bbddf34b758c
+joy-house.kobe.fm,03655cf390a41d1a68a60f287adc48897a7c
+media.oxigeno.fm,031cd462ab2c40e1ff40c7dc902ecd15c667

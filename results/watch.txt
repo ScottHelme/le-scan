@@ -7,3 +7,8 @@ mail.nfl.watch,036a7a67b002b694639fb8de55073db64eb9
 alot.watch,03c9a527d59ef11b050840536067488d25fa
 webdisk.losna.watch,04cef2d16028414a1cc898461389a563c603
 mail.soros.watch,04fec17b68798814aee5c4fc5944bca57d61
+mail.browser.watch,04ac7bcf52d71e7555b88c01da3f8a0446e7
+cpcontacts.losna.watch,04cef2d16028414a1cc898461389a563c603
+autodiscover.nfl.watch,036a7a67b002b694639fb8de55073db64eb9
+www.regnum.watch,043d0d504d06eb824866ec1db2e870a1cafe
+cpanel.webnetic.watch,0343c39a1dce27cf6117efd350003e58a582

@@ -2,3 +2,4 @@ api.hotellospinos.com.ni,03d91a1f51cb122c217cd8718bc2be6436d9
 generalpanel.com.ni,0347d3ca9939f43bf6c92f3aa6841f50027b
 webdisk.copersa.com.ni,03088817f0a0ad773e576da994e069afd1dd
 www2.edestinos.com.ni,037a0ccb9782851adf6f7880dd0097e27b17
+cpanel.cepad.org.ni,03af0a29242733e3d4cd182fe633644b4a0c

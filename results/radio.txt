@@ -3,3 +3,11 @@ cpcontacts.112.radio,03b038ce913d73238fd6091281ca402af7e4
 log.dm7ds.radio,04df1cbcd3e118ada8b812682a5bb355104a
 www.sns-topics.victory.radio,04d8d11221ac83c0527a715860007b5b2382
 af-rothenberg.dm7ds.radio,04df1cbcd3e118ada8b812682a5bb355104a
+occitania.radio,033e2f7aca5a4592b1a0bafddf2426b4eb8c
+english.radio,03e9e5a8af823ec454722f89c5eb729613eb
+cpanel.w0mpm.radio,031bdb9ddfe6f70f28585dbf6185210f8e03
+www.112.radio,03b038ce913d73238fd6091281ca402af7e4
+www.dm7ds.radio,04df1cbcd3e118ada8b812682a5bb355104a
+cpcontacts.malecon.radio,03842d16d333442d3896d02e69927f4129c6
+mail.wb7eux.radio,03665928af66c467689866adc3cba52d79d6
+www.malecon.radio,03842d16d333442d3896d02e69927f4129c6

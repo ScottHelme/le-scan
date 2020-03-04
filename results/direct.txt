@@ -8,3 +8,5 @@ mail.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826
 auth-rc.bb.direct,037171f92701fc6612ff4b37d237e7e4b7f8
 www.msg.direct,033717cc35403e1aca8f4b938e80b00da018
 webdisk.cocoa.direct,0338389a4f4b7b4f248f5d171ab9e08374bb
+webmail.aktien.direct,03fa1404a3ac556aafbf959095bb3fb9d890
+webmail.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826

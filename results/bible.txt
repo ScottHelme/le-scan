@@ -16,3 +16,6 @@ bukiyip.bible,03985d9bfc8873a2ab2b2f6adc0af6248c87
 www.sunsetlibrary.bible,036a54ed7c05698bc19f8669cf285e5f3437
 www.drj.bible,03c63b86f72eb15b55b10b4879bab82145c5
 www.kosena.bible,0317d579b6b1832298a72a5089aef88fbb0f
+www.hack.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e
+together.bible,03bf2c41ef385eb8648a30a0a5b0fe57296e
+www.angaataha.bible,03106c6332748a6afdd7855b775f7f347029

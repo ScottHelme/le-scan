@@ -9,3 +9,6 @@ webdisk.ooo000.ooo,03d7a15abb33f19b06be4eb38efd7123b4a2
 mail.zic.ooo,03acd6211bfc75c520f653c530c0c84fba65
 ffcs.ooo,03216c4bea004e1c0bc90aefb5ffa1ec2125
 cpcontacts.bikerbeat.ooo,0318c439d85d5e933a47db6317911d7b67ee
+mail.setiaykk.ooo,03a330cb2d034db4b7090849be357249de56
+gabriel.ooo,0466773d5be5231e4723f2a32d5a976bcc99
+cpanel.setiaykk.ooo,03a330cb2d034db4b7090849be357249de56

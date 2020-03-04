@@ -13,3 +13,10 @@ www.ubcar.mn,0304350935c0c5774d72ef9ea4a6fe50c8a8
 cpanel.srp-mongolia.mn,04cf330755fe2da3d1d6f82af25e938d6ed5
 autodiscover.chimege.mn,03f5050824aabaf439f115b655af0aabe55d
 office.mnuac.edu.mn,5e04923f
+webmail.srp-mongolia.mn,04cf330755fe2da3d1d6f82af25e938d6ed5
+zbu.mn,039997b60dd4e45d816227f1f04349040bef
+support.fantasy.mn,047fff6fd98847d8d3c8e1b77cf557472b77
+www.resource.my-zar.mn,0456387467198e98914e0d00740b074a9f30
+erp.enkhiinshuuder.mn,0340d22089ee6d096c63f11d20aeb2106699
+mail.topjob.mn,036e5cf28744dbc98114c8ff1b683d6e56b7
+kane.mn,0362256576ec7539d233778858dc1e33e897

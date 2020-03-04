@@ -23,3 +23,10 @@ mail.galleryone.ps,042ed0fbe9a5f01d0d231f3825a156088c50
 webmail.webtech.ps,0347126efc92aa35e3941a92710e85c4ae22
 mail.alweaam.ps,0369e68ed2743f3a4deb4fde7720913c9be8
 cpcontacts.hadfnews.ps,034cb77e1fdcf6bdd486c80f03ad714e6952
+ali.hassany.ps,03c921aa21a5af1099e6989c58348ba63ecb
+cpcontacts.alweaam.ps,0369e68ed2743f3a4deb4fde7720913c9be8
+bladna.ps,04ce06ee0fa9bbafab34b9867a88def04e3b
+webmail.metronews.ps,0374c99cfcb97e1f2347f1b1bb17c0c52162
+www.cdacharity.ps,048a1a69d3379ea6dda9dd0425f2dad1d5b9
+hebronlive.ps,03b834e1dfb79be09e9a1049a73d3d7fc3b5
+webmail.xomoda.ps,0388a06686430542db82b844172b2c62882a

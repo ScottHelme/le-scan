@@ -16,3 +16,8 @@ webdisk.cocina.red,03c634ba67f2011c4cd1140ef293c0eab83d
 cpcalendars.honest.red,03a05871f7f03829b6d7fab5a736f094a93d
 www.sdal.correia.red,03f2788675fbfde09045161c8c35c7545c16
 webmail.honest.red,03a05871f7f03829b6d7fab5a736f094a93d
+webdisk.elnodoweb.red,04c2b554824127d0d350407d48f744b853b5
+users.dialectica.red,04e04708defc2d65ffbbf377f5cd2857754c
+www.hotsauce.red,0476f9d0b5c58cba2b44314d1c44b49a000f
+www.estafados.red,03e020a8c9e9759be43563ec7cf5ae25e6ed
+cpcalendars.markalia.red,03aa5168283792713dfb3af40561d9bd9c9e

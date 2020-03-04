@@ -20,3 +20,9 @@ cpcontacts.ajc.af,04df09a480f888ed6f3d4e072deb7aeac296
 mail.swp.af,037049c3ac176423261a6352ed96070553f2
 cpanel.orps.af,03cdeadd4841f50c5f1d46df67ca45c47efe
 webdisk.didactic.af,03f67dac8dfb58344e971eeed0a5fb46fb2f
+www.arg.aop.gov.af,036b6b0675b6d2145d5e2aa7ca2dbdd65db9
+www.argarchive.gov.af,035fa2fa5771bd8eaaeff475934599a2e910
+cpcontacts.awklibrary.af,03a8664753113146f9217eb03027cb4cfc1e
+webdisk.ncdp.org.af,047082dee3609736f1c16e44823e73f5a9dd
+www.astprint.af,03f2a5cf4614820f8481dc6589e7a86cb16e
+cpanel.awklibrary.af,03a8664753113146f9217eb03027cb4cfc1e

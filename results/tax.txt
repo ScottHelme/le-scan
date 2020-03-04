@@ -5,3 +5,5 @@ atltaxman.tax,04474ac0efd869d927460f463d7a3da26994
 webmail.ramirezaccounting.tax,04727c77da2e42c5954c00aa210b7d1fdf2e
 cny.tax,032a2a958828f6d90eae0673e28f5e2fad2f
 cpcalendars.atltaxman.tax,04474ac0efd869d927460f463d7a3da26994
+www.arbitrage.tax,0343b89443ea1ba0274374fe18e3024f2697
+www.ebit.tax,049e6b9a4387afa21db2a01bb090dd90644d

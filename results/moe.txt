@@ -14,3 +14,13 @@ autodiscover.aishiteru.moe,03a9ec6eab66862ff9af65ac28af8cd576db
 sukumizu.moe,03b28241083e1317ed4dcf0e85fe7d6f4520
 nyaa.46620.moe,0490a0497575d8e782d10c7447a24c25bd8f
 xinmu.moe,036906f758fc1e6e71da6bc93111edcedac8
+xn--zckzah.mnh48.moe,03b8603f40be783146bd6ea8944c013a04ca
+sqli.moe,03339ca0a12c78dcf27a31deefa4f5a8e97d
+office.nepu.moe,0322ef71e472d69179bd635e0e157da63835
+garage.frank.moe,0458e8aad2c7a7177ea91a2635030c127dab
+upload.myrika.moe,033ee05b14c33dc639fd7cfd23ba30d1e483
+nyan.rawr.moe,03c45aca3df374476f3e8ec45d2a87105f15
+drkrieger.moe,03cae026152be992f0cde0010b54d0bd7b7a
+nero.moe,0347c3dd7ea3b8ef1f58fef24c7b27e13acd
+sstmlt.moe,03c69f48bd679ce4ede7382fd5921d9b77d6
+sstm.moe,03c69f48bd679ce4ede7382fd5921d9b77d6

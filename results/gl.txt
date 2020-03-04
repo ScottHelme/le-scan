@@ -12,3 +12,8 @@ www.pilersaarusiorneq.gl,034eebd81d84ae7592adec034b978af9bd4d
 sunngu.gl,034eebd81d84ae7592adec034b978af9bd4d
 gts.gl,037a8f59f37691ad6a3ed9f0efc095dd0b8f
 skak.gl,0327f1bd412e60e24b963dd4ece1dd26a0b6
+extranet.allorfik.gl,034eebd81d84ae7592adec034b978af9bd4d
+www.kti.gl,03540e95cb6ff1db801b0e2311637ab9f738
+www.imaani.gl,034eebd81d84ae7592adec034b978af9bd4d
+www.kaf.gl,034eebd81d84ae7592adec034b978af9bd4d
+www.nuuttarneq.gl,034eebd81d84ae7592adec034b978af9bd4d

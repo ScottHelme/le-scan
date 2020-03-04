@@ -1,1 +1,2 @@
 webmail.nuage.salon,037d5b855b7cee0d82b953c09211e4991ee6
+cpcontacts.nuage.salon,037d5b855b7cee0d82b953c09211e4991ee6

@@ -4,3 +4,9 @@ m3l.com.mm,03972b125411c799f3ef88d11498a4e62769
 medihub.com.mm,03cc9e97825b5a28b610b203e8a5531c0642
 mail.m3l.com.mm,03972b125411c799f3ef88d11498a4e62769
 muslimfreehospital.com.mm,035174c8bc23265af124e64de336f76748ab
+vector.com.mm,03d62ba8ee632178585ef6f29df9aa79dcb3
+mail.gomyanmar.com.mm,038fba0298cc328b3e8dfce1467846d94916
+www.muslimfreehospital.com.mm,035174c8bc23265af124e64de336f76748ab
+yoma.com.mm,03de7259d48f1cddcfe88945539eba01e903
+www.inle.com.mm,03b10002080c4028b6edce3743f9191ceb2d
+www.mplus.com.mm,033ba4968b5dd398c48b143ece2c1e612642

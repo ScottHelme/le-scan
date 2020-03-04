@@ -30,3 +30,17 @@ cpcontacts.muvibm.cool,03fc63f8aee9b939ad753dbf877bd4e219a0
 news.stage.cnyes.cool,03c84ca75010c17ed0f93898424f718cd08d
 www.sattler.cool,037dfecf8f121404fcdc76fc2f333933aaaa
 api.prod.cnyes.cool,03c84ca75010c17ed0f93898424f718cd08d
+upload.junk.cool,04df078759fe20b8877644d1b3e46c45225f
+hellmatt.de.cool,033f737e26c836279c6bf3425d730383bf97
+oxid6.rateit.cool,0356256b3a218a15a9c2d179556950bb1c92
+www.jo1208.de.cool,0482d5bff6bcfe12dcd028d825298d813917
+prestashop.inshop.cool,031298ca4d5f42aec460734ef64ae1b79cb5
+www.sweepstakes.cool,04837a492f15ab3e008295e1cf1e290f5321
+www.mc.de.cool,0454a57c1592ee96a44bd4e8f1ffedbacf73
+seopanel.inshop.cool,031298ca4d5f42aec460734ef64ae1b79cb5
+webdisk.streamingfilmcomplet.cool,040ee5f11942e0811479bbe896ccf50cf5f0
+www.abiay20.de.cool,03b061206a186ad22ef07a620aa0ed873675
+subshop-shopware5-5.rateit.cool,0356256b3a218a15a9c2d179556950bb1c92
+www.lindsay.cool,03c117587167cda3386480f9b1217ff19768
+www.seopanel.inshop.cool,031298ca4d5f42aec460734ef64ae1b79cb5
+drei-fragezeichen.de.cool,03964c758bd8d128b17673912b77fb871eea

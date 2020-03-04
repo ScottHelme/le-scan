@@ -4,3 +4,8 @@ cpcontacts.uptospeed.social,0343dcd94e0c12771f726bc545095deed8c6
 triangle.social,03131f1b9f9dd8f3b2e6bb2e038672ad022c
 compliance.nui.social,03612a796d42f11a3284da7fc060ac48ace2
 webmail.betta.social,0358ebaf100d74be31b659c0c55db3933d79
+web.frame.social,037badb4c527a20ef964949e0bdf55c260ec
+seoonfire.social,04240cb8e369bfed4d297dcac5e76265c807
+www.cardedeu.social,03c1f449b52d0aa2f506a01161af96b55db7
+m.daan.aan.social,03077a429af0a598b60f84119db21e790e8e
+www.seoonfire.social,04240cb8e369bfed4d297dcac5e76265c807

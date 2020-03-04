@@ -10,3 +10,6 @@ mitsubishi-motors.com.gh,038f9d2fc311ebb47fb2f90c13edc8c88853
 webmail.asaana.com.gh,0495333854ed19c5f9912ef0a8260e01de4f
 www.sdantc.edu.gh,0305392fb24e6bd6ad17294df0e5a1b796bd
 autodiscover.asaana.com.gh,0495333854ed19c5f9912ef0a8260e01de4f
+cpcalendars.namio.com.gh,03997156d6ff340fe4ccad82a57ec9b63740
+mail.vtfprogramme.com.gh,03cc078a205ce22a2d823f096e9dcaa77f74
+cpcalendars.tace.edu.gh,040772c471a2902326fb68a5e6ced453b7d7

@@ -1,2 +1,5 @@
 cpanel.hipsterfood.kitchen,036aa329e7934a57f38752e047f802c91143
 autodiscover.thecatswhisker.kitchen,03f3ef7e8a15795b17840ff93aea15fd4c4a
+lewisandhill.kitchen,045f63bbde0607101fd713180f17d3aa57eb
+webmail.mangosteen.kitchen,03181d4e7f94572c90ef6114d55696a125e3
+cpcalendars.hazeltines.kitchen,03d8438c354e23cc77d3274fc800f89add6a

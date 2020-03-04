@@ -30,3 +30,9 @@ ca.free-math.games,032ecad954cccba7fdd278194c4691d4fdeb
 ca.free-maths.games,035881db0e6e69e10cd70172bb2faf4b4381
 dreamy-terrarium.wfs.games,031f878afa140a0735a3dcbdd8e2dc66c181
 webmail.keuh.games,03f57b256835ad6f6e8278af59adaf70986f
+webmail.nudge.games,04dec837b1fd41fdd5134db849c936ccace2
+www.myturn.games,034a4d58340561b26e7d798b6ea00c35fc26
+webdisk.tucantravel.games,03cdbc6386ed68a98ab5bab9562c8529051e
+cpanel.blackpudding.games,04caee9a85d5902d0ff28630706772a36aa8
+cpcontacts.doublenudge.games,04291bad7756b566bc4221f6b17962625886
+admin-api.claw.games,03b9f37a27a168b586fe9407a7a5505c4a8e

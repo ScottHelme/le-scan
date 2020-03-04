@@ -4,3 +4,7 @@ thewhitehouse.fo,03a365e14227c40b03ace74cc430fcb52a90
 webmail.torbjornolsen.fo,03284b75eacde2e2ae59c32cd4f3be32cfc1
 cpcalendars.sf.fo,03a153a9358c59ffdbf2d230b1fb94ef8a19
 old.whatson.fo,0436f18bf3acc59f509f892969253c9778f0
+webmail.sf.fo,03a153a9358c59ffdbf2d230b1fb94ef8a19
+cpcontacts.sandmus.fo,037560e8d281a40a54914fd10bacb8a05286
+www.whatson.fo,0436f18bf3acc59f509f892969253c9778f0
+www.nt.ww.fo,03ddfca0d76aed0d14657346e571ba1c5558

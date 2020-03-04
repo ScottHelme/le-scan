@@ -3,3 +3,4 @@ mail.adequategroup.gm,047c39a91f2efa6581e711264dc4aa16211c
 cpcalendars.gamhub.gm,046c2b53bb5faaf6764aa5e23d230d95081d
 dev.lecket.gm,03ace9e3e95279ce21949c520454c0330d81
 cpcalendars.itservice.gm,047c39a91f2efa6581e711264dc4aa16211c
+uat.bsc.gm,0481db7d31e557c1c45855ac39abba34968c

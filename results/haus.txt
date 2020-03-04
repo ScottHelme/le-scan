@@ -1,2 +1,3 @@
 homeassistant.moore.haus,0396e39deadf31218363411f30336c9433c7
 autoconfig.gabriel.haus,0391b44765c487f44d8eb5c8e32b4bbe3aa5
+cpcalendars.streetcouture.haus,0456f88e307c74ac97e810a59a42eb314303

@@ -17,3 +17,10 @@ emun.eus,030e734960dd60b0b75532a19eaeae8ebeaf
 rss.jon.eus,041335c50df605fb7daa388b44de944ab020
 git.jon.eus,041335c50df605fb7daa388b44de944ab020
 webmail.lainoa.eus,03b5830a75551622312aa06a28cdbefcaa1b
+webdisk.blog.kaixomaitia.eus,03ccb94334d057bfd88bf31e7da501bcdb5d
+mememaker.lainoa.eus,03b5830a75551622312aa06a28cdbefcaa1b
+mam-baleike.tokimedia.eus,03e520228c3f8c7c76cca62a651a58237909
+mam-berrikuntza.tokimedia.eus,03e520228c3f8c7c76cca62a651a58237909
+webmail.entzunekai.eus,035f7f9f179b0463f3b951ae49dadd68455a
+crm.urbieta.eus,03e7430900b5b6b550ef49d5e21d243f642c
+www.lotura.eus,033ca42442642d0983b2e674c0fe195d74e7

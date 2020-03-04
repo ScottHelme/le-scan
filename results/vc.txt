@@ -24,3 +24,12 @@ itrecruiter.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
 krri-gamedev.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
 www.sake.vc,032737362f68c621ef7c4e4f9509da55d79e
 webmail.cozyprop.vc,0331324eb9da3ca87531a7537dd39f620873
+barzo-site.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+bda.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+appliedcrypto.vc,032c82428ed66ba04cfb8950fb62fc30f6f1
+www.indk.vc,03948c27ea032aa450b934d6354775f09c06
+cpcalendars.tachyoncv.vc,03c8a9d94879d1d29c31a18cbb646e4607ae
+dn.vc,0408857a3cf6a57017bb1717b87bb3b010e1
+loja.pragas.com.vc,03f1dd746f132e424f14783f56645e4b4adb
+cinemotionlab.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+cpcalendars.markaprime.com.vc,0390491bda31b537ce88169a19c3f2778a24

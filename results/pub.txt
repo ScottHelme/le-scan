@@ -16,3 +16,6 @@ thewoody.pub,036d2725b2277f6ecb310a9ff3eb3bec6bdd
 metrics.freecat.pub,03c745c1fef16cb61a22d0a1cef59544dae7
 c3.pub,03ed3f9cb39746fea4219a5c3db0e17e9726
 www.rbx.pub,035d7af90b584fc40d97f405bcdc0734aefd
+gitlab110.itd.pub,0335b6ab56fe9e111ad1573d0862be169d11
+www.babilonia.pub,031494ef232258c08a510e7d78877f1289f1
+webdisk.mrwolf.pub,043cc2090037c1897c2fb5c876549bf96238

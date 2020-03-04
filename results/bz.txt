@@ -13,3 +13,7 @@ mobilitaet.energieforum.bz,04eec3144ba62557baf7164eda308119e183
 webdisk.sunpower.bz,046250182dde885a994856d78f0a99684119
 cpcalendars.rvw.bz,03ef6b62b6de400d2027a055bd57434fe142
 muc.volatile.bz,035f76488aff5b4a36c8af0583bc41dc7c83
+www.meanpage.medic.bz,03e8f0f6c2a7d7e619a97546e9a28796cd44
+www.kiraku.bz,036d5b7f3b46a26eeed9b5fda024e6b3be2e
+mail.crms.bz,0360b85d913df396e2a9a242d01b64544fb0
+digital-learning.bz,03d63258c35ed008bbe95c526d76a76e314a

@@ -17,3 +17,7 @@ com-au.samy.ticketswap.pizza,0376e3797eadbc553ddf3ae07ba62af53e6d
 com-au.tiger.ticketswap.pizza,04af4a9da7ed7d257290b345c765487574c9
 osens.pizza,04643b7524ac5d8c7a8defadbb8fd3a22da6
 cpanel.cluj.pizza,030597848a7f6f20a26fec4a40b957344d1a
+uk.lucas.ticketswap.pizza,039c5e1a1861065b62984c25c5da0afd3d84
+www.jew.pizza,03cdd27373c6eb674148ceb83e80aba8e04d
+www.leopard.pizza,033153d58ea6cc251c85ce31d8ed6c83afa1
+be.derek.ticketswap.pizza,04f044a0f6376efa82385bd69d802692f27b

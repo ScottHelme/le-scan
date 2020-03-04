@@ -6,3 +6,6 @@ cpcalendars.brightanimals.com.lb,03a52756104e03e03c4fc4ec0f4eb994e204
 www.brightanimals.com.lb,03a52756104e03e03c4fc4ec0f4eb994e204
 cpcontacts.ajial.org.lb,0450b9477d839f3704c6689fc7f070bee6dc
 cpanel.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc
+webdisk.brightanimals.com.lb,03a52756104e03e03c4fc4ec0f4eb994e204
+www.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc
+www.springcommunity.com.lb,04f818bdeb605604883c4126b9d2e3ffbfa6

@@ -17,3 +17,10 @@ www.msf.mu,033efaf8f1f45575fc65387d6cba802012ea
 www.registration.fitnesspark.mu,038ce61be71e4eb501d2f9e55335946a6144
 www.msf.tourism-mauritius.mu,033efaf8f1f45575fc65387d6cba802012ea
 webmail.apanama.mu,0318fded6670a353564670b8feb5faa72e28
+kabann.kom.mu,03cc2715bbe95bf9f045fe0092513a65d672
+kabann.mu,03cc2715bbe95bf9f045fe0092513a65d672
+prestashop.kom.mu,03cc2715bbe95bf9f045fe0092513a65d672
+whm.eventsmauritius.mu,03950a7556e67e9bdcba3440a438a9c0b776
+resto.kom.mu,03cc2715bbe95bf9f045fe0092513a65d672
+conciergerie.mu,03a02b07abfd8aae6d96e4b8513ce60a6571
+www.dev-ipl.gowest.mu,036d7e7dc9fa8591e6a138041738b4828aba

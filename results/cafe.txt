@@ -9,3 +9,7 @@ cpcontacts.polak.cafe,0455b8626c3481822c9eba37e1215becb810
 alopex.honeycomb.cafe,03cb2bb801205e9b9aef53c29b7d0151fe41
 mail.fairplay.cafe,03b353c5795e8175669f65603408cb5e0c17
 code.collaboration.cafe,03ab5aac163b10d29f51b41e5adcf1eae3f9
+www.steakbox.cafe,03bdc926451a86b4bc65dba625f4947ee957
+www.doom.cafe,0338781f3beef1517950c55358c5018f6a39
+cpcalendars.skyblock.cafe,033472c8eab0dd5d1d26dc0b5b3f128dfccd
+www.psilocybin.cafe,03b6b7931db5033108178d34a0fafc4fad38

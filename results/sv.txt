@@ -10,3 +10,10 @@ www.ainsa.com.sv,03e72668d2e93cc2724f85fb77931408a753
 futuroabierto.org.sv,03f9494be115e44202afe1a9cd11c3154a29
 cpanel.bienesraiceselsalvador.com.sv,0340b65f206c1394369b8929bbadd6557364
 cpcontacts.hackfest.sv,03da0f5257ab5af4247fc40e51d9f624fe46
+webmail.uls.edu.sv,03d2d57bfc05d7ac42d7008b0efda14390f1
+mail.radiochalatenango.com.sv,04705e275403e34933efd11fe04de1fa1a7a
+etcetera.com.sv,03f38e9f5920c7cebd1d7f72ab1a9d1358eb
+cpcontacts.opticasfranklin.com.sv,0352aab3d335cd34928261d335446da85392
+cpanel.svnettest.sv,03fa212b78c83dbb4d69046e1ab891039b92
+cpcontacts.gpsplus.com.sv,03d6e4ec40f3fc64a22dea843c1bba703a0d
+distel.com.sv,04562193cf516efd8c0cc2bb0c901e4b3008

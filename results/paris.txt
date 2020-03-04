@@ -11,3 +11,5 @@ dev75cdn2.elbe.paris,030a5abde9605705f7a18066945db3129678
 dev75cdn.elbe.paris,030a5abde9605705f7a18066945db3129678
 dev75.elbe.paris,030a5abde9605705f7a18066945db3129678
 lamaisonpichard.paris,035a79101a276afca9bfb1c82f698ebaf408
+www.labellevie.paris,0353e3b6f8e9920e26acb0744eed85e0d146
+www.keepkool.paris,03d28c7e7021fe3aae7c41932434f6155750

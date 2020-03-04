@@ -33,3 +33,15 @@ cpcalendars.mozambique.co.mz,03bd4228dd3a3dc54cd83632fb3a60951c1e
 mail.wonderexport.co.mz,038b518e56df372a5d25f3f4061612ab371a
 cloud.cosys.co.mz,037c90d49fe298e0a7a652921bb2585cbe59
 cpcalendars.mozta.co.mz,0430f358fa018411b348cd02deb5c70b8049
+cpcontacts.socoal.co.mz,034d959d7196b3e662239671e8d1afe97833
+cpcontacts.ipg-grupo.co.mz,038ba62952b333065cd03a81084db02d7765
+webdisk.rhinocupchampionsleague.org.mz,03367d418ed727e0ef829733dbe7a2194d13
+cpanel.reformar.co.mz,04e4cad538263bff44a22d92658618ee8f0f
+www.wonderexport.co.mz,038b518e56df372a5d25f3f4061612ab371a
+cpcalendars.nirvana.co.mz,039252c50a9fcb9d47e7445f80c4e5086660
+www.seg.co.mz,033dd35dd48648224a470fa9a5d644dcb7ba
+ipet.cosys.co.mz,0366fd9dc3a7262a92f43df30dee3289677c
+www.segconsulting.co.mz,03264c96fde047620eac02e8aed4168e0fa0
+webdisk.codal.co.mz,04808e2661a543e5dbfa467e3cfa1eaad804
+cpanel.seg.co.mz,033dd35dd48648224a470fa9a5d644dcb7ba
+cpanel.segconsulting.co.mz,03264c96fde047620eac02e8aed4168e0fa0

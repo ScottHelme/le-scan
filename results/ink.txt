@@ -6,3 +6,5 @@ kong.ink,035455be379c8e18d66e835c862e3c00e53f
 www.thovalthium.com.pyrochoreia.ink,04b3cece13e7f781dcb5166729f15a23d406
 internet.ink,04a699796626f61fc02f9bce89e7f0d7176e
 cpcontacts.2-l.ink,042ef6a21a5d7ddf439ac9a94d83f0cc893f
+magus.ink,030fed419d7c08b5972de0d156d4c4f201f1
+cpcontacts.doublel.ink,03ff0e1824be0451decce86a5a06562af619

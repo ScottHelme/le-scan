@@ -9,3 +9,6 @@ www.sd3.mobilesuit.ms,04475a9b04ad65b2681f9366406458d6a0e7
 www.nectaris.mobilesuit.ms,04475a9b04ad65b2681f9366406458d6a0e7
 pop.fork.ms,03f0da4f525bc6c684ab5cd964e94e858f0c
 florence.innova.ms,039259661a20843ad08f271497c188d445e0
+www.hotblood.mobilesuit.ms,04475a9b04ad65b2681f9366406458d6a0e7
+autodiscover.chinese.ms,031a30850bc114325b5f53f77479aae9404e
+www.san.mobilesuit.ms,04475a9b04ad65b2681f9366406458d6a0e7

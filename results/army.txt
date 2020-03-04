@@ -1,2 +1,4 @@
 www.usmarshal.army,046dbe1a6c404386de6696b5c3f130b8aa37
 www.blackmagick.army,03031941a398dde0beec945cfdd00a9d61d8
+lac.army,031ae28f0620b57fa146a715b3f34ca721f0
+cpcontacts.usdeptofdefense.army,033e1b50f3ad66d4396108aeba1568ab5355

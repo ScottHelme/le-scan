@@ -2,3 +2,4 @@ gazbleupropane.quebec,04d57e57941d52842ab9910c93f96742e664
 www.budgetpropane.quebec,04d57e57941d52842ab9910c93f96742e664
 www.registre.quebec,04529c764e85ace6249899fe0f020e9d07f6
 minowis.quebec,035b7c6808768bca0bfc0169598eb5a2ac03
+www.registry.quebec,04529c764e85ace6249899fe0f020e9d07f6

@@ -31,3 +31,15 @@ cpcontacts.fti.ac.ug,03f2703ea175532b1cf0641fa3d6ca4bca59
 cpanel.fimat.ac.ug,03b5e29171e6c16b1752fd49303262964840
 www.perchstone.co.ug,03098c7c7bc1490dcee3cb5c7830b5611b10
 propertyweek.ug,035c506d2957558fa969de852b544a0222df
+webmail.bornagain.co.ug,0489decad97e84d5d4f8ac26b127c50b3f9d
+silverspoon.co.ug,04cfefb9b89ed623ec61e0a7d2476d92a36b
+www.eleglancefinance.co.ug,03d767d1993e8ae46e765d421deb68902c04
+cpcontacts.jcu.go.ug,03ac47746a13a0defad95da65f098530e424
+cpanel.chickendepot.ug,03d5024ef577efc1a8169e2a6a8659913658
+autodiscover.msmc.go.ug,03a43fb8dce42c7b0c7960253bbd08b23026
+www.theaisle.ug,032f7638d55958db824972851786e71c455d
+cpcalendars.dailypost.co.ug,0487e414c75f09489eea2f114afe755c90fb
+webmail.klarchdiocese.org.ug,038d190c1f63b8be486b60755a134476a44c
+autodiscover.datatrack.co.ug,030db9be83ec8a1b4c6c033e48712bc6b187
+webdisk.shuukuvocss.ac.ug,03d59d452978fbfaf564b91f9691f311914c
+settendaenterprises.co.ug,03ac5ba098f4c5437a50abeaf582356ae033

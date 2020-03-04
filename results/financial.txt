@@ -1,0 +1,2 @@
+mail.crm.pragma.financial,03d849f0fb63abd62b9e060fe8a26ec49662
+www.lightspeedtorch.financial,03928816d126fa10bc0826bf5dd40b57f3de

@@ -1,3 +1,4 @@
 webmail.latrineucanillo.ad,03e90915bb4a2be1c2de5407401a4f9e46ab
 informatiu.lamassana.ad,032c737671b6d15c9ae7e92c605a6f532b9f
 cpanel.clubnauticandorra.ad,1e48
+cpcalendars.latrineucanillo.ad,03e90915bb4a2be1c2de5407401a4f9e46ab

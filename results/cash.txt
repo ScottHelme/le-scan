@@ -2,3 +2,6 @@ grafana.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
 www.getmoney.cash,03e5cd6ab8e2211c64a05caecaf60fa59d91
 exchange.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
 havit.cash,035e083f74c37595376b172efbe2dc0972be
+mail.paco.cash,0370cde03235d2300e895408df05552d0bc3
+www.comparison.cash,0381268296cd6639eb9f4fe034f1210b574a
+mailer.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738

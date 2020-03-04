@@ -9,3 +9,17 @@ www.kolleen.wtf,03e85c2204e3ea7ae6709ebb082c60994e03
 www.smm.wtf,038f0fe415a854bff1d1c3af1baca7ce2512
 people.wtf,043df7631a8e82ed38759006203ba06b5973
 www.xor.wtf,04a48fd515d1d4e623cb04e729f9347bcd98
+autoconfig.gia.wtf,03f372d33d5ded9b4b39e0a29dd15216291c
+webdisk.egirl.wtf,03ceda57f3f0b5f72f992cbbe7aa48960bb5
+autoconfig.giga.wtf,03f372d33d5ded9b4b39e0a29dd15216291c
+rss.schubi.wtf,030b1fcf09cc348c78410c629974864c1c01
+stream.insane.wtf,039f40625022bd1d1ced36992a12ef20bea9
+upload.naked.wtf,0304cb2c6026325d760c302d5a9e36b8994a
+webmail.magento.wtf,0474cc04011dae6f2e7dbca7a5e9bf8fbadf
+webmail.deviant.wtf,036dad6bc967f9da7b39c7e55ffe353a901c
+www.mshop.wtf,03d9e916018c33b7137c731e6de319f8ee10
+cpanel.captan.wtf,042388cedd64f2a5b9ca9a314ae6cd176a96
+domoticz.insane.wtf,039f40625022bd1d1ced36992a12ef20bea9
+mail.mailto.wtf,0379ddb699553f3069f250bc593fe20b099e
+cloud.rudi.wtf,03ca6352d437c18a11bbf7973c7f2aa5c79b
+wtf.pony.wtf,03918008b0a0f2dffc24c15810853a63181a

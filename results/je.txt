@@ -8,3 +8,6 @@ subscriptions.jdpa.org.je,03d314dbb911f68a4b7bc70bf9e86158ecff
 mail.framingworkshop.je,033619326c9c04e0bc27c0657926f1ab0bab
 cpcontacts.ecj.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
 webmail.poltergeist.je,033c70eab79d338b8ae4d08365fe7b493612
+surveys.je,036d23d09def55b65c2c8ce5bdc7d35b03ec
+cpanel.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
+www.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c

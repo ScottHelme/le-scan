@@ -3,3 +3,6 @@ mail.univofbukavu.ac.cd,031cb539228a46931371662cd77f22bf6c42
 aucongo.cd,033e133beac5132278a67d1a380a78ef2914
 cpcalendars.alias.cd,038dd09fffc953dd485bdf3ba0da0b3b56c9
 www.cooperation.gouv.cd,04e2bcb2d09b583475e18b3b44fb6a2ae304
+uea.ac.cd,0393a1b9cfa39dfa447f6c30cb39194638e1
+www.comexas.cd,030e79019ca1d19d03fed92055aefb032dc8
+www.gicc.cd,038163fdf055b4eb720bfd8357dc1f7b4628
