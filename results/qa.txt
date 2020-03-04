@@ -1,0 +1,10 @@
+www.globalsupply.cms.qa,038a38202823a1f489dea53005c5d513a4b5
+
+cdn-dev.flux.qa,03064c7da85a060baf663e0835d7fa6b883e
+
+webdisk.cms.qa,038a38202823a1f489dea53005c5d513a4b5
+
+cpanel.boa.qa,0304895474b7c4ba94ed2d6888024e5afdf8
+
+www.bazooka.qa,03769af133b5eaf46c9f3e84a1a37b19fd49
+

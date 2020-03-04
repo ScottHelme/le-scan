@@ -1,0 +1,2 @@
+homeassistant.moore.haus,0396e39deadf31218363411f30336c9433c7
+

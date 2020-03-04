@@ -1,0 +1,6 @@
+webmail.bedandbreakfast.place,0476f6b2354327fea6e8cdebbf151cb5f27f
+
+security.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+
+bar.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+

@@ -1,0 +1,6 @@
+support.safeguard.software,0396bff207d941290b12cb8cd6bb0d5aac3a
+
+api.capaproperty.up.software,0376dfe943ffa4809a465236789d8a019bd8
+
+backup.protronic.software,034b84161e8e6dad2f8baf066bb71043ae86
+

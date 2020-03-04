@@ -1,0 +1,8 @@
+cdn-dev.fitr.training,030c455079f8755c003bb4e81d3e4111c330
+
+mail.froschlearning.training,0301fb957bff2a28d167d26cddb12445c432
+
+moonspark.training,0423e264212dd3b3a324b622e2307f4ff9ad
+
+ccba.training,03bbddf0ddcf44c913e19b1898d026af4cfc
+
