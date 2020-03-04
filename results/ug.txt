@@ -1,14 +1,8 @@
 www.bornagain.co.ug,0489decad97e84d5d4f8ac26b127c50b3f9d
-
 dailypost.co.ug,0487e414c75f09489eea2f114afe755c90fb
-
 rotary-kampala-north.or.ug,03f6efdbdc8b02f44c8a0c706218f57c7b1e
-
 cpcontacts.datatrack.co.ug,030db9be83ec8a1b4c6c033e48712bc6b187
-
 www.sinotranslog.co.ug,037c06e4c8e69c6ffcd39d8c940239b19c99
-
 autodiscover.ipc.co.ug,03c76d466712469add2dbda0c52209223ff8
-
 kynet.ug,040973e07a94b54a321711a090487422c7ca
-
+cpcalendars.evergreenorganicfoods.co.ug,03f993f8ab850e4a93794c6cf1f630f5217f

@@ -1,14 +1,9 @@
 opticasps.com.do,03603b290d52699a72532c5496a308d7a2aa
-
 webdisk.vanter.com.do,03d9b82bc6d0753eeefe53331d5b555bd3bc
-
 conaep.soluweb.do,03b760e84eaa30582c2fbf2b651defbdbc64
-
 www.qan.do,03e1c3dd906e08ab3616b38602e869767a2f
-
 api.gm.yay.do,034c6ccbfeace3ea8e9000b0bef3b88ed66d
-
 mail.vidapositiva.do,03863cd793eda0b7db5aec5f194fd242257b
-
 people.gbh.com.do,03c27e0178dfea6dfe8cbc8610d70a2caca9
-
+tm.com.do,0418a9d62ec24a2b6226bf2180ba5d30bfd4
+autodiscover.3w.web.do,03e0275962ddd8fe745a3739ea364c1fbf2c

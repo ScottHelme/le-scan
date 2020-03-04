@@ -1,6 +1,3 @@
 smtp.idc.sn,03e5dffb48b440a19823a5b0e6487467d72e
-
 imap.monmenu.sn,03e5dffb48b440a19823a5b0e6487467d72e
-
 smtp.isjapostbac.sn,03e5dffb48b440a19823a5b0e6487467d72e
-

@@ -1,6 +1,3 @@
 webmail.ajc.af,04df09a480f888ed6f3d4e072deb7aeac296
-
 webdisk.sacs.gov.af,03aafb98169b87de030eb9330653931bf3d0
-
 devcdn.whitele.af,038bf45d36651c720b690bab5c7d5ad8fc2f
-

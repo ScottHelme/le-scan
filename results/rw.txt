@@ -1,12 +1,8 @@
 cpanel.collegesaintandre.ac.rw,03f025b89a6ecff704ba8a10a4b11aec49cb
-
 www.megabithosting.megabit.org.rw,046bb53ace2c7917bf0ea40e33f232036353
-
 create.co.rw.iotech.co.rw,03cc13e69e111266c6e699775fe37100489e
-
 cpcalendars.torotoro.rw,03c86e1ac4e5e3f8016bd65035443d01c980
-
 autodiscover.unicoopagi.org.rw,04e6a94e6b7e5a3da3d8024e3d5414904cc7
-
 webmail.gisakuraguesthouse.rw,0305f70eab4e2b2c8eb3387b7f4b67a8fcac
-
+cpcontacts.saltel.rw,04fb0cfecec82c1ebb8029c0af5e110d0c99
+autodiscover.rohiaparthotel.co.rw,0302d2747a06e4fdf0c62677b25d9559ec20

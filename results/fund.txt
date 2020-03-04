@@ -1,4 +1,2 @@
 webdisk.mcneill.fund,03ca75ab6652dd75b583c562d0b6a3ff59c1
-
 mail.mcneill.fund,03ca75ab6652dd75b583c562d0b6a3ff59c1
-

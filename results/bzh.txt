@@ -1,10 +1,5 @@
 tech.oxiane.bzh,0390e8cf7d499c09352ade9bb0f3a9963c8f
-
 beccos-runos.log.bzh,0359b154ef646b55c9a14d02ef345d970756
-
 le.sigwal.bzh,03b7b6791a43347beb7bd6366ed60267b459
-
 syncthing.penher.bzh,043ff0ecc67cbbc64a6f1fe598026c09f860
-
 konan.log.bzh,0359b154ef646b55c9a14d02ef345d970756
-

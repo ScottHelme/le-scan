@@ -1,8 +1,4 @@
 vologodskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
-
 kaizen.promo,036d9032dd5de4da0906d61c698d48b20ca6
-
 kurskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
-
 ivanovskaya-oblast.provider.promo,035dbb0db5c434be919d15b86db5f5477705
-

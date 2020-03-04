@@ -1,10 +1,7 @@
 webmail.procamelidos.gob.bo,039b1684b743c21232238e8dc0df6f98607d
-
 webmail.gamcolquechaca.gob.bo,04c43f0ef4c186369b2ebc6fe69737528fd7
-
 webdisk.rcb.com.bo,04c2cb17d9c7e80b5e8d7c5bf99e9a6aa393
-
 cpcalendars.serviscon.com.bo,032455437ba9758c1cb7e497b16831fa58e4
-
 mail.lacasadelreten.com.bo,03f424db312fced824a15c230aefec82ae7e
-
+cpanel.gamcolquechaca.gob.bo,04c43f0ef4c186369b2ebc6fe69737528fd7
+shipcargo.com.bo,030b242255a50553630ee2ccf837da845789

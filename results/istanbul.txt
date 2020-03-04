@@ -1,10 +1,5 @@
 autodiscover.growthhacking.istanbul,03bc61bfd88feede743423b7d5bb0956837b
-
 mail.uzem.istanbul,036528578d08e73f23edb7b6b7eaf901f07c
-
 parsjenerator.istanbul,036d61c78876ac65764330e5025ca80949e1
-
 webdisk.thegardenerof.istanbul,04361aeda4b1e27c67ff407009295021bbbf
-
 www.turkois.istanbul,038be8657693432c82beadf8eb2187e6ab86
-

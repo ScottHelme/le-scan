@@ -1,12 +1,8 @@
 cpanel.handala.ps,03a3a71a27877ac4d9e424209dab5223b7f2
-
 cpcontacts.ahlusunna.ps,0349fe4f612e0e80c7a83c41196f03220f2e
-
 webmail.carbonclean.ps,04fe6267a7d7208d914d6bc0b28e772fae6a
-
 cpcontacts.plord.ps,03558e2b513f30da910b737b76aed6b90352
-
 cpcalendars.islah.ps,03ebbff58ce500527f6c9096baa81b00c3e0
-
 webdisk.alahrar.ps,04a7ec998d5cfb92b0ff75e52f69d3573910
-
+cpcalendars.mediagroup.ps,0496f131957f6c63d047b19154ed2fae4e9e
+webdisk.techzone.ps,0382342c8b0226715811c398e3d6f2fe5d5c

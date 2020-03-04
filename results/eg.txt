@@ -1,8 +1,5 @@
 webdisk.agi.com.eg,035de431bf0e7149723a1ca10e83b43fc051
-
 mail.ekred.com.eg,03f6075c841af9f4df9883db858396b1a725
-
 mail.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b
-
 webdisk.newline.com.eg,04415374a93c8841f29d552b314bcf6447d5
-
+autodiscover.joytravel.com.eg,03431ff415f5b8d66da6180d7bc93ae19f87

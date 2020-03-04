@@ -1,14 +1,8 @@
 ata.trade,04b0a63323e1793380ee51888c8ce78b92d1
-
 saubers.trade,04e111a46e8cbcdbec4a8d143549407ee12e
-
 cpanel.cheapwebhosting.trade,041c7920a72d9bc04f23ab03db4aee92c24f
-
 cpcalendars.retrogames.trade,03ae9d7ae810ec41b2d19f52d0907fdbca97
-
 webmail.madeinpakistan.trade,038adb5fb434ef197c39d351bf244c635f78
-
 booknow.giza.trade,0343b69a04aa24975876a5878dc9c6a01d5a
-
 www.cheapwebhosting.trade,041c7920a72d9bc04f23ab03db4aee92c24f
-
+cpcalendars.ata.trade,04b0a63323e1793380ee51888c8ce78b92d1

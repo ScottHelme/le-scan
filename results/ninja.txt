@@ -1,12 +1,6 @@
 cpanel.myfile.ninja,030f56c3d943fd936d7afa9aa50edb7bab96
-
 cpcontacts.freeslots.ninja,03d80f4942efbb95d86720888b30e79c4646
-
 webmail.mattmoore.ninja,04728b87d42cd6a01fed932434c8ff4d6dce
-
 cjscustomcreations.mattmoore.ninja,04728b87d42cd6a01fed932434c8ff4d6dce
-
 wiki.beadyeye.ninja,0352344b38f908c014b95d4db0c874e82819
-
 coco.signage.ninja,031a03d4cfbc5ffa421181aa551f22f32742
-
