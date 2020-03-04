@@ -25,3 +25,17 @@ autodiscover.construflex.cr,03c16c7437effc00e4397c620a6ef57bccc7
 mail.di.cr,0363ffe5b6b829f0c19a8f3a35fe25ec492e
 www.mini.co.cr,03fc4e496a0974eea4f8ba112d89f7cf57c3
 www2.edestinos.cr,037a0ccb9782851adf6f7880dd0097e27b17
+virtual.siua.ac.cr,0371543924c260868ed98ad4a3e727651cfc
+webmail.gomezcpa.cr,03777ada36b56aa9f478619d8ea590d448d9
+veritest.cr,03d987971ea7e7095fb89caa1379083bf517
+webmail.geotrack.co.cr,04fdfa46fc4e3333ca07bfcad6364275a9e0
+webdisk.rp.cr,0348429eb660016dd87c555fae4107082eff
+www.fumiflex.cr,033029c78d03d68758cdd92e0a14b4452267
+webdisk.liceorodrigofaciobrenes.ed.cr,035f38509ea9126f6c0386da644d394accd9
+autodiscover.catl.cr,0351164d6ebbc06e8516bba7a058a65e83af
+webdisk.liceotresequis.ed.cr,04827494e7f7916ab76605dfeaedaac322ad
+www.sanlucas.cr,036ccc7367bb109c441e1fb48809dccbbd56
+webdisk.di.cr,0363ffe5b6b829f0c19a8f3a35fe25ec492e
+odk.tec.siua.ac.cr,03a28488806fe2fa30739d9a70f33e7e4fe9
+cpanel.geotrack.co.cr,04015f854865e8e7b154d434ea558ebc5fd8
+batse.cr,03a3ce72fe99efd7b77644b19b6e5e5f01d6

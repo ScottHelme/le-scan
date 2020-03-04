@@ -3,3 +3,4 @@ cpcontacts.prochema.tf,03f4f6cc44db45174aea4058793a77d16fc8
 www.aerosol.tf,033a5f3a2b9b5d370cc24ca6979646bb93a9
 probugas.prochema.tf,03f4f6cc44db45174aea4058793a77d16fc8
 dir.tf,03720a0fe2fd86d0883ffe14d0f28f3ac681
+sql.durand.tf,03592251bab9c19a14d89891b1f111620c17

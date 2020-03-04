@@ -2,3 +2,5 @@ cpcalendars.amur.ventures,033001776bc87f64b98ca38671cd2311917a
 mccormick.ventures,037d0c2128b1edc1ba7a21563b589f7b1f80
 3angels.ventures,045c3fd71782319d86af6abf6af3131ae322
 cpcontacts.ionsketch.ventures,0374b86226bab8798648e9961e5a935f7e11
+www.mccormick.ventures,037d0c2128b1edc1ba7a21563b589f7b1f80
+www.clique.ventures,032612f50253173e69bb6488491354e686dd

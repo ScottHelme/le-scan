@@ -2,3 +2,5 @@ mail.laroche.fitness,03e65486564b3c7ef40d5d85de2d975b249a
 www.rksports.fitness,0383f4a93cdbb444073b4bbb4fde58236295
 kentwood.titleboxingclub.fitness,03d734672969d90339bd1ae2589d9bc6b7ca
 ardsley.titleboxingclub.fitness,03d734672969d90339bd1ae2589d9bc6b7ca
+mail.rksports.fitness,0383f4a93cdbb444073b4bbb4fde58236295
+cpanel.onerep.fitness,030c3c9fb2b6f6311f632eae27f94adc0e57

@@ -5,3 +5,6 @@ www.marcianenache.coach,03d6da4b9a363c0306cc050b42683efd71ce
 staging.sphere.coach,038b7a3c32c38b8c79843c68a0d7dcdca81a
 drjacquelineashley.coach,03358d4b2921785843d13eefc9335a6cb5e3
 mail.m2.coach,041030e483420d73b81b9468334ca9b4eb9d
+www.drjacquelineashley.coach,03358d4b2921785843d13eefc9335a6cb5e3
+cpcontacts.mohammadsafari.coach,049fbd9a66ce08ff5abb49afd8ea24285548
+cpcalendars.m2.coach,041030e483420d73b81b9468334ca9b4eb9d

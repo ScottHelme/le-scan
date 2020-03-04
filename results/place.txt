@@ -6,3 +6,12 @@ cafe.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 carpenter.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
 www.cityguide.travelbake.co.place,03b6b49142f1fbb2a12943e8942a44817eae
 windows.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+www.freebirds.co.place,04d2aa14f756b3a1e4258abbe80202ff4b1b
+acupuncture.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+taxi.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+fans.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+akorakhattak.co.place,033a5cb3ff9e60626fd79896525586bbfde1
+landscaping.sosua.co.place,03cd58fe7f27ddc7c5c833406787792e8690
+www.profit.place,0350fd9c2f7165c90c8f0abea37b58f6b04a
+shafiq.co.place,0478a8e6f870af18178fd7d4320b256d7e8b
+pointspermis.co.place,03619da68bba4a3415f55c26d50cc7259dbc

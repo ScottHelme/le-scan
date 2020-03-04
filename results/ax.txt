@@ -3,3 +3,4 @@ www.intermar.ax,03c110382c56d25bb747ea8c47c006ce3df8
 webdisk.hemming.ax,03c110382c56d25bb747ea8c47c006ce3df8
 webdisk.tildeman.ax,03711e312511bf5ad1743fee8d567961bdaf
 cpanel.kalev.ax,03340f502c67eeab992682f8e6be54266758
+webdisk.fransar.ax,03340f502c67eeab992682f8e6be54266758

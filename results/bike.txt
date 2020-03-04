@@ -3,3 +3,9 @@ www.eventos.bike,033efaa780059cc11ebb33290a86caa98882
 cpanel.bicisport.bike,03f6ea7dfa6e1afd21ffa8f660c7e4b0d395
 cpanel.happycats.bike,0351716e6a99e1810b822708ec78a0dba438
 www.fbr.bike,046d8636a86d48950655befb11b5e1a7a169
+stefans.bike,036b38e1fb381987951b5e822210bfd30fac
+forkover.bike,03358b03ed9897da1158c9baa7aca660df07
+busybasket.bike,037e98e839ba165413b6549e42337e292b4b
+motovlog.bike,0330d1f80a21d52c6664ee547a1c1d45018f
+glr.qa.ridestats.bike,0327ed89e9942c3fe2bf99a8a0258302d83e
+glr.ridestats.bike,03e42c916610b7892320c8d3bfd5d6b529cf

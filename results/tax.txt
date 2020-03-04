@@ -3,3 +3,5 @@ mobile.tax,033c78fb1fb865f129169bf3ce97a234752d
 webdisk.patriciaparrilla.tax,040aabdacef863dedd9aa617a46d7df07350
 atltaxman.tax,04474ac0efd869d927460f463d7a3da26994
 webmail.ramirezaccounting.tax,04727c77da2e42c5954c00aa210b7d1fdf2e
+cny.tax,032a2a958828f6d90eae0673e28f5e2fad2f
+cpcalendars.atltaxman.tax,04474ac0efd869d927460f463d7a3da26994

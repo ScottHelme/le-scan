@@ -2,3 +2,6 @@ cpcontacts.magma.gallery,035343ceda310db12ec299ba643cade95af4
 cpcontacts.magnolia.gallery,04bceb3d0c5d5ab4c8b97a1019567fe2deea
 cpanel.magma.gallery,035343ceda310db12ec299ba643cade95af4
 julia.cavern.gallery,04c24efebcdccfd8d81d3486c0aab5eeb0e4
+tst1.cavern.gallery,04c24efebcdccfd8d81d3486c0aab5eeb0e4
+whm.alettasart.digitalsmarts.gallery,0301bf3aba31c1ecfb918ea821d341ed6ffc
+cpanel.aries.gallery,0357a29b62b6ca7acf74815e9788482747cb

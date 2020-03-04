@@ -2,3 +2,8 @@ www.webnetic.watch,0343c39a1dce27cf6117efd350003e58a582
 www.bid.watch,0332efa7ba7605280fd8fdf09769c7e43ab4
 cpcontacts.artya.watch,0435e9fabaf30fa62dc4f9f35e1fcf3877e2
 www.withings.watch,04dc4c6797304dec0fdd1d277eab7c1a2803
+digitalindia.watch,03e778fa715269c3b31258f3cb91b4f9c0e3
+mail.nfl.watch,036a7a67b002b694639fb8de55073db64eb9
+alot.watch,03c9a527d59ef11b050840536067488d25fa
+webdisk.losna.watch,04cef2d16028414a1cc898461389a563c603
+mail.soros.watch,04fec17b68798814aee5c4fc5944bca57d61

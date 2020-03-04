@@ -4,3 +4,5 @@ www.yukon.beer,039b7970088403a861d3381df982c94673ce
 babes.beer,0332276878184b604c131b2b065cfb85ec8e
 www.cluj.beer,03479658b6e4eb6b40e94efbba95a19af9b4
 www.bender.beer,033bc83ffde31f0de0b6058ba5ff4e5d50d5
+www.marco-experiment.beer,033c5e76470301dc3b527e01389c40a75f62
+cpanel.cluj.beer,03479658b6e4eb6b40e94efbba95a19af9b4

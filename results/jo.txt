@@ -1,3 +1,6 @@
 cpcontacts.ncej.org.jo,034806a8f5a506dd26d16ce3e2e03b8e6b29
 wecenter.com.jo,03f0347f20e26886120878508da881ffba27
 webmail.ncej.org.jo,034806a8f5a506dd26d16ce3e2e03b8e6b29
+redrock.jo,0327beaa278a343ee5098bbb13c447c98fb4
+image.com.jo,04812705dfb852ec72488e6fce15d2ce1206
+uat.act.com.jo,03331429f218cb9e44698ebb763b7a672766

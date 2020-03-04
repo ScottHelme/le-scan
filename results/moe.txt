@@ -9,3 +9,8 @@ dis.potofu.moe,032146bc59d97516794952598656f028de43
 webdisk.allu.moe,0369a517d404d3543206247727dab58fb1e8
 48g.mnh48.moe,03b8603f40be783146bd6ea8944c013a04ca
 pve.home.saru.moe,037ca2a99a957c56cd1216ef80f8be19d077
+kisaragi.moe,03fa4c7644eea8be5922df7c513c9e0da7cf
+autodiscover.aishiteru.moe,03a9ec6eab66862ff9af65ac28af8cd576db
+sukumizu.moe,03b28241083e1317ed4dcf0e85fe7d6f4520
+nyaa.46620.moe,0490a0497575d8e782d10c7447a24c25bd8f
+xinmu.moe,036906f758fc1e6e71da6bc93111edcedac8

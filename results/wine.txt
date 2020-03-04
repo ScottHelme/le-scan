@@ -4,3 +4,6 @@ webmail.tua.wine,04be6c28dcc97adc6a6fc3ee781f4f8b2dab
 fr.truant.wine,03b682951a3535db19238a35a95bd22a0cf5
 www.logistics.wine,037b1495405c0e5a64ec2b7c3512325990cc
 webmail.logistics.wine,037b1495405c0e5a64ec2b7c3512325990cc
+webmail.letitflo.wine,0351db452fb59fa344a5f0bb99a3c7535524
+auctions.wine,031e4e72650b19a7d9187ad727a0eced5351
+cpanel.letitflo.wine,0351db452fb59fa344a5f0bb99a3c7535524

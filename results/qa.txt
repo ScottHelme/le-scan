@@ -13,3 +13,9 @@ portal.techbulb.com.qa,039f8e098e78cf23d87d08fd4bbfbb5ec46d
 books.brams.qa,03a280787bb832893746d94b78e35dcabeb1
 webmail.brilliance.qa,04551fa108bba7749d0e544a8ec002e8eb0e
 cpcontacts.cloudclinik.qa,032a8b0c01b67d37bd1bce36d691d04813f7
+www.gp2.qa,037ac47224d74c0354481d8d7318d3247b97
+permianwax.qa,031e9362266a03346bc13fc3651681fe07de
+cpcontacts.jboor.qa,039651d093c9d9c6f68faa07efd156a64bce
+webdisk.gp2.qa,037ac47224d74c0354481d8d7318d3247b97
+cpcalendars.brilliance.qa,04551fa108bba7749d0e544a8ec002e8eb0e
+auth.qatartourism.gov.qa,03d0c9723802e519e6eac143f1829e8505ec

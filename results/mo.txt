@@ -1,3 +1,9 @@
 mice.singou.mo,03410f7b63efad59c4d170e2d8d3f99dc205
 www.cilt.mo,0424c9327caa4b9d98b5c52ab5d7de52db7f
 www.tongheng.com.mo,03c057c43a3ab40458c0486ca428753507dd
+www.mini.com.mo,03fc4e496a0974eea4f8ba112d89f7cf57c3
+cpcalendars.cilt.mo,0424c9327caa4b9d98b5c52ab5d7de52db7f
+mail.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4
+www.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4
+www.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+cpcalendars.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4

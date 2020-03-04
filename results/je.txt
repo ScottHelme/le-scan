@@ -5,3 +5,6 @@ cpcalendars.paulwright.preview.je,030725a6a7e288853b2e28134f95d6a834cb
 cpcontacts.ecg.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
 webmail.atf.je,03f4502196ba8e09e7ee171c795c5f745cc1
 subscriptions.jdpa.org.je,03d314dbb911f68a4b7bc70bf9e86158ecff
+mail.framingworkshop.je,033619326c9c04e0bc27c0657926f1ab0bab
+cpcontacts.ecj.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
+webmail.poltergeist.je,033c70eab79d338b8ae4d08365fe7b493612

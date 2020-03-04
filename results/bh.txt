@@ -1,3 +1,4 @@
 cpanel.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d
 www.uptown.com.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
 dev.philips.com.bh,03890aa832016af05ad696968dfb108f3eb2
+whm.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d

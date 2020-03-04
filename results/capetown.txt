@@ -1,3 +1,5 @@
 www.snorkelwithseals.capetown,035ef1cd846663961c01ad8ca5eb5a61bed7
 webmail.renovations.capetown,0412223497e79a70572910317dded55e1733
 cpcalendars.jobsincapetown.capetown,03aaddd8b824f2aa5bd2528e78d3d8a0843b
+autodiscover.onpoint.capetown,04699533e2fd35a521ab9ea97536a46f15d8
+webdisk.eatplaydrink.capetown,03582f7e454506d850fa08fc1ac507f0b61b

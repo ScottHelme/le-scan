@@ -11,3 +11,5 @@ cpcontacts.radiobeca.cymru,0376fec6e2b1f5d2cb7d799ad383de641d0f
 webmail.maesymynydd.cymru,0372514531c334770d85bbdde1099e292968
 www.balmdinefwr.cymru,043936c73726d8c36734a7f0cdd18b61baf9
 www.boisygilfach.cymru,03f642ac92ac6081623f4addd46b098deba5
+cpanel.balmdinefwr.cymru,043936c73726d8c36734a7f0cdd18b61baf9
+mail.radiobeca.cymru,0376fec6e2b1f5d2cb7d799ad383de641d0f

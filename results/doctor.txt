@@ -3,3 +3,4 @@ orientalmedicine.doctor,03a2e53580acec6185eac1ff35103d7ddd35
 chinesemedicine.doctor,03a557f705411b8b5c2ca3408ac62c8af7de
 qigong.doctor,03d70e8b27a2e5d811a3234e2bcc00944a2b
 www.herbal.doctor,03a557f705411b8b5c2ca3408ac62c8af7de
+acupuncturist.doctor,03d70e8b27a2e5d811a3234e2bcc00944a2b

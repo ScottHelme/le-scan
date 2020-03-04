@@ -1,2 +1,5 @@
 cpcalendars.sip.contractors,03a5ba436b747ac64029165d0f3d8746e2b8
 minning.contractors,03a0c6584c21555904492ab9b1309ca697ea
+www.local.contractors,03716731606c9d9870b76e5c1459e190e3e1
+jde.contractors,03db62f5bec3e909f6cfc12ee68ed4a09879
+www.sip.contractors,03a5ba436b747ac64029165d0f3d8746e2b8

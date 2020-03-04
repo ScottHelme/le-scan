@@ -1,2 +1,4 @@
 labs.vegas,0339164603fa679fac24e3a6772a72151ca5
 cpanel.techassist.vegas,033f5186ea3bbd29da92713d433d041ab534
+webmail.theblackhole.vegas,0329c7b4d432e8d255b39cfb8e16902365fa
+mail.waynewallace.vegas,0360718cd9ea82c6d90468cc6d4f8d5e7674

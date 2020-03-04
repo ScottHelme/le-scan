@@ -2,3 +2,7 @@ cpcontacts.snap.partners,03707282c3f13d993bb31b450152bf1d4b9a
 concept.partners,0390f61d9763a2fb288a5f80ae88f4d19e7d
 finresult.preprod.odoo.partners,0376bf560aea18bdc8d34e8da6b07f30c724
 have.partners,0313c10265c8e3550b3f6101d91e6a9448c0
+luciano.odoo.partners,03cd45fe37dc973e98f46048129757e8d4c8
+luciano.preprod.odoo.partners,03cd45fe37dc973e98f46048129757e8d4c8
+cpcontacts.maverick.partners,03fd5cfecfd19a3b7984a083cfc3055b4999
+futurun.preprod.odoo.partners,0376bf560aea18bdc8d34e8da6b07f30c724

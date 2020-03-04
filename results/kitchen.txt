@@ -1,1 +1,2 @@
 cpanel.hipsterfood.kitchen,036aa329e7934a57f38752e047f802c91143
+autodiscover.thecatswhisker.kitchen,03f3ef7e8a15795b17840ff93aea15fd4c4a

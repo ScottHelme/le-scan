@@ -1,2 +1,4 @@
 ivanparron.lawyer,03a713d706709495fcd204e0a63c1e7a39a4
 juliacharlton.lawyer,03e81514cd9083177aa4f49d8e1f882574b6
+cpcontacts.peterkern.lawyer,04be68ec1e989cff661917283a16fd77fc9e
+mail.businessdevelopment.lawyer,03466b39b19812ba8b070c5dd59918a5ae45

@@ -15,3 +15,8 @@ www.ocs.gov.af,03235b51dcda27c86651fea18d8433858012
 webdisk.azhandrassam.af,03e6500146860eb4baf66bffe2a4db2413f1
 webmail.ranamedicallab.com.af,03c1b77e30598ce22a85c88c9bb8c6f235d9
 mail.didactic.af,03f67dac8dfb58344e971eeed0a5fb46fb2f
+greencore.af,037cf282102e541d11e916a0650108d87833
+cpcontacts.ajc.af,04df09a480f888ed6f3d4e072deb7aeac296
+mail.swp.af,037049c3ac176423261a6352ed96070553f2
+cpanel.orps.af,03cdeadd4841f50c5f1d46df67ca45c47efe
+webdisk.didactic.af,03f67dac8dfb58344e971eeed0a5fb46fb2f

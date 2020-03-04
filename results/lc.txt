@@ -1,2 +1,4 @@
 www.gov.p.lc,031abd11ceac2ca5da6d11259fbf62e9c69e
 webdisk.gov.p.lc,031abd11ceac2ca5da6d11259fbf62e9c69e
+cpcontacts.villagrandpiton.lc,04353d1a7e3d9b1f0016878aef86ed8e21fe
+cpcontacts.gov.p.lc,031abd11ceac2ca5da6d11259fbf62e9c69e

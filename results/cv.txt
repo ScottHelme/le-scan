@@ -5,3 +5,6 @@ cpcalendars.joemidia.cv,03e445900be053332dd3d2c3b1eb82112570
 webmail.santiagomagazine.cv,03b776d3fc28c612f6461b95f021c86ff62d
 mail.damfjord.cv,03926017b1446108cc94b644707803f2244c
 delivery.cv,03d64aaff4ead23b6c97a7751e57dd02e564
+webmail.aca-eua.org.cv,045458ee166a308323a81edb50ce41e7c2b8
+webdisk.santiagomagazine.cv,03b776d3fc28c612f6461b95f021c86ff62d
+cpcontacts.sociave.cv,0478a0395655e484cf543f29c072367a31e8

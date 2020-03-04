@@ -2,3 +2,5 @@ urgench.uz.taxi,03ceabd7354c70dbb146f68cfd65ddbcd2be
 mail.metta.taxi,0369930df6571b51bef2cb73416a7bae5de6
 www.sa.kaby.taxi,03d664de0bb841b72a65f1be3ebac24f7da7
 webmail.flughafenmaxi.taxi,03b29debcac62acc85a04912a85095e603f1
+webmail.wienflughafen.taxi,03edf4ad6fa25b071b7a8bec4d1f551f9a52
+cpcalendars.wienflughafen.taxi,03edf4ad6fa25b071b7a8bec4d1f551f9a52

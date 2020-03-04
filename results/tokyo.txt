@@ -7,3 +7,7 @@ webdisk.engawattle.tokyo,03af005855071b4ac9a10109d10fdbea2999
 cpcalendars.otackies.tokyo,0311764a7ac73ff0c12aa61e88532552b6df
 ftw.tokyo,04f52f69bf0087e6a3951a9170652ece3416
 xn--xckd4at1mva0542fs3o.tokyo,0317134716ab2edc91d014df6303b30812c5
+rcels.tokyo,037a4df760035fc4f951e880ca4e644b23b9
+mail.discoveries.tokyo,03592b8c572f307f6dc607f297ba007beaac
+the-esthe.tokyo,031d2c0e8588247cc137b1e6603dcf8e381d
+www.smart-info.tokyo,031ae7c7045ab49c8113d29e0739f3c6b1cd

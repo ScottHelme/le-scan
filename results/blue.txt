@@ -1,3 +1,4 @@
 jun.maillard.blue,0348413dd0eb4f5fe65d4bf463b6c18dc1c1
 webdisk.ottawa.blue,033db18c98bc7b7e4b9e74086fdd1ceef33a
 www.blueshark.blue,031d2d5cfe1e0c86ef8d16bcbd691feda517
+lyon.blue,03246135b64fd382f2d903ddeedb7de316d0

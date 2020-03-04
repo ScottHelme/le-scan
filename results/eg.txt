@@ -10,3 +10,8 @@ webmail.contech.com.eg,03bb3c55d77f5fb243fb32351e9a4ae69184
 autodiscover.nunu.com.eg,03c1f880646c34f035178aa55e184e1ebc33
 tourahcement.com.eg,041c791ef80d4d54722265149900bac587d6
 cpanel.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b
+cpanel.kemet.eg,032edc51c17fca6fe661b842e4ec5d22ba1c
+webmail.allamco.com.eg,03dbf65421fa28c9c6d5d92a39d80767816b
+www.cworks.com.eg,0455acd2a817ba93846a1590cf1163f4bb70
+cpanel.contech.com.eg,03bb3c55d77f5fb243fb32351e9a4ae69184
+cpanel.itcmedical.com.eg,04f72c8a8c7619460cdda768c448049df6b0

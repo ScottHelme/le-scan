@@ -7,3 +7,7 @@ sip.aixpath.software,04e0ddc1653ed480eaec8ca3dc34e96d6409
 changemanagement.software,03cf608bb96568e36dd14132e54cf21558ae
 umbrella.software,036c6846354add2aec9499a283d64a40abbd
 mail.m2.software,041030e483420d73b81b9468334ca9b4eb9d
+cpcalendars.marina.azteca.software,03b7c918267e182219f8925b1cbeab1aaf3e
+oasis2.software,03b1e861e078e8ac117b58bd670ed50ddc76
+crusher.software,03afebb6daac8dec1e7aa40f8f4a08c97715
+api.prod.ada.bond.software,0397c99cf28913ff4b5e66fe047f7d75e62f

@@ -3,3 +3,5 @@ www.stardust.fashion,03528bb2e9c5cd61b7a5d7621df4510db31e
 autodiscover.sherley.fashion,03efbcbfb2e04ea1f08b9da26600f4ddfd65
 www.sherley.fashion,03efbcbfb2e04ea1f08b9da26600f4ddfd65
 webdisk.indiansummer.fashion,03c2c5ece36c452ec019b54e4dcb37a39a7f
+mail.sherley.fashion,03efbcbfb2e04ea1f08b9da26600f4ddfd65
+futurmod.fashion,046fbc4e0469dfd8d756d853bc61ac49235b

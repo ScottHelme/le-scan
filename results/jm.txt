@@ -1,2 +1,3 @@
 autodiscover.alphaboysschool.org.jm,04b3bd8a8e5c8ba8fff7a61d1bbe2f61370b
 autodiscover.alphainstitute.org.jm,04b097ff5f2c1c60e3547709c23720a29d38
+cpanel.ats.com.jm,03b4ead43e42acd5225af5dea733c8c5eee2

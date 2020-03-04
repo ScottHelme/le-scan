@@ -1,2 +1,5 @@
 vendame.uno,03168d5e91cc41837bfa3cb1eb39465c5590
 webmail.atf.uno,03a120d661977f9018e7d1e2c9226218059b
+mail.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
+cpcalendars.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
+phaux.uno,0350dbffbcbddd78eb22895827f6f8e4be0b

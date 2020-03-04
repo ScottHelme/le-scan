@@ -13,3 +13,7 @@ autoconfig.fraundorfer.aero,033bf8dcd4ca23e3d0a1fd811575cad87d52
 cpanel.pulsar.aero,03e722222e7a1b6c43c8f4a508225444649c
 api.prd01.avian.aero,04d1168d9fe4c9170dce1dc4530bf8897c8d
 whm.airportsworld.aero,03a93e05ef41f616a490d902ef706b92aa80
+www.logix.aero,033a1fd1c355dd23a3ac454411e4659fc0fe
+cpcontacts.htmc.aero,037139342e3f96b417b6d51fc1342b28d9d8
+starflight.aero,032874531ff77dd31e85c8fe5f98ddea544b
+www.dis.aero,04650e9c53da7b5d49d12a8e4111de61baa3

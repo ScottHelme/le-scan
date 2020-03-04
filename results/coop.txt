@@ -11,3 +11,11 @@ cpanel.webhosting.coop,03e49f6799ce978ce26834aa4bdb11aecc43
 myaccess.coop,0324f911108a832b2bf229dff6f5ede05a88
 www.cluster.coop,03abaee83b8d000803897bb9ba62d04967a0
 autodiscover.gtfcu.coop,037aa3d4be49ff4e6a9dd1fccebe564a70de
+cloud.quiplusest.coop,03acb0d4efde6bed0893a58786ce6d1b022e
+www.erkide.coop,03b08b060e4c686080a0266d126eefceeba5
+www.coopcreamery.coop,04bc91dbcb5bfce49f82bbd05f9ca13f6783
+agora.tera.coop,03723e55e6ed7cea1bfdc0d87f818de6ed42
+www.cooperactiva.coop,03738c37fe79dbb6b45407d360901e2bc104
+www.east-end-food.coop,03dafb82518c10831aa4833bf1db9e162f32
+cpanel.cluster.coop,03abaee83b8d000803897bb9ba62d04967a0
+cpanel.erkide.coop,03b08b060e4c686080a0266d126eefceeba5

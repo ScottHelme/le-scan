@@ -8,3 +8,8 @@ mail.chin-camp.mn,0321f737d45c638cd9492646c9ee05787494
 webmail.chinggiskhaancc.mn,03e514a14683bea5974927f4ed971dead647
 v2.shp.mn,03dad039107ffa7df9922060b616d22bb77f
 origin.beautysecrets.mn,033d39abf8628d02e5aa5ca66218013aeccc
+cpanel.munkhbaatar.mn,03383565f7dbf4072274cfcdaa1f91957ed3
+www.ubcar.mn,0304350935c0c5774d72ef9ea4a6fe50c8a8
+cpanel.srp-mongolia.mn,04cf330755fe2da3d1d6f82af25e938d6ed5
+autodiscover.chimege.mn,03f5050824aabaf439f115b655af0aabe55d
+office.mnuac.edu.mn,5e04923f

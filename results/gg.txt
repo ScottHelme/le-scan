@@ -16,3 +16,13 @@ readyup.gg,04c3c04c234f4ae823ebd8912f5a1ae09c33
 static1.millenium.gg,04405795aa288dd1f97ded1959a5990bd4b3
 webmail.atf.gg,034f0d96686728b10eae3a4ad81c13414226
 ipv6.kaas.gg,043a50a3f3fe1da9a65d3d6b01f8dd1e715a
+webmail.letocq.gg,0391ce61b242cc2c0a5c0d3d233e74c2f1f7
+mail.untitled.gg,0387870d3f8fe97df6d5f5dfc292dfb34560
+ampere.gg,0413eeb37753a925e6aac6d78c54d8a276db
+mail.gall.gg,033913f2c6eb4946d00a9d75ce3a799d5644
+www.auxley-careers.cms.whereyouat.gg,04a6a2a507b268f160585abcffcd947061d5
+www.auxley-careers.dev.whereyouat.gg,04a6a2a507b268f160585abcffcd947061d5
+www.auxley.cms.whereyouat.gg,04a6a2a507b268f160585abcffcd947061d5
+www.auxley.dev.whereyouat.gg,04a6a2a507b268f160585abcffcd947061d5
+futurv2.noetic.gg,042b288dc90a9c85533cb944bd4410ef70ad
+cpanel.letocq.gg,0391ce61b242cc2c0a5c0d3d233e74c2f1f7

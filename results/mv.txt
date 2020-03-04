@@ -1,2 +1,4 @@
 vanavaru.villa.mv,03037a141d5e4bade39fff4c2eafcb461f9c
 www.lga.gov.mv,03ab4f629973e02b138f42de8a578559e600
+travelbay.mv,03581942cf8081539e3477a93fb550c684cd
+autodiscover.crosswatermaldives.mv,037197bec17ff309681527bf697835a16e45

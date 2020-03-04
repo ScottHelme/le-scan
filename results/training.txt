@@ -6,3 +6,5 @@ webdisk.hogosha.training,042c2851f11bdc871ee6d31c36280792e25a
 cpcontacts.construction4u.training,03a0381aa5703006fac1826dcdbda31b6704
 mail.designresearch.training,038a756a2a5d6b961613ba80de714ae0f23c
 cpanel.fostering.training,04193471cdb69c069b238e2bdfeeaa5779e9
+virtual-team.training,03c0d8a4b8ace67f0d83068e928f832a5f4b
+ecba.training,03bbddf0ddcf44c913e19b1898d026af4cfc

@@ -1,2 +1,4 @@
 videostore.tel,03e1d16d1ccfe270dc039713a22bfb8d004a
 www.7-800.tel,0470cd7f4589c8e9d0bc8f4c4f65cb745d2b
+www.7-812.tel,0470cd7f4589c8e9d0bc8f4c4f65cb745d2b
+www.heyn.tel,036ade4d1fb7ad64f47106b21b8c8a81b9d8

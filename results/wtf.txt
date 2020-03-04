@@ -7,3 +7,5 @@ bus.prices.wtf,03bebce743cddddd5645fb0bd9cef7ee591d
 smm.wtf,038f0fe415a854bff1d1c3af1baca7ce2512
 www.kolleen.wtf,03e85c2204e3ea7ae6709ebb082c60994e03
 www.smm.wtf,038f0fe415a854bff1d1c3af1baca7ce2512
+people.wtf,043df7631a8e82ed38759006203ba06b5973
+www.xor.wtf,04a48fd515d1d4e623cb04e729f9347bcd98

@@ -1,2 +1,6 @@
 webdisk.asian.casa,035b2af146e1fe2247a8dd06f2cd82a72ffd
 remale.casa,038ec4564a3379ced11f62b3048fd8a02970
+shorty.casa,037c58bcb08653d7e7dbd653476a61da5775
+webdisk.remale.casa,038ec4564a3379ced11f62b3048fd8a02970
+cpanel.neuropathydiabetes.casa,04855b31b3babfb5302924151b9b189aa91c
+webmail.borgosantantonio.casa,049c19e569f86dc137a681e6e2229afea147

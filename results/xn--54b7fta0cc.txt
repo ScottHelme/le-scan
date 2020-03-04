@@ -3,3 +3,4 @@ webmail.xn--d5b8aaf4bpj0b2aa0ag5f8brbbiqp9ye.xn--54b7fta0cc,03c16608d2d693cd58a2
 cpanel.xn--94b4aa2a0c6ba8a4a6a6cxbyej.xn--54b7fta0cc,0372e036f742b0b131abb09298aad3440cce
 webmail.xn--p5ba6apbmmn8cf1dnd8gfdegj8xde.xn--54b7fta0cc,046707cad35b7f4f7a011fa43c28cf11301b
 webmail.xn--p5baa1anck8cru9ae1be2gycxaccz1c4hde1lpa.xn--54b7fta0cc,038a55e0983f118f864778466863cabcbf5b
+cpanel.xn--j5b2d9aya.xn--54b7fta0cc,03e9ebaa8d118b5eeeec4282d62750f296f2

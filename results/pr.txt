@@ -1,1 +1,3 @@
 www2.edestinos.com.pr,037a0ccb9782851adf6f7880dd0097e27b17
+comateq.pr,03e68d6ae2c5c94fec12281e94e172284bd9
+dev.colgate.com.pr,03bbb9fecfa484cea49ba77cc395f06fc80d

@@ -5,3 +5,5 @@ store.subscriber.fit,0336fa5b6c357789ebec3161463f1934819f
 webdisk.cuidate.fit,04431b93478b6a974a6bb71e9b9e04cb49e0
 gameplan.fit,039299c736986ce9148e4cea26d4f9503322
 cpcalendars.gameplan.fit,039299c736986ce9148e4cea26d4f9503322
+www.sprech.fit,04d0d2b050cc0ee38647d3b62588faa9afd3
+portaal.phileas.fit,032f74a422f6c01cb70cfb68654ccf801730

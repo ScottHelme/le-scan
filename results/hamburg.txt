@@ -1,3 +1,4 @@
 office.bittersweet.hamburg,03a8022e0857773c9d5fc7ebeee4c285a6cb
 webmail.jobrad.hamburg,03c5bcb5daa824221f9cf2a97d24046ccf24
 www.enh-entsorgungsverband.hamburg,03d78646786416ad0c8272ad7c60c3c81005
+schenefeld.hamburg,030a96b15ec68a28e493111ac73568d6a319

@@ -4,3 +4,8 @@ cpanel.extra.hn,03e76d5642f4f8fcd2d5f3df9fcf4ca13dc1
 webdisk.klintec.hn,046bc204c2a63482698b1231717a7a54b12c
 www.primetech.hn,03b02de98b093779d3955f10a3ee6e86b9f4
 www2.edestinos.com.hn,037a0ccb9782851adf6f7880dd0097e27b17
+www.getsemani.hn,036a26d103179c2b3849d19e8c6d9b4324df
+webdisk.primetech.hn,03b02de98b093779d3955f10a3ee6e86b9f4
+hidrocel.quimifar.hn,0342b652bbe01bf03f9185f755132e522ee1
+cpanel.lafamilia.hn,03fe7c7134d075bd1a2520b85a4548923449
+api.proconsumo.hn,03433144be4ae8e7ef3370ad2fe81ced697c

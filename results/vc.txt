@@ -14,3 +14,13 @@ www.flix.com.vc,04bea478c510e753538dc247fe77a78e95c4
 jdb.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
 cgschool.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
 dovechain.vc,03bc385b19855d3c2d76cba1dc81156bc68c
+autodiscover.construvale.com.vc,04372193e98a666cd622c5ac6b867bc0967f
+jobfeedmsk.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+jobfeed.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+mopicture.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+cpanel.cozyprop.vc,0331324eb9da3ca87531a7537dd39f620873
+mail.muda.com.vc,0311dfe6570996544d596533c9e09e1c3385
+itrecruiter.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+krri-gamedev.staya.vc,03676b706c0fa9b20de662d61021f9039f8e
+www.sake.vc,032737362f68c621ef7c4e4f9509da55d79e
+webmail.cozyprop.vc,0331324eb9da3ca87531a7537dd39f620873

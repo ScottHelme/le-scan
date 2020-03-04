@@ -1,3 +1,7 @@
 www.jugendarbeit.wien,037793cf56db297382a56dbbd7af606405cd
 www.jugendinfo.wien,03bf5de5aaeec88177a3b3cac72651f5ee08
 www.arbeiter.wien,033d6321832cd8600afcb1d177867ee106e8
+webmail.lahong.wien,03665a2e1ad0fe031d79fe466e4456133040
+www.webbetreuung.wien,035ab1775279f3037afd409f104a9b1324fc
+ambassade-orchester.wien,0498908a9ecc521ec3e83e4e358ddff92585
+mail.amwasser.wien,03eec33fd576f6d604b93af8d5941404c55f

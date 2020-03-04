@@ -7,3 +7,6 @@ cpanel.bogdan.money,03d7d6a124f0fedce9932e92463ee7cc901c
 www.cryptos.money,03875d27e3c227205bfb18db4bf3ae112aa2
 euros.money,03875d27e3c227205bfb18db4bf3ae112aa2
 cny.money,03aad1c300ea4651b54f20c745f9c3582db3
+www.tex.money,03875d27e3c227205bfb18db4bf3ae112aa2
+auction.money,03fd768e1c8ac3505f1de7bfbb98f9616a37
+mail.boob.money,036e22db805c6f2369274f8720764409e824

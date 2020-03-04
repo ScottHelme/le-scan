@@ -21,3 +21,15 @@ webmail.kardapiokaseiro.co.mz,03fb98b3084629d11b058a62b86b4512b84a
 mail.icas.co.mz,0319eeb1a1fde1d7db91d9cfc208ac9eccd9
 webmail.icas.co.mz,0319eeb1a1fde1d7db91d9cfc208ac9eccd9
 cpcalendars.rcm-engenharia.co.mz,03de462abaf1b63cfe7dec8178c5099d713a
+mail.pavimoza.co.mz,0440666bb2f6550c6eeaf2a03f8ff5cfbad3
+host.cinfa.co.mz,0353f59b0c1ee5aeb4b795550d78c07bdc7e
+cpanel.novassolucoes.co.mz,03e3d79e7879bfab1b8825fb4d1c8e9b9a55
+gts.co.mz,047fc33f4863103bf1173ae8e3eb2be85b28
+eep.co.mz,04fbdae0af13380cd9c6ace0eb51a4a77329
+jimmys.co.mz,030067a78833e43a1feec6fbebb8bfc7fff3
+cpcalendars.mozaboot.co.mz,0300602425ac295c4845c3724ffd9243ac77
+www.sip.co.mz,0394c9c2d913e045390f3a979c4801f25e4c
+cpcalendars.mozambique.co.mz,03bd4228dd3a3dc54cd83632fb3a60951c1e
+mail.wonderexport.co.mz,038b518e56df372a5d25f3f4061612ab371a
+cloud.cosys.co.mz,037c90d49fe298e0a7a652921bb2585cbe59
+cpcalendars.mozta.co.mz,0430f358fa018411b348cd02deb5c70b8049

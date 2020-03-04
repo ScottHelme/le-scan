@@ -13,3 +13,14 @@ cpanel.veterinary.uokerbala.edu.iq,048e3154e34193bf8c7a2e1170f2669ba224
 webdisk.cbcs.uokerbala.edu.iq,031b8e1750c6d5d8a47b32448eb7d140496e
 mail.mubasher.com.iq,03687ba62217367e43b586cc8f1a1abffd7d
 www.vacancies.iq,03e9466309c1411fbbc39e23b2db2cd6d6ed
+conf.uokerbala.edu.iq,03afa6f202c054cd38f17edde362ecf96284
+webmail.law.uokerbala.edu.iq,037b088f8296d05203e44fa5789f948ed4d1
+webdisk.license.scopesky.iq,0304379277acf4ec53835a9c7f09f55aabd8
+mec.com.iq,039774688d8e012ad06dd28f6bc77f05c945
+www.alzahu.edu.iq,03d41bfa4deea5302c8df71ab45134204458
+mail.alwifaqbank.iq,0302d3790731839e48de79af0b18aee06858
+cpanel.st.iq,03a32e60d1efc1ee0dee641b9103f07767a7
+cpanel.bcms.edu.iq,030d4d3218aed21e3fb94517270f35659d76
+mail.sherra.iq,03fb5d7c60b88575534ed8e6ba73e4ce7e64
+webdisk.dorco.iq,03a99b0c15a081d08695aea28b35fc48eaa2
+cpcontacts.bcms.edu.iq,030d4d3218aed21e3fb94517270f35659d76

@@ -4,3 +4,5 @@ kanban.peponi.lol,03f290887ba1f9f3efbdac71ab654e1f697e
 www.88888.lol,03f32b9fc9178852f157abc7e02ae11c1d6b
 graf.glove.lol,03a955f65689a823a62a96ef15c24769eaf1
 mail.m3m.lol,03f541c450271d930c5d78ef8759e9711026
+mail.didieatthat.lol,03341d74dc4ba7f1e9eca4635bf0fb9a31e5
+warframe.lol,036d9171276296eb562e634706da3491ec4d

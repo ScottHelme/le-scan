@@ -1,1 +1,2 @@
 wechat.convo.bot,03c787080da76d6284b2a16d512ae4dbfea3
+app.convo.bot,03c787080da76d6284b2a16d512ae4dbfea3

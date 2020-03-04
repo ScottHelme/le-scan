@@ -1,2 +1,6 @@
 www.safecoin.exchange,030be42b365c84b23db8c4cadf5dfa82ffb1
 xbt.exchange,03a3a3071784dcbfe5392df017e5d8c5b5a0
+webdisk.gowowx.exchange,043ddfa8d66d77588ece85934fd35dcbfcb6
+cpcontacts.stalk.exchange,03db42cc5514393d3d5a3a85af36294481c7
+www.documents.exchange,03410e00da54c3b955df1a6d6a3635f4dc48
+mail.stalk.exchange,03db42cc5514393d3d5a3a85af36294481c7

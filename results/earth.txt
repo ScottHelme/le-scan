@@ -1,3 +1,6 @@
 autodiscover.darkest.earth,033db3e1e8c68ba8c8196273d4d2fa14fae9
 www.melissacolman.earth,04a00573737571c6f6d75f2e159597301fbc
 test.similon.earth,04b9d7d1c5b146388233dd46ec967bdb9f9a
+mail.melissacolman.earth,04a00573737571c6f6d75f2e159597301fbc
+nogps.earth,045e65254273851fdc9b38e62a7ac9e3896e
+supernice.earth,04b121f211277446161f486f84ed16ef3d93

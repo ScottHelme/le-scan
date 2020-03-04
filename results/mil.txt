@@ -15,3 +15,15 @@ www.andersen.af.mil,03b2855955432006585793614bc1b4a8d911
 www.poj.usace.army.mil,0351b5e94dc7e184d5b8097c3b8699d264e4
 www.spn.usace.army.mil,0351b5e94dc7e184d5b8097c3b8699d264e4
 www.laughlin.af.mil,03b2855955432006585793614bc1b4a8d911
+www.spacecom.mil,0339d7daccfd806472a2d3cfc612c730ee78
+www.aetc.af.mil,03b2855955432006585793614bc1b4a8d911
+tasa.dodmedia.osd.mil,04ca7fd5a3d2de73c828f1a53a86d5e93ae3
+kusahc.nrmc.amedd.army.mil,0375089069441b1586dc28dd599c71f6400c
+www.budget.mil,04366afccae8ec0988e844fdd02557609a86
+www.naveur-navaf.navy.mil,037ac51d2c94b3922b6abca6a70d6e9fd569
+www.spaceforce.mil,03585eaff6373ac12ec9e65864b11190c0e1
+media.myafn.dodmedia.osd.mil,01de3f
+www.maxwell.af.mil,03b2855955432006585793614bc1b4a8d911
+www.warren.af.mil,03585eaff6373ac12ec9e65864b11190c0e1
+www.340ftg.afrc.af.mil,03585eaff6373ac12ec9e65864b11190c0e1
+www.wv.ng.mil,03b433cc7ce04c9ae075b0608677650e83e2

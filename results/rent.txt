@@ -1,1 +1,2 @@
 api.olympcar.rent,030c2e7e65d40c15a28be43fec8dbc4d94c1
+diy.rent,03eeb8523ed4e004fa89adec0338cacab7d9

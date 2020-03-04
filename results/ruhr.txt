@@ -1,2 +1,3 @@
 imap.mol.ruhr,03fcd72edd80dd9ae2dc171d7d99a3c23b28
 autoconfig.freifunk.ruhr,034bb84a62a55e69564ad800a370640f8a26
+pop3.freifunk.ruhr,034bb84a62a55e69564ad800a370640f8a26

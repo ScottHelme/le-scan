@@ -2,3 +2,5 @@ production.reporting.bcv.social,03b7891c165e9c9c1473e12a09f1e45e4559
 avolve.social,03ea67609699cb81a1b3086e2241aac801bb
 cpcontacts.uptospeed.social,0343dcd94e0c12771f726bc545095deed8c6
 triangle.social,03131f1b9f9dd8f3b2e6bb2e038672ad022c
+compliance.nui.social,03612a796d42f11a3284da7fc060ac48ace2
+webmail.betta.social,0358ebaf100d74be31b659c0c55db3933d79

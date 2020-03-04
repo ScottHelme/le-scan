@@ -4,3 +4,5 @@ webdisk.adrenalyn.band,03e4a3b77c84666196d696e0ee2e51840853
 www.daydreamerz.band,034f859f16e744bef7e1065ca2fed31cbb6f
 www.muffled.band,042fb00ec9300de71560b2195f867a0eec06
 webdisk.ktl.band,032b22ee70119b1c6fada1e20d94c9dfe494
+cpcontacts.dialup.band,04fa36f78d4e2d4b957bb87e8c960468fcdd
+bajotierra.band,030f1122ccfcaa83db95355d16326847a881

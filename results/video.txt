@@ -4,3 +4,10 @@ mail.hevc.video,03546ce89e5bb797c9d99b43066bc8b353ea
 webdisk.h265.video,03bb060630480cfd860393c0e216d5ff3267
 webdisk.h266.video,032645850ec5bee14ac280c7b1c97e7406ab
 cpanel.edj.video,0350ada6ba1ed909bb46ea175105e981369c
+epinal.video,03902c1af66efab590504fa0859cd6ba00ac
+www.freebitcoin.video,034d3df8c1105bbd548fd8d9c831ae86b547
+x-cam.video,034df151f381bd67e5c8eda2d8c28c5a787c
+img2.japanesetube.video,047ae06d6c281ba60d36446023a915c1aa5a
+www.jeremy.video,03eea4a612bc2ead23444d139021dc881c1e
+cdn.japanesetube.video,047ae06d6c281ba60d36446023a915c1aa5a
+sdarot.video,03496359741d62fbffcc32faf352975d1920

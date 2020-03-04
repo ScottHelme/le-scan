@@ -1,1 +1,3 @@
 whatsbetter.ctrl.info.tm,03f70c3450938744a39b4db094f298d943b3
+cpcalendars.marijuana.tm,03ed892737d87bba0bdbdbeffcdb72fb7630
+livetv.biz.tm,04ea2c8e01cbd0d8201d5d9a08b9bf07bb93

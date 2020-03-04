@@ -9,3 +9,6 @@ testsiat1.guichetunique.cm,045a3b976b2ab47681338f4d90b7fd52760e
 www.facsciences.uy1.cm,03141ac62e41e1b184eaa2c283e0d97b2a42
 www.support.financialhouse.cm,0366bbecdf6745b37dab270912c9230bb058
 km.kamermusic.cm,036412fdc6423422b0377d640ba65f3b9767
+cpanel.happyfoodies.cm,039b0cc9d111cd691d1417c0b8ba05970e28
+webmail.letlovelead.cm,0385624f9e94e5188ddf795f85fe3009249c
+cpanel.letlovelead.cm,0385624f9e94e5188ddf795f85fe3009249c

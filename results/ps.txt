@@ -17,3 +17,9 @@ webmail.zmnfm.ps,033f35c9c77ce66fe5c9000428efa0b066ad
 www.daban.ps,03b97603f8477c149a6c487c56b5d1ba01ac
 webdisk.keynews.ps,037ca7c074844862b7e0aa32f7a0bc8e5656
 cpanel.en.alweaam.ps,032bdac94d1f572da2993c71df049991aea0
+www.ayna.ps,03afad2cb0bfb1b18d6686871470b07ecbd7
+webmail.daban.ps,03b97603f8477c149a6c487c56b5d1ba01ac
+mail.galleryone.ps,042ed0fbe9a5f01d0d231f3825a156088c50
+webmail.webtech.ps,0347126efc92aa35e3941a92710e85c4ae22
+mail.alweaam.ps,0369e68ed2743f3a4deb4fde7720913c9be8
+cpcontacts.hadfnews.ps,034cb77e1fdcf6bdd486c80f03ad714e6952

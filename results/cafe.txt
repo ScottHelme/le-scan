@@ -7,3 +7,5 @@ autodiscover.lillys.cafe,03cb9fbee2e80675f16c704970e2defca781
 fcz.demoyo.cafe,039e12c1f4d91ede30476957ce0687dc5858
 cpcontacts.polak.cafe,0455b8626c3481822c9eba37e1215becb810
 alopex.honeycomb.cafe,03cb2bb801205e9b9aef53c29b7d0151fe41
+mail.fairplay.cafe,03b353c5795e8175669f65603408cb5e0c17
+code.collaboration.cafe,03ab5aac163b10d29f51b41e5adcf1eae3f9

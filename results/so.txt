@@ -4,3 +4,6 @@ cpcontacts.autov.so,0379948ef1bc6f36cbd7d36e9c2a8d750d32
 cpcontacts.dhool.so,035b5636a7c67a61dab9d56fe405bcd5c7f0
 www.bwfare.org.so,030d75f37a0954d0554f432acd2bdd7f2d23
 x.brendan.so,04291f7db4dd74ac3fa4ec361c5875ea00f9
+printplus.printplus.so,0359ff1c25ccd12df0dda1bf0340ccd74186
+webmail.sahalfinance.so,03d8af58064abd135d366af5546c53edb041
+stats.a.nmd.so,03ded9cb054d0e5977d74728ff0717479f95

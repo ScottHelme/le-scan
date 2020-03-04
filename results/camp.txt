@@ -4,3 +4,7 @@ cpcalendars.joan.camp,032fad6b04c17f06c20ca4ca89f327bbc602
 12-gameservice.freezer.wip.camp,0336c1db76f2ca1e8f0d96ec01a6e298538a
 board.randome.camp,036e516e52e2101290adccef6c474c080628
 stage.kamchatka.camp,042aea5148914686d726fd5eaf8189ffec1e
+12-userservice.freezer.wip.camp,0336c1db76f2ca1e8f0d96ec01a6e298538a
+12-wippo.freezer.wip.camp,0336c1db76f2ca1e8f0d96ec01a6e298538a
+camplakeside.camp,030e2679a87dcc4ef01fdb3ae2d91d89f22c
+pacadv.camp,03d808f07c9c9baa00ea8befbb86f2aaaf6e

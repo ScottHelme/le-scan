@@ -10,3 +10,8 @@ cpcalendars.gamebook.family,03d910c2855691edb6bdd78785e03c63f23f
 www.mccollister.family,03dc89d0694e464b250bf06ef72a938705f1
 cpcontacts.frys.family,04d09dd4eee0246132ffa35e48a9099b0872
 www.gamebook.family,03d910c2855691edb6bdd78785e03c63f23f
+api.preview.riesa-tanzt.family,0331bc0edd22cfcb08f81f670f72fd45a119
+radarr.kranz.family,035758f1d13e97a53dfa5b149994dd8ad206
+www.lalik.family,032e1b02407444329af83a25dc12e7b519ef
+www.paars.family,03c33b029b58bfb955b79faabcf5c73dbb39
+www.waldvogel.family,031d9ff3e183a746aa49b2ff6ea9651089bc

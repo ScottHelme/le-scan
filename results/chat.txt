@@ -4,3 +4,6 @@ beta.exeter.rugbyclub.chat,0332abcb8bea241cedb43797fc486f6b3629
 www.millenniumvideo.chat,032f1583b2b8cabc6120578df17b4427fa83
 subscriptions.godesk.chat,03d314dbb911f68a4b7bc70bf9e86158ecff
 www.jugendinfo.chat,03bf5de5aaeec88177a3b3cac72651f5ee08
+le-27.kat.chat,03a9bfb5e65ae316e0f02c69cb8497e44a45
+es.staging.kat.chat,03a9bfb5e65ae316e0f02c69cb8497e44a45
+rss.parajsa.chat,035880aac96e4e758908a76f577d48a090d2

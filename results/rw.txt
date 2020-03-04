@@ -16,3 +16,12 @@ cpcalendars.collegesaintandre.ac.rw,03f025b89a6ecff704ba8a10a4b11aec49cb
 www.africaintour.co.rw,030222f2ef6b8aed6b66566b77a5bfd7014e
 webmail.nccr.coop.rw,03121cd2cfa16a6ff6b7381e3549ed6bd394
 webdisk.create.co.rw,03cc13e69e111266c6e699775fe37100489e
+www.therock.rw,0341024cb5f4149786a98632619037ca6a00
+www.rohiaparthotel.co.rw,0302d2747a06e4fdf0c62677b25d9559ec20
+www.megapesa.rw,03173e5e66e7b694f4298ef5fe03589c1238
+cpcalendars.africaintour.co.rw,030222f2ef6b8aed6b66566b77a5bfd7014e
+rsso.org.rw,039bad01d60847638967a4fae4dddda19197
+cpcontacts.netechengineering.co.rw,032c8d0f1ee18efd7bf5c9581ff2b05f41fb
+webdisk.live.rw,03dbe3610aae4a653e5da74882cec1f915a9
+cpcalendars.rwandangoforum.rw,0451de7a32eab290fc6856e6ed7f1717f053
+cpcalendars.rwandareads.rw,041dfd50178ef87a72dd24ade498a487a014

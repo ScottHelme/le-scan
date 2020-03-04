@@ -1,3 +1,4 @@
 www.terraoptima.ivonamilos.wedding,038ef06745749424c5c38b232b535954ccd8
 webdisk.brideandgroom.wedding,03a7fd754e0ee343c7ec414fc0d097731870
 www.weddingdirectoryonline.brideandgroom.wedding,0332407a885cfca3e3f75d2133d4bcf9d43b
+www.weddinggroup.brideandgroom.wedding,03a5deeb8e0f18834809756662ee0ef94fff

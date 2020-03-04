@@ -26,3 +26,10 @@ streamer.drws.ll.xy.to,03677dc339fde0f3b3dd7b3abafe71077f44
 webdisk.pyxis.to,0351086d5e1a0535647fcf84c20f953c173d
 www.animetube.to,031bde98430d79c2fb53517206cb9b571cba
 webdisk.onyx.to,032f5309194c8f84a452c537d46e29faba4e
+bormio.to,04738987a040175effab7dac4048a1cba242
+autoconfig.superlot.to,0425c05b2e2c673b96be3ab1282b9c6114bb
+job.goo.to,03886b68f3528866580b79f623d1ec6a1c5e
+opensim.galactic.to,04c7ead19eef0fa23f8e2141bb894f44fd1c
+boersimat.compress.to,04506e4851a3e437b6da3c5f23a69e150e5e
+webdisk.animetube.to,031bde98430d79c2fb53517206cb9b571cba
+www.whoseisit.czyje.to,03e27a0daf3a9783e56d5391627118b6e330

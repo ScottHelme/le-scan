@@ -6,3 +6,8 @@ www.ferroli.wales,03854372d4cc91b454d70942c621e1a3d0ba
 www.balmdinefwr.wales,043936c73726d8c36734a7f0cdd18b61baf9
 cpcalendars.storibeers.wales,0375f5caead9e34423ef63e96b09078009f1
 webmail.miller.wales,0403db42aaf5a8a4d01dc2a0ebacef001b82
+www.breeze.e1.tacb.wales,03d79bdf6dcc3a34d41d9ee83fd8b01510c6
+mail.nationalparkcity.wales,03c1530c10b76991307fe7149d6c6575979f
+thewoodenladder.homeopathy.wales,03547d420e9a7c1876111d8afc81e4b9470f
+www.partyof.wales,031bbe5992e28aa9e728fedc6dbfd9cc5c8f
+www.miller.wales,0403db42aaf5a8a4d01dc2a0ebacef001b82

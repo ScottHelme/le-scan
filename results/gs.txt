@@ -2,3 +2,7 @@ autodiscover.creditsdb.gs,03feb75991d042c8c999219610bf89180ba9
 cdn.ht.gs,0381ce176516ef7b1500264d063a9a922a42
 www.zqktlwi4i34kbat3.onion.gs,0356e000e8e9f8e993fde090a49586fc94c9
 api.ht.gs,0381ce176516ef7b1500264d063a9a922a42
+cpanel.projects.gs,033c74a1be0ae92af30752f9300677037007
+cpcontacts.projects.gs,033c74a1be0ae92af30752f9300677037007
+msydqstlz2kzerdg.onion.gs,0356e000e8e9f8e993fde090a49586fc94c9
+autodiscover.manage.gs,03369f9bde6729bbef5ccc763bc9136ca0b1

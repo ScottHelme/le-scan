@@ -1,3 +1,5 @@
 anais.platinumkey.properties,03be89fb3db4e5da1a62511c091cbaa3a4b9
 mail.gdk.properties,0310431f07315ef507f0579dde92545902db
 www.irr.properties,03d1db1cdfc4af97f777433b5711c221f5ea
+cpanel.invest-in.properties,0370e224e72cf42ef9c2f518324656911b35
+www.invest-in.properties,0370e224e72cf42ef9c2f518324656911b35

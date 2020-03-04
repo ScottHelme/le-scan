@@ -27,3 +27,6 @@ webmail.factorfast.co.bw,03c170d88898efb52f06dc7561e1e75a4cbf
 www.triscend.co.bw,036a8262c2a09df10fbdacc7310d1efdff51
 webdisk.factorfast.co.bw,03c170d88898efb52f06dc7561e1e75a4cbf
 mail.allfore1.org.bw,042d529c4ab2bc9b8827db0d7c2a6c812397
+mail.knowledgefactory.co.bw,034eb7263e20ccb64dce4c74baa95c82fc89
+www.tjwealth.co.bw,03edef16aaf49fd55fa94dcbeac85d6c39c6
+cpanel.rizocore.co.bw,0305ae6e6fbd1f92a43c12a8d77ed7acfd63

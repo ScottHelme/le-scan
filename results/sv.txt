@@ -6,3 +6,7 @@ montajes.com.sv,04684b75053ae4c6b62cc858b4031aefeeed
 mail.unpocodehistoria.sv,0411079bae8a3b12e2a27f4971e3f1927f8d
 www2.edestinos.com.sv,037a0ccb9782851adf6f7880dd0097e27b17
 webmail.cavalier.com.sv,03c44ffee597c46bbf09d89da1124321ec23
+www.ainsa.com.sv,03e72668d2e93cc2724f85fb77931408a753
+futuroabierto.org.sv,03f9494be115e44202afe1a9cd11c3154a29
+cpanel.bienesraiceselsalvador.com.sv,0340b65f206c1394369b8929bbadd6557364
+cpcontacts.hackfest.sv,03da0f5257ab5af4247fc40e51d9f624fe46

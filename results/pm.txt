@@ -9,3 +9,8 @@ cloud.patel.pm,033c61135f61e82a60c6ad768dc1aa5aad0a
 cpcontacts.ssl.pm,03c14d0270cee8d3821c5216e1c5e3063472
 kastanjelunden.bfo.pm,037b54f4eeee8a33a8fbe1baaef9223eb5be
 webdisk.warp.pm,03dc97a19bf04ecfa421a62f04d60ef7cc03
+elibrary.geil.pm,034e6791916bcd963f347bfe6c59dda7bf13
+www.warp.pm,03dc97a19bf04ecfa421a62f04d60ef7cc03
+www.simple.pm,03ee4e2ff794ccb552a3cebb66f4e2354e2a
+sdarot.pm,03496359741d62fbffcc32faf352975d1920
+www.sdarot.pm,03496359741d62fbffcc32faf352975d1920

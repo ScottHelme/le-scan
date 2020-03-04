@@ -2,3 +2,5 @@ bread.capital,03801e8b1cdecc7a710f6f493138b7479893
 faro.capital,03ba76695d4bee83f77ebb0d7fab10056157
 json2xlsx.liber.capital,03bf8499096f73d3adea7c522ad578c6a6ef
 cpanel.sba.capital,038ae490da77b28635373bb998beae74e836
+oar.capital,03a892f6f61c0374dc66f9847c7f9a48a6a6
+www.oar.capital,03a892f6f61c0374dc66f9847c7f9a48a6a6

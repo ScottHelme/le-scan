@@ -1,3 +1,6 @@
 cpcontacts.referral.fish,032be3adb338283fd2891e0b7d21aa0dee07
 www.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1
 www.blueshark.fish,031d2d5cfe1e0c86ef8d16bcbd691feda517
+mail.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1
+cpanel.referral.fish,032be3adb338283fd2891e0b7d21aa0dee07
+cpanel.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1

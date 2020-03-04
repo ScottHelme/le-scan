@@ -9,3 +9,10 @@ cpanel.pulseras.red,0315d048d380aa70f2e31ece0d44b3d98b9f
 cpcalendars.pulseras.red,0315d048d380aa70f2e31ece0d44b3d98b9f
 hq.tat.red,035d8827ca461ae6eaa2dcfd0f72183c55a9
 www.ask.red,03980055857c061816f0bd727dc3eb78769d
+blog.rime.red,03c4cf88b13c79c88d471766b4ea76b76748
+cpanel.rivoluzione.red,035fe6082fad45aa64043042426eeb46f5c9
+sdal.correia.red,03f2788675fbfde09045161c8c35c7545c16
+webdisk.cocina.red,03c634ba67f2011c4cd1140ef293c0eab83d
+cpcalendars.honest.red,03a05871f7f03829b6d7fab5a736f094a93d
+www.sdal.correia.red,03f2788675fbfde09045161c8c35c7545c16
+webmail.honest.red,03a05871f7f03829b6d7fab5a736f094a93d

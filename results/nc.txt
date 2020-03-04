@@ -1,2 +1,4 @@
 www.becomandco.nc,031d53672de5658cfcfd3faf0b98b0f5e999
 www.becomco.nc,031d53672de5658cfcfd3faf0b98b0f5e999
+sanibains.nc,03adc7007f664d25f7616227d7aa9bdeb0d4
+liveupdate.bfc.nc,03f259772cf832b153f51cb825cb7fb791b8

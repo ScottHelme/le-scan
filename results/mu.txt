@@ -10,3 +10,10 @@ webmail.msf.mu,033efaf8f1f45575fc65387d6cba802012ea
 www.eventsmauritius.mu,03950a7556e67e9bdcba3440a438a9c0b776
 www.eventsmauritius.tourism-mauritius.mu,03950a7556e67e9bdcba3440a438a9c0b776
 webdisk.gowest.mu,036d7e7dc9fa8591e6a138041738b4828aba
+www.host.wong.mu,03718d672a70ad7e5ac572262ff735d42450
+cpcontacts.maurice365.mu,032e5b56ef989430f7bb75fce5e3075eaf72
+gplegal.mu,039eaa6aacb31121a7d1237eb589dd2e7710
+www.msf.mu,033efaf8f1f45575fc65387d6cba802012ea
+www.registration.fitnesspark.mu,038ce61be71e4eb501d2f9e55335946a6144
+www.msf.tourism-mauritius.mu,033efaf8f1f45575fc65387d6cba802012ea
+webmail.apanama.mu,0318fded6670a353564670b8feb5faa72e28

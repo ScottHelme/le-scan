@@ -6,3 +6,9 @@ mscc.org.mt,04e6c9680051470e0ad21e07b2d0b409dc54
 svbeauty.com.mt,03c92ba919e26747eedc43528f0d3f180b14
 svbeauty.mt,03c92ba919e26747eedc43528f0d3f180b14
 www.happypaws.org.mt,030d2299824f7fd6f2629d1bd4284ce5bcc6
+www.mini.com.mt,03fc4e496a0974eea4f8ba112d89f7cf57c3
+vecchianapoli.com.mt,03bd90a4eceee39e57c463a9a3a9f1ae3dcd
+cpcalendars.abbeyinsurancepcc.com.mt,039a23d9ec90782dba90116c109d44d82557
+cashtech.com.mt,048b66b2fbbe9758f4fd4995b28e71b48b25
+vjsbeauty.com.mt,03c92ba919e26747eedc43528f0d3f180b14
+mail.happypaws.org.mt,030d2299824f7fd6f2629d1bd4284ce5bcc6

@@ -8,3 +8,7 @@ nun.nanoq.gl,035f4eceaf595eee24cd3c3a46b62d839d6c
 mail.jf.gl,0356ecdf665c194f40ad1964cd4e13bf65c4
 bgame.gl,030cebc6d8548d4c554a059b1973cee437d6
 icc.cms.gl,037f50dc9865b0eccede7d1575fe454fb504
+www.pilersaarusiorneq.gl,034eebd81d84ae7592adec034b978af9bd4d
+sunngu.gl,034eebd81d84ae7592adec034b978af9bd4d
+gts.gl,037a8f59f37691ad6a3ed9f0efc095dd0b8f
+skak.gl,0327f1bd412e60e24b963dd4ece1dd26a0b6

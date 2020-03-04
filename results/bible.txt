@@ -9,3 +9,10 @@ answersingenesis.bible,04d8647383d855914a2a81ff0368580457fd
 42-line.bible,038f6ad1bab874b50910837bd5d1f981099c
 42line.bible,033a1e7c249aec719b0a939223c327d0c095
 www.ibex.bible,0370daf09e2a3278c68b8b8a85e15682b3c4
+www.mufian.bible,03985d9bfc8873a2ab2b2f6adc0af6248c87
+www.lumo.bible,03b6b7931db5033108178d34a0fafc4fad38
+rotokas.bible,039def34429b5903098f5b48f450a1a64988
+bukiyip.bible,03985d9bfc8873a2ab2b2f6adc0af6248c87
+www.sunsetlibrary.bible,036a54ed7c05698bc19f8669cf285e5f3437
+www.drj.bible,03c63b86f72eb15b55b10b4879bab82145c5
+www.kosena.bible,0317d579b6b1832298a72a5089aef88fbb0f

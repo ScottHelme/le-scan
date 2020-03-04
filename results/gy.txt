@@ -2,3 +2,6 @@ support.sites.gy,03f8a991eefe2365126518a4c9205c710188
 webdisk.i2.gy,03c37894ece12a7cf940e2410d7286e50404
 cpanel.ad.gy,046b77970cc532729a37164c8b9b83fa039b
 www.cluster.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f
+zb.gy,04061a504c9a18ff4ceb7ad9fc17fc3abb29
+mail.ad.gy,046b77970cc532729a37164c8b9b83fa039b
+vpn.cluster.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f

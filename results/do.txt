@@ -31,3 +31,15 @@ cinema.com.do,03d059ab27e9c5c3ade0851e063c334c7b22
 www.mini.com.do,03fc4e496a0974eea4f8ba112d89f7cf57c3
 cpcontacts.hhm.gob.do,03937655e3b1e206bc25409f781e7f2a86ca
 cpcalendars.brightlight.com.do,030d81c763128c12eb8e8903364554ff0a89
+people.welltech.do,047c19f81b229068f1d808e17c17e38cd364
+cpanel.resuelvelo.com.do,03bbdcce2585b0faefccdfb27fcc8994d06e
+ws.yay.do,034c6ccbfeace3ea8e9000b0bef3b88ed66d
+cpanel.sbcorredores.com.do,033e5fcf2a4466fd70887ecde6fd1abd5aee
+webdisk.rochagalioto.do,04b8a3d1c3a07f33f6927dba2193258f4142
+autodiscover.msa.com.do,032c1144fd729d7125087939b8522c75e950
+cpanel.cpadp.gob.do,0302a3ab2ffb44dccaf6c4320ce8c32982c1
+cpanel.iec.com.do,0326923c3a75e223c9dc943ec6f7e2a17e89
+webdisk.qan.do,03e1c3dd906e08ab3616b38602e869767a2f
+webdisk.losrosantes.edu.do,038bd52f7bb3dd6fc27e1871a5e822f4f8b5
+cpcalendars.pcsd.com.do,0340e1f062086644473e98fa71356886c67e
+products.yay.do,034c6ccbfeace3ea8e9000b0bef3b88ed66d

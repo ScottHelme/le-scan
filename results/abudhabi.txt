@@ -1,3 +1,4 @@
 whm.enjaz.abudhabi,03fe7af192a936ea37bc1968111ff74cf437
 webdisk.enjaz.abudhabi,03fe7af192a936ea37bc1968111ff74cf437
 mail.enjaz.abudhabi,03fe7af192a936ea37bc1968111ff74cf437
+www.enjaz.abudhabi,03fe7af192a936ea37bc1968111ff74cf437

@@ -15,3 +15,5 @@ cpcalendars.entzunekai.eus,035f7f9f179b0463f3b951ae49dadd68455a
 mam-anboto.tokimedia.eus,03e520228c3f8c7c76cca62a651a58237909
 emun.eus,030e734960dd60b0b75532a19eaeae8ebeaf
 rss.jon.eus,041335c50df605fb7daa388b44de944ab020
+git.jon.eus,041335c50df605fb7daa388b44de944ab020
+webmail.lainoa.eus,03b5830a75551622312aa06a28cdbefcaa1b

@@ -13,3 +13,12 @@ webmail.scinpa.ci,03fb75d32573c1cd6fa90040957d838e65ad
 webmail.bursys-system.ci,03fcd491f6ef25b59ac139aa4e9ff281f9c8
 crm.silicom.ci,03b75db9676d1102a7e1ca52171c4efedb46
 cpcontacts.nestela.ci,03e5d929650e5384d9a3367de9f825b095b7
+cpcalendars.nil.ci,031535f1250ce9c8b1d2a0ccc98e1aa14eb1
+webmail.cavallylounge.ci,03a01c97a754ba093f616956bf0d06a9f9db
+mail.nestela.ci,03e5d929650e5384d9a3367de9f825b095b7
+mitsubishi-motors.ci,038f9d2fc311ebb47fb2f90c13edc8c88853
+www.crm.waraniene.ci,03a714c82a1ca539ce43361a1ebf61a30674
+vendezplus.ci,047b163f62410010e9ae0a8306fcbf23b8e5
+my.oxahost.ci,034773915ad264cc3338c4619e82aa879e8a
+mail.email.ci,03d068c882356982c4dab11dc412a4e5433c
+webdisk.monlibreopinion.ci,03022db14e3dcc85ba757a1ada4d22dc2106

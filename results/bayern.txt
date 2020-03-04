@@ -6,3 +6,7 @@ klage.bayern,03c6f3fd9ad5d7eb3b155cbedf4e1b919a46
 xn--kndigung-65a.bayern,033d6321832cd8600afcb1d177867ee106e8
 stoi.list.bayern,03dd1fe49761781100fd226da73bddb7256e
 xn--knstler-n2a.bayern,033d6321832cd8600afcb1d177867ee106e8
+ferienpark-vorauf.bayern,03fab03f428f8c2e7733decba0254bce845e
+schuldnerberatung.bayern,03181072e3ec22906adb922bec8d83eb72ad
+www.handwerkerin.bayern,033d6321832cd8600afcb1d177867ee106e8
+erdwaerme-chiemgau.bayern,03b55cd8aa8f5f15a9b0410e36f2b29a3628

@@ -7,3 +7,7 @@ stu.bareggio.globogis.srl,03c879135f61cf042c53ef3dd10c217ed35a
 netwir.srl,0440ffb012b259a1619a8dd157ca6bc6b685
 cpcalendars.i-deal.srl,03ecf6c82bc206b3f9e0ad3aa7066ef5d987
 cpcalendars.itmag.srl,0321d73195984026f84bb860293d56a5a6d1
+www.artcolor.srl,0317dec6b4369708adea21084b063cdc1a4f
+webmail.law.srl,048a43c2f42c0db1ca98f702811fc707acf0
+nerds.srl,03b47f08251dea87af62bdd837b2faf6f109
+cpcalendars.excellentservice.srl,037644d35b2b834e1b116c8b5d3b5ade12a6

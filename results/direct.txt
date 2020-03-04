@@ -2,3 +2,9 @@ shipit.direct,035502cc5033c7ebd2a0e4336b0bd6f08e6c
 cpcontacts.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826
 mscgdb.governance.direct,03f273adb99506b46aa932c259d85c45ed5b
 price-rc.bb.direct,037171f92701fc6612ff4b37d237e7e4b7f8
+udp.direct,0318fada615a7834c5545acb78eead5e3d1f
+webmail.tcp.direct,042b74ca4e8c59eeaf47ee27e1825c108b18
+mail.businessfinance.direct,0398a0199b063ea1b4ca8853e4aecc2e9826
+auth-rc.bb.direct,037171f92701fc6612ff4b37d237e7e4b7f8
+www.msg.direct,033717cc35403e1aca8f4b938e80b00da018
+webdisk.cocoa.direct,0338389a4f4b7b4f248f5d171ab9e08374bb

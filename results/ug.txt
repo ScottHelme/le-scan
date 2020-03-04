@@ -18,3 +18,16 @@ webmail.betimo.co.ug,04734f6b37a08c5c76e28f4d0c1193d6f688
 webdisk.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
 mail.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
 cpanel.fti.ac.ug,03f2703ea175532b1cf0641fa3d6ca4bca59
+webdisk.evergreenorganicfoods.co.ug,03f993f8ab850e4a93794c6cf1f630f5217f
+cpcontacts.k2telecom.ug,03f654e73f9b7a7533924ca734d88f7cde54
+www.babatv.co.ug,03bc2c1bdfa421ecbeccc5eda271720aff64
+webdisk.jcu.go.ug,03ac47746a13a0defad95da65f098530e424
+webmail.ulc.go.ug,0368859b2ca531513f800731c6969c1bce19
+www.fimat.ac.ug,03b5e29171e6c16b1752fd49303262964840
+www.enjaazilimited.co.ug,031f221a51b722c6bdf1d59cd6156b8d2689
+treatsnmore.ug,0335e497d5b108107b49abe25b1b689f7c75
+market.qball.ug,03f915ff507292f6f1e8bce2efb30469fbc4
+cpcontacts.fti.ac.ug,03f2703ea175532b1cf0641fa3d6ca4bca59
+cpanel.fimat.ac.ug,03b5e29171e6c16b1752fd49303262964840
+www.perchstone.co.ug,03098c7c7bc1490dcee3cb5c7830b5611b10
+propertyweek.ug,035c506d2957558fa969de852b544a0222df

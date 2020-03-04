@@ -23,3 +23,10 @@ dev5-play.benchmark.games,037d39bec917ed85e8232756a203935228c5
 dev5-report.benchmark.games,037d39bec917ed85e8232756a203935228c5
 test.fanfab.games,037b3d4d6b0864ae2520d8c887c515db90ce
 webdisk.primero.games,036baa74e1fff3c166a378a59c95eaaf7a28
+webmail.highplay.games,03c960dd93cf85f656700f5395eda2c515aa
+astera.games,03971b370a8a44f524047f954d02e6209aa2
+refused.aniblur.games,0408a7de09e76892c747e7642d7e6a6f6355
+ca.free-math.games,032ecad954cccba7fdd278194c4691d4fdeb
+ca.free-maths.games,035881db0e6e69e10cd70172bb2faf4b4381
+dreamy-terrarium.wfs.games,031f878afa140a0735a3dcbdd8e2dc66c181
+webmail.keuh.games,03f57b256835ad6f6e8278af59adaf70986f

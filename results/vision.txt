@@ -1,2 +1,4 @@
 mail.universe.vision,031101b0880f6cbb0c577d0d3ac0ad265f39
 future.vision,03b9d4eb15e11fbdad97b7e6e4aac85bec66
+subscriptions.myeyes.vision,04e8e2ef4711d505fdb438094cd3654f01bd
+www.democratic.vision,032c2a8efdf9e0e5792e46728615b6d00ae8
