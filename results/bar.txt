@@ -3,3 +3,11 @@ www.space.bar,03d203247b0ce5ef28dc8bf5e3cbd8f4cf89
 webmail.space.bar,03d203247b0ce5ef28dc8bf5e3cbd8f4cf89
 cpanel.tragaperras.bar,03317492774160b7dec623857d08c73d48e1
 erp.evergreen.bar,04145d6510a91919ba7bcb84779dc338951e
+mail.jiggerplease.bar,03f60801731200cbc63ebb9ad1c1c57e5ae5
+chickeria.bar,04ddc3ac6123964702a27a3b99f47f197d61
+cdn.notifications.bar,0300a24223c45032609ddf991758b6c07b34
+www.chickeria.bar,04ddc3ac6123964702a27a3b99f47f197d61
+drnk.bar,03ebb3f178ea7953923f5865fb953601da9d
+gfy.bar,04aab4987ded51a339baa09fd174b9300522
+spf.gosu.bar,0395ae7243b5c399db9eba962e652c37e527
+www.drnk.bar,03ebb3f178ea7953923f5865fb953601da9d

@@ -2,3 +2,12 @@ aspar.om,0329b452ee98bd533fcade9b1ca0bcde799e
 www.khimjiramdas.om,034f2691e5a7b11901eb2ffce26944f95e83
 mail.mubarak.om,03c56d97b749430479ce2d328e94947fa05e
 autodiscover.crowehorwath.om,03fab95d67e8236e4233e19d8022c7d0e64e
+www.mooi.om,0410437ec1027c588fdabef1e52554008b9a
+autodiscover.mubarak.om,03c56d97b749430479ce2d328e94947fa05e
+webmail.mubarak.om,03c56d97b749430479ce2d328e94947fa05e
+www.artvision.om,03f9d6ca07ba9ae3b829bc5dbf3f1674a881
+artvision.om,03f9d6ca07ba9ae3b829bc5dbf3f1674a881
+webdisk.mooi.om,0410437ec1027c588fdabef1e52554008b9a
+tst.philips.com.om,049a4e0cf2a948276d5f0a1fb217be80386b
+cpcontacts.mooi.om,0410437ec1027c588fdabef1e52554008b9a
+webmail.salikon.om,0332e959b86dc3cfa84816c3a74e7cb4eb15

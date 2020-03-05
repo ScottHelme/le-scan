@@ -4,3 +4,6 @@ mail.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
 cpcalendars.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
 phaux.uno,0350dbffbcbddd78eb22895827f6f8e4be0b
 cpanel.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
+webmail.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb
+isoladelba.uno,03480a9d9e6f686e77a1a93d7f09420a4a3d
+autodiscover.lip.uno,037179ae6abda0be8a6cdda0bb0c2871e0fb

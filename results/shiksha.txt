@@ -1,0 +1,5 @@
+ahmedabad.shiksha,0312740df0f096509bcf5b637c043fbb23ba
+cpanel.gurujieducation.shiksha,03760fa91652a873b245577d06e6c5e76b83
+autodiscover.gurujieducation.shiksha,03760fa91652a873b245577d06e6c5e76b83
+jaipur.shiksha,048ee5a63818131058fa41d20286f8be0c2e
+webmail.gurujieducation.shiksha,03760fa91652a873b245577d06e6c5e76b83

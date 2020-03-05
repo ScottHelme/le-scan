@@ -1,1 +1,3 @@
 www.internet.charity,0303181c67ac8d129f914523e27aafdccb73
+autodiscover.bolsterstoneeducational.charity,0310ea1f9570b8bec8696649d19839dcb256
+admin.staywell.charity,03b8bf2c507679eb9d6914ef570d6bad5182

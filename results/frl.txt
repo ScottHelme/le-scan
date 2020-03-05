@@ -1,2 +1,12 @@
 pop3.bottema.frl,031d79d50b067e1cacf5e95b9c8a0b3e3b64
 www.internetbureau.frl,03aa8865e9362afd723e0ba621f826ca8acc
+www.ww.vandermark.frl,03836aade3525de322bd4e93b7cc5ec4365d
+server1.bottema.frl,031d79d50b067e1cacf5e95b9c8a0b3e3b64
+www.fisk.frl,0495b45ba6a18cd427d79aa32e51fa9952bb
+www.fiskko.frl,0495b45ba6a18cd427d79aa32e51fa9952bb
+grienbouw.frl,045c3692ccf228f363089d7903668f426b2f
+highfive.frl,03d40d5520d0b346e242be0441d5bc7d23b9
+server2.bottema.frl,031d79d50b067e1cacf5e95b9c8a0b3e3b64
+www.atlantikwall.internetbureau.frl,03aa8865e9362afd723e0ba621f826ca8acc
+www.atlantikwall.schrijfburo.frl,03aa8865e9362afd723e0ba621f826ca8acc
+autoconfig.kloetstra.frl,037ec73a6c1c47c849d6d7f99e1dd086295e

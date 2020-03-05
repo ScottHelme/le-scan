@@ -11,3 +11,10 @@ demo.optimal.nc,03e8eea0a985a3e7e89f5f680fe01d3bb01d
 www.jardiland.nc,03b7a11254510c301d588af7f19625da8511
 www.labilletterie.nc,036b3a5bd6c53d90fc2c7221b0a27348d572
 www.labilletterie.tickets.nc,036b3a5bd6c53d90fc2c7221b0a27348d572
+cpanel.ticket.nc,036b3a5bd6c53d90fc2c7221b0a27348d572
+cpanel.tickets.nc,036b3a5bd6c53d90fc2c7221b0a27348d572
+www.mini.nc,03fc4e496a0974eea4f8ba112d89f7cf57c3
+skazy.optimal.nc,03e8eea0a985a3e7e89f5f680fe01d3bb01d
+eval6.ac-noumea.nc,04d05647696a2f1d1d7026f25ea27337b5cb
+eval6.education.nc,04d05647696a2f1d1d7026f25ea27337b5cb
+ticket.nc.tickets.nc,036b3a5bd6c53d90fc2c7221b0a27348d572

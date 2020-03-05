@@ -1,3 +1,12 @@
 imap.mol.ruhr,03fcd72edd80dd9ae2dc171d7d99a3c23b28
 autoconfig.freifunk.ruhr,034bb84a62a55e69564ad800a370640f8a26
 pop3.freifunk.ruhr,034bb84a62a55e69564ad800a370640f8a26
+steinhoff.ruhr,039aaa0a15c722a60fc90ab7a2ba57b8b25c
+www.x.mol.ruhr,039e5ee3239d347eab4eaffb3c34470bbc08
+huthmacher.ruhr,035510ecd4bdd2abc51a3165b751ec2885d1
+vielhauer.ruhr,03dbea45d29da8b337deee497df269c73b2c
+www.wasel.ruhr,04a9068bfedd8b95f6bca541262b7f88e005
+lea.vielhauer.ruhr,03dbea45d29da8b337deee497df269c73b2c
+plewka.ruhr,03b830b50e30001ce9e0fc9c250570d7a671
+niers.freifunk.ruhr,03bb0affb1faf23bacfb6426bfd2055d62f1
+cloud.freifunk.ruhr,034bb84a62a55e69564ad800a370640f8a26

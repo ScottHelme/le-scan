@@ -15,3 +15,10 @@ webdisk.choppers.rwm.yt,03f880362591be252b0181b0e3b994d75f70
 cpcalendars.m2.yt,04600a3e4b6553d33115dbf314db556a995e
 webdisk.m2.yt,04600a3e4b6553d33115dbf314db556a995e
 api.pylott.yt,03a24508f2b40d9a2a5182d2ba4812796463
+www.chr.yt,033576a66fb9fd797dae44cc865d313fc579
+victorialair.lfp.yt,03f4dd7264fbc9cf7b9e3cecf4809df03468
+autodiscover.nanu.yt,03466535f28be963e5bfe28b05513d89e5d6
+mail.choppers.rwm.yt,03f880362591be252b0181b0e3b994d75f70
+webmail.choppers.rwm.yt,03f880362591be252b0181b0e3b994d75f70
+filmodata.pylott.yt,03a24508f2b40d9a2a5182d2ba4812796463
+horizonsas.pylott.yt,03a24508f2b40d9a2a5182d2ba4812796463

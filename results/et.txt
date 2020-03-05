@@ -1,2 +1,6 @@
 cpanel.joshuacampaign.et,04c528bf67a52b156105ec7db8d016be315b
 dashboard.catch.et,04e987d38e332384128d1bd992de0c11d8d1
+www.joshuacampaign.et,04c528bf67a52b156105ec7db8d016be315b
+travelethiopia.et,03d481bd4c2e0f1c0f7480cfb9a679d298a9
+cpcalendars.joshuacampaign.et,04c528bf67a52b156105ec7db8d016be315b
+mail.joshuacampaign.et,04c528bf67a52b156105ec7db8d016be315b

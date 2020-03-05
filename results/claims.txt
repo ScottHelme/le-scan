@@ -1,3 +1,6 @@
 www.equalpay.claims,0303006fb8a70a35e12237c45fb50bb07e9e
 whm.equalpay.claims,0303006fb8a70a35e12237c45fb50bb07e9e
 new.mortgage.claims,0393220ccb3f6510b27d790e88b26e32e863
+www.insomniac.claims,03c4ed7661859b2f98ca9426327f3415d400
+autodiscover.equalpay.claims,0303006fb8a70a35e12237c45fb50bb07e9e
+login.mortgage.claims,0393220ccb3f6510b27d790e88b26e32e863

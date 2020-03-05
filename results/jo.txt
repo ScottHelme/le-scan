@@ -7,3 +7,11 @@ uat.act.com.jo,03331429f218cb9e44698ebb763b7a672766
 webdisk.ncej.org.jo,034806a8f5a506dd26d16ce3e2e03b8e6b29
 dev.act.com.jo,03331429f218cb9e44698ebb763b7a672766
 www.image.com.jo,04812705dfb852ec72488e6fce15d2ce1206
+test.mostaqbal.jo,033f8af69facf0bc5e26592f804d0d7302a4
+webdisk.ahss.edu.jo,03c51fe175179d6e167f09bc3588d0e74a76
+mail.redrock.jo,0327beaa278a343ee5098bbb13c447c98fb4
+webmail.redrock.jo,0327beaa278a343ee5098bbb13c447c98fb4
+tst.philips.jo,049a4e0cf2a948276d5f0a1fb217be80386b
+www.test.mostaqbal.jo,033f8af69facf0bc5e26592f804d0d7302a4
+cpcalendars.redrock.jo,0327beaa278a343ee5098bbb13c447c98fb4
+webdisk.image.com.jo,04812705dfb852ec72488e6fce15d2ce1206

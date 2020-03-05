@@ -9,3 +9,10 @@ www.gicc.cd,038163fdf055b4eb720bfd8357dc1f7b4628
 cpanel.univofbukavu.ac.cd,031cb539228a46931371662cd77f22bf6c42
 energie.gouv.cd,031cb539228a46931371662cd77f22bf6c42
 webmail.emavision.cd,046cfa1939cda7ff437f7035972e140889fb
+www.ispt.gicc.cd,035cda1a7a63a2e68e16de58d102a3f4510c
+cpanel.aucongo.cd,033e133beac5132278a67d1a380a78ef2914
+cpanel.energie.gouv.cd,031cb539228a46931371662cd77f22bf6c42
+www.energie.gouv.cd,031cb539228a46931371662cd77f22bf6c42
+www.emploi.cd,03b8407285af2100417d4ccabd88c81ea267
+www.aucongo.cd,033e133beac5132278a67d1a380a78ef2914
+webdisk.emavision.cd,046cfa1939cda7ff437f7035972e140889fb

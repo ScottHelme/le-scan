@@ -1,2 +1,4 @@
 autoconfig.sub.sex,03b060be432d09cb0a01562f8fdefbb4eceb
 redbag.sex,0401a1fe9f0c2e1c2589c9693ddbbf382aaa
+www.redbag.sex,0401a1fe9f0c2e1c2589c9693ddbbf382aaa
+www.sexosurgut.sex,03407de18fcbdfbb12c7464002301530710e

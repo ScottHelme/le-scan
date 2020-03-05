@@ -1,2 +1,4 @@
 rugby-lucciana.corsica,04429ad4229a198010ca72ed698be88f6fc2
 soleil-levant.corsica,04123231aedf6ecb6af9dab00b95ce8bf74c
+webmail.soleil-levant.corsica,04123231aedf6ecb6af9dab00b95ce8bf74c
+cpanel.soleil-levant.corsica,04123231aedf6ecb6af9dab00b95ce8bf74c

@@ -1,1 +1,2 @@
 www.ebankstar.bank,04ab96349ac6d656a1f075285fe23e863d1a
+www.payray.bank,03f24bc45e06482616e0eb0d62d4a10cbd58

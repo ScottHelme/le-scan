@@ -3,3 +3,14 @@ www.uptown.com.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
 dev.philips.com.bh,03890aa832016af05ad696968dfb108f3eb2
 whm.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d
 www.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d
+servcorp.bh,03429aaafcab4b4ae16ae307ede2a4f12718
+cpcalendars.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d
+vatel.bh,0333a719a03b6ba2b993d5afa7dcd25789c3
+mail.uptownbahrain.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
+mail.uptownbahrain.com.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
+mail.uptown.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
+mail.uptown.com.bh,03a9fc59ca5a4c51e18c9e060c493a25bb2c
+tst.philips.com.bh,049a4e0cf2a948276d5f0a1fb217be80386b
+autodiscover.equilibria.com.bh,03a376333fb4f345abe640e263903fad889d
+icewarp.bh,037d3c33cab7a1d05f2595a3065b3ee23fce
+www.vatel.bh,0333a719a03b6ba2b993d5afa7dcd25789c3

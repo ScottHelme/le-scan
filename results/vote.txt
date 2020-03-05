@@ -1,2 +1,5 @@
 www.ballarat.vote,03aa50c3b8b8648fd821ecc7781355b27ecc
 appadmin.ges.vote,03ca3b934a97d1b3b9b94a8a513d70f2a73a
+radicle.vote,037a6621f386148039ba4887c75835aa2ce5
+packard.vote,0300ba1574d2a268a43b2dc95af5892c4009
+www.packard.vote,0300ba1574d2a268a43b2dc95af5892c4009

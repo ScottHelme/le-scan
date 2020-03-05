@@ -1,2 +1,6 @@
 mail.crm.pragma.financial,03d849f0fb63abd62b9e060fe8a26ec49662
 www.lightspeedtorch.financial,03928816d126fa10bc0826bf5dd40b57f3de
+mail.postos.pragma.financial,033870b80495552793afa2f46bd1808c33a0
+www.postos.pragma.financial,033870b80495552793afa2f46bd1808c33a0
+severino.eleven.financial,03cbe3677f1182a76cba6778327e22ffdbfe
+cpcontacts.postos.pragma.financial,033870b80495552793afa2f46bd1808c33a0

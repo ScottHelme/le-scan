@@ -1,2 +1,9 @@
 webmail.milestone.finance,03eb6c14f3a81ba18e8e3408645c596a7a37
 cpcontacts.ipfa.finance,0353d4bac4032b903ffcd3361087dc6e2a0e
+backend.airpush.finance,030a8a080656cb48ee6b29844cc3ffac7d9d
+api.dev.airpush.finance,030a8a080656cb48ee6b29844cc3ffac7d9d
+backend.dev.airpush.finance,030a8a080656cb48ee6b29844cc3ffac7d9d
+cpanel.ipfa.finance,0353d4bac4032b903ffcd3361087dc6e2a0e
+real.finance,030b6889672eb097298422b067992a8dbe43
+old.airpush.finance,030a8a080656cb48ee6b29844cc3ffac7d9d
+deltazero.finance,035d40913eca2860e7ebc0ef92af3bc0a2b5

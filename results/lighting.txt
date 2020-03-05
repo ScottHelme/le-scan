@@ -3,3 +3,7 @@ www.lumos.lighting,03ac7c98a592e3292d61710999715ef53108
 autodiscover.svet.lighting,03e1db8769e9f489b110aed31188ef6d32ee
 cpanel.lumos.lighting,03ac7c98a592e3292d61710999715ef53108
 webmail.hi.lighting,043afada666d1ccdcbe8977bdc2031c133e1
+webmail.lumos.lighting,03ac7c98a592e3292d61710999715ef53108
+autodiscover.lumos.lighting,03ac7c98a592e3292d61710999715ef53108
+daray.lighting,0493137875b9d2f94e93a9106d34abe6aa5e
+www.hi.lighting,043afada666d1ccdcbe8977bdc2031c133e1

@@ -16,3 +16,11 @@ d3-s2.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 d3-s3.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 d3-s4.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
 mail.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4-s0.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4-s1.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4-s2.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4-s3.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+d4-s4.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+as.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a
+sftp.eu2-dev.servicegrid.cisco,0328cc568f8f8d3b5632fc7e014d79c3fe7a

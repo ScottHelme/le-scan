@@ -1,3 +1,10 @@
 portal.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6
 lucht.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6
 dgpress.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6
+prod-web-trovi.easy.bi,03e9bfe077879a31cb1166583eecf44153dd
+status.space.bi,032c8ee60943fc8823c655050762210f4d1a
+www.emploi.bi,03b8407285af2100417d4ccabd88c81ea267
+cpcalendars.anhem.bi,034d15c40b37bd86a2cfad4b775775346660
+cpanel.anhem.bi,034d15c40b37bd86a2cfad4b775775346660
+prod-app-trovi.easy.bi,03e9bfe077879a31cb1166583eecf44153dd
+ienw.smartgraph.bi,0303339d82ef55098ebceb1e8d14a97370e6

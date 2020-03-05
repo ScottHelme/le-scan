@@ -3,3 +3,12 @@ www.cache.koeln,04c74da41ced37d766196c0e8d50ead54304
 www.segeln.koeln,037b75354ef0e0388b780d51b97e3e9ee1fc
 www.segelschule.koeln,037b75354ef0e0388b780d51b97e3e9ee1fc
 sulu.mautz.koeln,036cb33bc85b75986e60b7a3b2508eaa25fb
+www.yachtcharter.koeln,037b75354ef0e0388b780d51b97e3e9ee1fc
+itberatung.koeln,04c74da41ced37d766196c0e8d50ead54304
+autodiscover.xn--glhpn-lva.koeln,03f372d33d5ded9b4b39e0a29dd15216291c
+cloud.eminus.koeln,0391aedf10721ae519b0babf249cae729762
+www.sportbootfuehrerschein.koeln,037b75354ef0e0388b780d51b97e3e9ee1fc
+www.kindernoete.koeln,04b76812460984a8e5cc1c1c662b6d4f2433
+autoconfig.xn--glhpn-lva.koeln,03f372d33d5ded9b4b39e0a29dd15216291c
+wunschzettel.kueppers.koeln,0306fef7fd1549375fd230ee68f713ebfd96
+www.seil.koeln,033da60b9f2ce6b702012867d4a02bd596ee

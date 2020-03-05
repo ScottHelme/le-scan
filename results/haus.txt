@@ -3,3 +3,8 @@ autoconfig.gabriel.haus,0391b44765c487f44d8eb5c8e32b4bbe3aa5
 cpcalendars.streetcouture.haus,0456f88e307c74ac97e810a59a42eb314303
 www.streetcouture.haus,0456f88e307c74ac97e810a59a42eb314303
 webdisk.streetcouture.haus,0456f88e307c74ac97e810a59a42eb314303
+cpanel.scandia.haus,0498f52fba235774068fd623df39a073142f
+sperling.haus,044809ae85cbe32c3478885d36b66f406a88
+koi.hexamer.haus,03b4c446132ccd94ac9ebdd74c68d2db499a
+casa-nova.haus,0397585c0fa9ad808291158cebd2d71b64c3
+www.sperling.haus,044809ae85cbe32c3478885d36b66f406a88

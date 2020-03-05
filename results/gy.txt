@@ -5,3 +5,11 @@ www.cluster.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f
 zb.gy,04061a504c9a18ff4ceb7ad9fc17fc3abb29
 mail.ad.gy,046b77970cc532729a37164c8b9b83fa039b
 vpn.cluster.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f
+cpcontacts.ad.gy,046b77970cc532729a37164c8b9b83fa039b
+psc.org.gy,03470da3b2c0985015f20310f88e18e5cb9f
+pudim.od.gy,0365fb896975c8f62ff28f51774bcb83c683
+cpanel.audit.org.gy,04c21c003180e75a05b02a505a1d7efe8e55
+operation-management.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f
+www.node.operation-management.dev.socialsyner.gy,03ae48df83f70ab32bb00fe0ef35a7602a5f
+cpcontacts.i2.gy,03c37894ece12a7cf940e2410d7286e50404
+cpanel.i2.gy,03c37894ece12a7cf940e2410d7286e50404

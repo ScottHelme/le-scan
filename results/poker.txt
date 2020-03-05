@@ -1,3 +1,9 @@
 cashtour.poker,039a476f0ab318265869dabbbf654c1e53af
 jims.poker,03353eb08ac075a0ee93e30cb6b9face41f5
 infura.sha.api.virtue.poker,04f15251e3074e2860b06b8c8e7312073292
+cpcontacts.cashtour.poker,039a476f0ab318265869dabbbf654c1e53af
+mail.jims.poker,03353eb08ac075a0ee93e30cb6b9face41f5
+mail.cashtour.poker,039a476f0ab318265869dabbbf654c1e53af
+www.thinking.poker,034361d93bb772c3df4f19640b471f39232f
+cpcontacts.jims.poker,03353eb08ac075a0ee93e30cb6b9face41f5
+daftaridnplay.poker,035ba7e3c96f542b7e93246844431d116437

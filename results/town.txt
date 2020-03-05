@@ -3,3 +3,11 @@ avatars.github.percy.town,03264dc226c2b30afc66c2cd65e8125dd215
 render.github.percy.town,03264dc226c2b30afc66c2cd65e8125dd215
 www.brony.town,0449064158e314e88938c45f220e26f5bf34
 uploads.github.percy.town,03264dc226c2b30afc66c2cd65e8125dd215
+cpcontacts.middle.town,03d3a552609c2a111b60f110f067de33daa4
+api-dev.bullet.town,038d88f440bce7f2cdddb9328dc1f6efa291
+cloud.subcon.town,039152f894a7d9d8e5a23c2d732937743b56
+www.friday.town,033ab10aa89d003bfd1aecf983bea6a0f0bc
+torrent.subcon.town,039152f894a7d9d8e5a23c2d732937743b56
+cpanel.middle.town,03d3a552609c2a111b60f110f067de33daa4
+media.subcon.town,039152f894a7d9d8e5a23c2d732937743b56
+www.sk8.town,033ffa14274b20d4f58c7acfe2eec99017ea

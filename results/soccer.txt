@@ -1,2 +1,4 @@
 maddogmania.soccer,039127c1de737783dabc8e71c1969de52d27
 eden.plex.soccer,03f8b598ffcdd7ed2e0c0c1a0dad773ac571
+hawks.soccer,0353f54d1f81e4bbae3e0ea24ca58c640f70
+ask4tix.soccer,0390f61d9763a2fb288a5f80ae88f4d19e7d

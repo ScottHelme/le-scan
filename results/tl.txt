@@ -2,3 +2,7 @@ www.wat.tl,0316ec4e26e9c0bd42d73ac2c2f9e142a96c
 sip.gw.tl,03e114da20ca341af44466a74a1170812153
 mail.anaaa.gov.tl,03ab24287131947ab0f4beb13049422952df
 cpanel.osanpovunian.tl,03b650fb0e9ef8003afa2a6ca31c251f9ec1
+www.anaaa.gov.tl,03ab24287131947ab0f4beb13049422952df
+www.pajinakinur.tl,040f20395619f664fb98bfdfd669da3c0d9c
+gotech.tl,03c146447b7fee91e61ca15c29061d2d7ed4
+manage.gotech.tl,03c146447b7fee91e61ca15c29061d2d7ed4

@@ -3,3 +3,7 @@ comateq.pr,03e68d6ae2c5c94fec12281e94e172284bd9
 dev.colgate.com.pr,03bbb9fecfa484cea49ba77cc395f06fc80d
 any53.isla.pr,0377fd0efb2d0ce5103d0c7790fc1bf9c290
 www.protex.com.pr,03bbb9fecfa484cea49ba77cc395f06fc80d
+mail.pivcide.pr,0357757c21072c8694cf3e9650712668df5f
+www.paseaperros.com.pr,04e6a844af5e7d05ae63c46c39937c31748c
+webdisk.gobierno-a-gobierno.pr,03139a5940258d3fcc9b0b82cd8475d202c8
+www.everyhouse.com.pr,03cb4ee59179049760e102b41cb748a83710

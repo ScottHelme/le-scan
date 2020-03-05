@@ -1,3 +1,8 @@
 autodiscover.constructionforum.co.zm,03c63602da176acacd426d9d254b29c32787
 www.ehire.co.zm,048c9f6fda959227ddff44cdbb47e25ee8bf
 zero.betpawa.co.zm,03e7611c9bcb5d4efdf67a6ffcd8f68362d4
+autoconfigure.otk.com.zm,033e2bdaa02e25422679ead05a21252886ea
+cpanel.find.co.zm,037cc02be3e10277964b6aadc6966f915fb0
+ehire.erp.co.zm,048c9f6fda959227ddff44cdbb47e25ee8bf
+mail.find.co.zm,037cc02be3e10277964b6aadc6966f915fb0
+www.visionpay.necor.co.zm,0314b27202af31fd89dc1ba0ac31c45d8b19

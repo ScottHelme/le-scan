@@ -5,3 +5,10 @@ imap.boulanger.wf,0385032d491a1713a0e75a4d3a1b2ae62a53
 www.probugas.wf,03f4f6cc44db45174aea4058793a77d16fc8
 webmail.ici.wf,03ade065872a743fa35de6965457a231138a
 titi.i-love-poney.wf,036b287243af2a4f36ab672d70995d1c0aab
+zm.lejeune.wf,039eb3bfd35ae26ec81c7d0102ee3217aa01
+unifi.lejeune.wf,039eb3bfd35ae26ec81c7d0102ee3217aa01
+dg.x9.wf,03a0dac1ae41970710a778b8b4b3135fd52e
+dc.x9.wf,03a0dac1ae41970710a778b8b4b3135fd52e
+svg.boulanger.wf,0385032d491a1713a0e75a4d3a1b2ae62a53
+webdisk.probugas.wf,03f4f6cc44db45174aea4058793a77d16fc8
+test.test.i-love-poney.wf,036b287243af2a4f36ab672d70995d1c0aab

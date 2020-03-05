@@ -1,1 +1,3 @@
 cpanel.minhaconta.i7designer.ltda,035afd33d3446ad6914d433b58e0b53eaa87
+webmail.minhaconta.i7designer.ltda,035afd33d3446ad6914d433b58e0b53eaa87
+cpcontacts.i7designer.ltda,0340ed993000b693a2afb807216051a9fd06

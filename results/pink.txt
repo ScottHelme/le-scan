@@ -1,3 +1,9 @@
 meandyou.pink,04f78912233eab9e461fc1a7f9bb302c4f31
 www.curl.pink,031a5210ecb2422c88b63ce9155ebf3e63c6
 www.meandyou.pink,04f78912233eab9e461fc1a7f9bb302c4f31
+www.hallenberg.pink,037ad271f3d5aa6a3d9382446a59523c5c42
+cpcontacts.hallenberg.pink,037ad271f3d5aa6a3d9382446a59523c5c42
+cpcalendars.canlitv.pink,03bf4a0741ce645c75e66a8120cd6e8a399c
+www.uneedzone.pink,039dab2445d92c4dc892aeb4989ca3d8670f
+webmail.uneedzone.pink,039dab2445d92c4dc892aeb4989ca3d8670f
+cpcontacts.meandyou.pink,04f78912233eab9e461fc1a7f9bb302c4f31

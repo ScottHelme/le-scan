@@ -3,3 +3,9 @@ www.stopthinkconnect.org.tt,03f5a4029e8b69f9b14146d1883af32144a4
 www.stopthinkconnect.safe.tt,03f5a4029e8b69f9b14146d1883af32144a4
 superpharm.co.tt,038abfe770cf5e254f1cb9fe27fe33c2847f
 mail.safe.tt,03f5a4029e8b69f9b14146d1883af32144a4
+www.8999.tt,030873c9d1cd48fe9bf6084419ad3caa1c3b
+71588.tt,04a3899f69b938d7db4785877f38443625fb
+cpcalendars.safe.tt,03f5a4029e8b69f9b14146d1883af32144a4
+cpanel.stopthinkconnect.org.tt,03f5a4029e8b69f9b14146d1883af32144a4
+cpcontacts.oa.tt,035fe3ec7ddb6e89ca82ad217c7b71828b0f
+188.tt,030873c9d1cd48fe9bf6084419ad3caa1c3b

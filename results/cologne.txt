@@ -1,3 +1,10 @@
 office.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa
 wiki.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa
 www.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa
+autodiscover.xn--glhpn-lva.cologne,03f372d33d5ded9b4b39e0a29dd15216291c
+cloud.eminus.cologne,0391aedf10721ae519b0babf249cae729762
+cloud.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa
+autodiscover.leander.cologne,038418fb958469964e1ba33eadae49f7193c
+sandbox.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa
+autoconfig.xn--glhpn-lva.cologne,03f372d33d5ded9b4b39e0a29dd15216291c
+imap.emotorsports.cologne,03a66282ffcbe16c429591cf79dd0ba89dfa

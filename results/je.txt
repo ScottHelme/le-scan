@@ -13,3 +13,8 @@ cpanel.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
 www.value.preview.je,035b06f7a95b60fca618e136f4ca078bec0c
 webdisk.ianwebb.je,0317e2cff287e831708c62e3b874635d1204
 webdisk.paulwright.preview.je,030725a6a7e288853b2e28134f95d6a834cb
+webmail.framingworkshop.je,033619326c9c04e0bc27c0657926f1ab0bab
+cpcalendars.framingworkshop.je,033619326c9c04e0bc27c0657926f1ab0bab
+cdn.outandabout.je,03d1e36268690fb951c49dc402b7784ae315
+cpanel.framingworkshop.je,033619326c9c04e0bc27c0657926f1ab0bab
+www.xn--3bi.je,03e916a38d2ef029a1ad8f3811c412661c60

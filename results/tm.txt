@@ -1,3 +1,16 @@
 whatsbetter.ctrl.info.tm,03f70c3450938744a39b4db094f298d943b3
 cpcalendars.marijuana.tm,03ed892737d87bba0bdbdbeffcdb72fb7630
 livetv.biz.tm,04ea2c8e01cbd0d8201d5d9a08b9bf07bb93
+www.melnitsa.tm,035867da0211e6269254a7c2599327b4d475
+www.marijuana.tm,03ed892737d87bba0bdbdbeffcdb72fb7630
+webdisk.marijuana.tm,03ed892737d87bba0bdbdbeffcdb72fb7630
+id.dev.amo.tm,034ec1748db743df9f74b9e305a5a8fdf418
+mediaserver.info.tm,031598507500c2b25b6389f4572501c30cec
+albert.drugtestbots.info.tm,0450feaf7628bab83f381eddf365a67b2acb
+api.dev.amo.tm,034ec1748db743df9f74b9e305a5a8fdf418
+chaos-x-9000.info.tm,0389607243488d0140d5b717c73fee58d241
+chaos-x-9001.info.tm,0389607243488d0140d5b717c73fee58d241
+chaos-x.info.tm,0389607243488d0140d5b717c73fee58d241
+www.mini.tm,03fc4e496a0974eea4f8ba112d89f7cf57c3
+translive.biz.tm,04ea2c8e01cbd0d8201d5d9a08b9bf07bb93
+kathastogoblog.info.tm,03b002f89e8be1586e55726ed12732d5922a

@@ -1,3 +1,5 @@
 wecarepng.org.pg,04b4b0448ad2527a11de0e083b526c273581
 autodiscover.peoplesparty.org.pg,04cb92e90d7a218146a769c36fc09b76b6b0
 webmail.wecarepng.org.pg,04b4b0448ad2527a11de0e083b526c273581
+psc.gov.pg,04e12d53d51482be4d32f360d1bdb77b911d
+cpanel.wecarepng.org.pg,04b4b0448ad2527a11de0e083b526c273581

@@ -1,3 +1,7 @@
 cpcontacts.quesada.holiday,03960fbb4d0626e24878f6f116b8a4fc374a
 cpanel.packngo.holiday,04855a607b3b78e2ccd20538cf1252a48261
 webmail.quesada.holiday,03960fbb4d0626e24878f6f116b8a4fc374a
+webdisk.lankan.holiday,030e113a5885503c1bd14c17bf8c1739f650
+cpcalendars.inselusedom.holiday,0499d05994da28706a1ab25fd5ffaff7371a
+cpanel.inselusedom.holiday,0499d05994da28706a1ab25fd5ffaff7371a
+webmail.mycuba.holiday,04b2d88afcf0517136637539a1fcee85a9fd

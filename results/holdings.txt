@@ -3,3 +3,6 @@ www.vortice.holdings,03a2e53580acec6185eac1ff35103d7ddd35
 autodiscover.zedko.holdings,03e909438088b2ead236f106d5ac01afa6b3
 cpcalendars.pip.holdings,03115e4106013965c4292208e9cbaeb8fc33
 www.zedko.holdings,03e909438088b2ead236f106d5ac01afa6b3
+exchange.step.holdings,033926a47897fe829697ac39b63b984e9d15
+rest.step.holdings,033926a47897fe829697ac39b63b984e9d15
+webdisk.zedko.holdings,03e909438088b2ead236f106d5ac01afa6b3

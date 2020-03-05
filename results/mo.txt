@@ -11,3 +11,15 @@ www.imacau.com.mo,0323b02a81cd2e67c32e9c05a4ac98460a6d
 webmail.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4
 gb.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
 gb.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+shop.perfectstage.com.mo,039e8c85cd0755dc4ae2687d560dd7c642d9
+content.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+content.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+jteam.com.mo,0495ac86477805da1ebb0574a8b024ddcd64
+fr.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+fr.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+pt.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+pt.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+ru.macaotourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+ru.macautourism.gov.mo,03410ded2bc1bc2ba9c3e73c49b2e1033ea1
+www.perfectstage.com.mo,039e8c85cd0755dc4ae2687d560dd7c642d9
+ipv6.thgroup.mo,0336bacd2ad7a1cb9044af79aa217ea186b4

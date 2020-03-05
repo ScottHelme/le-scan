@@ -3,3 +3,5 @@ mail.theotherguys.racing,030b1709fd4b318ed3231476a47530e67b25
 webmail.badtoken.racing,039873e76afc9fe62ea657fd36607be15132
 traefik.petahkart.racing,0336e7d132a646148db0e6640d1d817b0f1a
 www.edznet.racing,04c5d88816e5e2287777f7870a3e64ef7486
+mail.pixits.racing,040dcc8b80012ffa90974439082aeadcee83
+mail.edznet.racing,049aa5c472ed3d59116dc5e78278bb252d4e

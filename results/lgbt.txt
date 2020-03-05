@@ -1,3 +1,5 @@
 supports.lgbt,043df7631a8e82ed38759006203ba06b5973
 www.supports.lgbt,043df7631a8e82ed38759006203ba06b5973
 www.chicagoland.lgbt,043df7631a8e82ed38759006203ba06b5973
+webmail.cam.lgbt,03a6eb7d479a3ad5e7cf85a59a3e15ceb792
+webdisk.cam.lgbt,03a6eb7d479a3ad5e7cf85a59a3e15ceb792

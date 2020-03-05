@@ -1,1 +1,6 @@
 www.kedi.ks.investments,043586fae581738244e69df6e4d435b33f58
+www.es.investments,03d25d78454aeaa64365332e9f7e93683a3a
+mail.cool.investments,03bf18bc8f1f262ab9f125fabb0540d0bf96
+cpcontacts.cool.investments,03bf18bc8f1f262ab9f125fabb0540d0bf96
+webmail.cool.investments,03bf18bc8f1f262ab9f125fabb0540d0bf96
+cpanel.cool.investments,03bf18bc8f1f262ab9f125fabb0540d0bf96

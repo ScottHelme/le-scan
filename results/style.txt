@@ -1,1 +1,7 @@
 vintagedress.style,042d3fac5f0561aa8732597cd4d624d56da1
+www.hazel.style,04379fba3f203e5aec0fe656720ea82ec71e
+www.vintagedress.style,042d3fac5f0561aa8732597cd4d624d56da1
+www.santabarbara.style,033b9613250be04ec00c3396ec6611ef8712
+flex.hazel.style,04379fba3f203e5aec0fe656720ea82ec71e
+advertisement.style,030bb23f742dc4578e6159310697ec172ece
+www.advertisement.style,030bb23f742dc4578e6159310697ec172ece

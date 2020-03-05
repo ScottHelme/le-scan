@@ -1,2 +1,4 @@
 cpanel.drive.fijistockbrokers.com.fj,036c9cc91d3e018dc20fb44b8beb6afbb39c
 lagilagi.adventist.org.fj,03fa678819f495eddd8116a186a6db5d6d03
+www.adventist.org.fj,03fa678819f495eddd8116a186a6db5d6d03
+www.lilchamps.com.fj,038c5ce6a32999a100620a2233020b6f3337

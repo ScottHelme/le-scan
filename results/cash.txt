@@ -7,3 +7,13 @@ www.comparison.cash,0381268296cd6639eb9f4fe034f1210b574a
 mailer.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
 exchange-mock.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
 exchangemock.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+admin-backend.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+keystorage.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+kibana.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+cpanel.rbank.cash,032ce8d05b5eaf271e1127b8e272af4f196a
+explorer-backend.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+explorer.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738
+torrent.cash,037b7cf280048e7a2bd8bf14543acf4930c9
+testnet.bchjs.cash,03d4ca3f993543bdf23c2bd789af2e581c33
+mail.rbank.cash,032ce8d05b5eaf271e1127b8e272af4f196a
+btc.dev.usdx.cash,048d0515db2398007ddcf4d77a2b215b4738

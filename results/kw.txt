@@ -1,2 +1,7 @@
 mail.berwaz.com.kw,037916a8295a2c5e621b36967e1117cab2e9
 cpcalendars.berwaz.com.kw,037916a8295a2c5e621b36967e1117cab2e9
+servcorp.com.kw,03429aaafcab4b4ae16ae307ede2a4f12718
+cpanel.berwaz.com.kw,037916a8295a2c5e621b36967e1117cab2e9
+tst.philips.com.kw,049a4e0cf2a948276d5f0a1fb217be80386b
+www.berwaz.com.kw,037916a8295a2c5e621b36967e1117cab2e9
+tni.com.kw,04fa4efe61f875d8981f4aea6fffc7d74245

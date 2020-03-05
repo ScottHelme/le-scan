@@ -1,3 +1,6 @@
 webdisk.billetterie.football,03b7f9c9ae68a4f8db2c48395f4b97820aec
 www.billetterie.football,03b7f9c9ae68a4f8db2c48395f4b97820aec
 sanary.football,03cd71000480f9edb5cf0c0c6cabb6e9d90c
+cpanel.bangkok.football,032603da4f2ab4634f5cc4cf58e6195d3d57
+clapka.football,0372b68ad1bbd2fddaaa0a5eaf91df29740f
+cpanel.billetterie.football,03b7f9c9ae68a4f8db2c48395f4b97820aec

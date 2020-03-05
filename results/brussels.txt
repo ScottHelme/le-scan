@@ -1,3 +1,7 @@
 bucolic.brussels,0357776daa96b7c307326608cc46aacc040c
 webmail.polpauwels.brussels,038b2846ed859c4b8ebfad6fa9105032c4aa
 cpcontacts.polpauwels.brussels,038b2846ed859c4b8ebfad6fa9105032c4aa
+cpcalendars.e-lawyer.brussels,03247b7d1cac10dae6424ef1f07cb69ffee7
+webmail.e-lawyer.brussels,03247b7d1cac10dae6424ef1f07cb69ffee7
+www.e-lawyer.brussels,03247b7d1cac10dae6424ef1f07cb69ffee7
+www.creaflor.brussels,0301b5081f2a70495fe9c921c38ae24ee6a6

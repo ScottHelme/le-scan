@@ -1,1 +1,7 @@
 mail.tuomo.barcelona,03501c3c34b47e42b6bcde241343bf9b2914
+webmail.tuomo.barcelona,03501c3c34b47e42b6bcde241343bf9b2914
+kingsman.barcelona,03525fc8f6e16d09bf01261db5f6544ca05e
+mail.escorpion.barcelona,03d9101f98710dc03d01c6413ac9b8060ee3
+cpanel.escorpion.barcelona,03d9101f98710dc03d01c6413ac9b8060ee3
+webdisk.tuomo.barcelona,03501c3c34b47e42b6bcde241343bf9b2914
+cpcontacts.tuomo.barcelona,03501c3c34b47e42b6bcde241343bf9b2914

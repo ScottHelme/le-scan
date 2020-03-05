@@ -2,3 +2,6 @@ brown.bm,036ef4f1fec82226e9c1796e9f1a5efc8e39
 webmail.betterhealth.bm,03c2f6d775301000434a9219721c0c0764f9
 ir-bcai.bluecapital.bm,04d383e9ab18ac84ed7bcfe76f2005d1a792
 ir-bcrh.bluecapital.bm,04d383e9ab18ac84ed7bcfe76f2005d1a792
+woodbournechemist.bm,0304d5f412f0378365c9bf31b87f17dec041
+www.christanglicanchurch.bm,03270675e47c927d0e6c5b9ab49e92f78401
+www.healthplan.bm,04a945b515325766bca7bb06cdf8c375616f

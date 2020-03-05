@@ -5,3 +5,10 @@ mail.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d
 kalamazoo.golf,03a87fc45d7cccc811b0445882a3e69f5b56
 www.oncourse.golf,03cb0500c8c3862a9dd48fa378e5aa954530
 www.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d
+www.cottonwood.site.offcourse.golf,034b14ad7b9d5d1866e62e77e459972316a7
+www.insomniac.golf,03c4ed7661859b2f98ca9426327f3415d400
+www.carstairs.site.offcourse.golf,04718df6a682eee007d2837f9d5baed957e3
+par5.golf,0402fd9c3faf1af6f86cff2e8f950a21cec9
+cpcontacts.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d
+webdisk.carstairs.site.offcourse.golf,04718df6a682eee007d2837f9d5baed957e3
+webdisk.lowespark.golf,032d0f6ca48ebc8964c193deac3eaac1f61d

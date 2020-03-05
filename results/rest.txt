@@ -1,2 +1,5 @@
 www.sha.rest,03652ecc19d75f268f7acfe8c58bd2f66c0d
 test.sign.nect.rest,031a97f5aaa659ff33638fc937cdbe8d0d3a
+secure.assured.rest,037abba880cdda0d3d37aa2634ca17a40beb
+dev.rd.horizon.rest,03eda623cbbe3ab7995b3aff4570584bc590
+b.3.db.transport.rest,03bebce743cddddd5645fb0bd9cef7ee591d

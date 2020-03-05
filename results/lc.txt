@@ -3,3 +3,8 @@ webdisk.gov.p.lc,031abd11ceac2ca5da6d11259fbf62e9c69e
 cpcontacts.villagrandpiton.lc,04353d1a7e3d9b1f0016878aef86ed8e21fe
 cpcontacts.gov.p.lc,031abd11ceac2ca5da6d11259fbf62e9c69e
 webmail.doc.lc,03c9ed9e6dcd06196958158fca82c0cb35ea
+irc.lc,03e27ff1d45939dc63a4c81a107fff688240
+admin.beta.bds.lc,03d28893b8fb0c5f3e17cfabf25c70946cae
+dx.ha.lc,03a093687831e72cafccf03aeeaef2966aed
+cpcalendars.doc.lc,03c9ed9e6dcd06196958158fca82c0cb35ea
+mail.villagrandpiton.lc,04353d1a7e3d9b1f0016878aef86ed8e21fe

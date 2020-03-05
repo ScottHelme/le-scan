@@ -3,3 +3,6 @@ www.precellence.alsace,03dca6555c478bf0b41086ba3e4a8dfa64e6
 visuprod.technicentre.alsace,034e65c64d80bd43da19c2a9bae0f97746ca
 mobilier.technicentre.alsace,034e65c64d80bd43da19c2a9bae0f97746ca
 alternance.alsace,03c33c1cc84fcf46d30d2381f3b6704beb48
+www.meosis.alsace,03680adf3e25c7bb4b0122063e986b37b2f4
+sites.technicentre.alsace,034e65c64d80bd43da19c2a9bae0f97746ca
+www.alternance.alsace,03c33c1cc84fcf46d30d2381f3b6704beb48

@@ -3,3 +3,7 @@ www.stream.gd,03f1877d6d2f5b77bec16c810a2ae20a6d26
 foxglove.srv.xs.gd,03f78b2bc7e2b3e1fc22cde0b31beaea93fc
 eat.gd,0492a253cb703b0b35e7efb90c5b073d6b5a
 cpanel.saass.gd,039259bff5401d4906226311f8a2f44ace3f
+tech.gd,03e0af6b829783923b5c68d86c85e397cf3f
+www.saass.gd,039259bff5401d4906226311f8a2f44ace3f
+sam.garland.gd,0324b5ef3a67a33ef619e48d9fac3404381f
+mail.tech.gd,03e0af6b829783923b5c68d86c85e397cf3f

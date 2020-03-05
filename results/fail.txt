@@ -1,3 +1,5 @@
 autodiscover.flowtales.fail,03bfce64c660660678798788472c5f6dda7c
 www.flowtales.fail,03bfce64c660660678798788472c5f6dda7c
 bigups.fail,034069b32c179c77221439d71634879e50bc
+cpcalendars.yoha2.fail,033b7bc97f083e288c44ffb60a31b5ce43c7
+cpanel.flowtales.fail,03bfce64c660660678798788472c5f6dda7c

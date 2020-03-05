@@ -1,3 +1,13 @@
 whm.marcelo.dj,0329020af7fe4cdbf8faa9b8351a973bd829
 ipv6.bruiloved.dj,0335492d4326654eb76c866f4e08385c98fe
 mail.bruiloved.dj,0335492d4326654eb76c866f4e08385c98fe
+www.mix.dj,03e135aba2ea84b8549bde41292258f233a8
+autodiscover.bruiloved.dj,0335492d4326654eb76c866f4e08385c98fe
+www.brennan.dj,03f8d9985c9f187d7ca985230e29c3bf25be
+cpcalendars.bruiloved.dj,0335492d4326654eb76c866f4e08385c98fe
+www.vanbellen.dj,03eb1aa6d035c92292df6f2d239eeea3ec51
+cpanel.brennan.dj,03f8d9985c9f187d7ca985230e29c3bf25be
+cpanel.marcelo.dj,0329020af7fe4cdbf8faa9b8351a973bd829
+chrisvega.dj,03ef7fe686d04e0a0b6b4957a218ef9b5482
+autodiscover.marcelo.dj,0329020af7fe4cdbf8faa9b8351a973bd829
+mail.vanbellen.dj,03eb1aa6d035c92292df6f2d239eeea3ec51

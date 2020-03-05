@@ -3,3 +3,11 @@ ainetworks.sl,0392eb9ff26a540449280e222c391c2ff942
 openspace.sl,034a6ae61b173118e2a6d2903df4e999b249
 autodiscover.zenithbank.sl,0359913806f916265dd109f864fceca7fb5b
 mail.nppa.gov.sl,039d9c4e8abbdd33fa5a8bcd47adcf6a7cdb
+webdisk.openspace.sl,034a6ae61b173118e2a6d2903df4e999b249
+dev.vinicius.sl,04a1512fd6e29df260757290e2391582a3d4
+mail.ainetworks.sl,0392eb9ff26a540449280e222c391c2ff942
+mail.openspace.sl,034a6ae61b173118e2a6d2903df4e999b249
+mail.publicprocurement.gov.sl,039d9c4e8abbdd33fa5a8bcd47adcf6a7cdb
+cpanel.efico.edu.sl,03ee9a8145331695ced52ff182eaf95c9e7c
+webmail.openspace.sl,034a6ae61b173118e2a6d2903df4e999b249
+webdisk.ainetworks.sl,0392eb9ff26a540449280e222c391c2ff942

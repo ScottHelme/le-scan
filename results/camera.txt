@@ -1,0 +1,2 @@
+upload.snapshop.camera,03194ea049cc6a0db4816215eb3a6efe935c
+mac1.snapshop.camera,03194ea049cc6a0db4816215eb3a6efe935c

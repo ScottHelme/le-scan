@@ -1,1 +1,3 @@
 cpcontacts.economic.cw,03901a00bbc94e9499f11a1b9f7433f93e99
+webmail.economic.cw,03901a00bbc94e9499f11a1b9f7433f93e99
+www.economic.cw,03901a00bbc94e9499f11a1b9f7433f93e99

@@ -1,2 +1,3 @@
 www.org.theater,047fb38da8f9ac2e99132f83bb7d2bcfef86
 ipv6.brecht.theater,04bc42f4764d091931e69c10bd5eb16e8640
+cpanel.brecht.theater,04bc42f4764d091931e69c10bd5eb16e8640

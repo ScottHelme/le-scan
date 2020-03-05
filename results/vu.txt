@@ -5,3 +5,15 @@ cpcontacts.mgcombank.vu,03182e17bed3e5be06c7e9eef482bb7b8dbf
 www.hub.house.vu,0486769304aec16434ba3ca3aca29b4ac5de
 cpanel.pasoflow.pej.vu,03e4a3cde470400c76cee48efc2be54eef3b
 webdisk.insta.vu,0486769304aec16434ba3ca3aca29b4ac5de
+mail.mgcombank.vu,03182e17bed3e5be06c7e9eef482bb7b8dbf
+mail.1nomo.vu,04a1ed538a1359296bbf9fd28934a87b1213
+www.adventist.org.vu,03fa678819f495eddd8116a186a6db5d6d03
+epo.k.vu,03f16de31185d8f3f3f441213410a5f3d844
+storm.vu,032fb5992c001b15779e65eb73b2ecba8e31
+l6.k.vu,0381a7d8e2a40c3daf7dc1b6f4b43f1d0303
+autodiscover.mgcombank.vu,03182e17bed3e5be06c7e9eef482bb7b8dbf
+webmail.mgcombank.vu,03182e17bed3e5be06c7e9eef482bb7b8dbf
+www.pasoflow.pej.vu,03e4a3cde470400c76cee48efc2be54eef3b
+mail.vivi.vu,03e64662f746f76507760ea09a72e8e79fdf
+recette.ebs-cloud.vu,0352b5e889900a046047f43b97e34f0dc40f
+www.storm.vu,032fb5992c001b15779e65eb73b2ecba8e31

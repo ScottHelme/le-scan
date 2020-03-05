@@ -2,3 +2,7 @@ rc6-bis.mister-auto.mq,033e067f7d4e04bd7548d445c7096a99d49d
 mesdechetsdentreprise.mq,03ae0754cc8fa9109e275f1fc1e45a63eae1
 www.opel.mq,030561f5bd47c5df07a5b4397a96897c4343
 www.mesdechetsdentreprise.mq,03ae0754cc8fa9109e275f1fc1e45a63eae1
+www.mini.mq,03fc4e496a0974eea4f8ba112d89f7cf57c3
+vatel.mq,049a1a354b8f1e285a4a908014df706a73f8
+www.solutions.mq,04f89288f17b7ca32b0dda1f613defa4c176
+www.vatel.mq,049a1a354b8f1e285a4a908014df706a73f8

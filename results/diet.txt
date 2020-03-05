@@ -1,3 +1,7 @@
 internet.diet,032c389fd7aa4ae2c35c8536fc70a9f5ed67
 sood.diet,033b936e7b56f5207a7ae4f17419d33ffab0
 www.internet.diet,032c389fd7aa4ae2c35c8536fc70a9f5ed67
+mail.dualshape.diet,03efae9a1cb9e5a1bc01847f1d89e038cf53
+www.sood.diet,033b936e7b56f5207a7ae4f17419d33ffab0
+vitaminsupplements.diet,038a5f81eea8fdfbc8a9826e088b0d195615
+imap.dualshape.diet,032098deb74a410ad0277fefa27e800d1d8a

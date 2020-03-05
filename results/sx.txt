@@ -2,3 +2,6 @@ mbdtt.gonna.sx,038a4852eede446107ce1cf59b7ce87a5077
 verified.sx,03f49c400a610d642695ccf78492f2a7737f
 www.ie.madev.src.sx,03576d8e59b616541027e7443449ad053914
 www.sharpeyecheats.verified.sx,03f49c400a610d642695ccf78492f2a7737f
+cpcalendars.verified.sx,03f49c400a610d642695ccf78492f2a7737f
+fr.madev.src.sx,03576d8e59b616541027e7443449ad053914
+webdisk.skidslapper.phy.sx,0384c399ee8a3bfcae8e801a098e1a5544cd

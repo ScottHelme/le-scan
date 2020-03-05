@@ -1,3 +1,7 @@
 webmail.nuage.salon,037d5b855b7cee0d82b953c09211e4991ee6
 cpcontacts.nuage.salon,037d5b855b7cee0d82b953c09211e4991ee6
 www.nuage.salon,037d5b855b7cee0d82b953c09211e4991ee6
+cpcontacts.beautyclassy.salon,03b7e32d25a5cabbb4397930a180055d2ff8
+cpcontacts.handcohair.salon,03a66bbc11e7fe79f62cf6ac41132a17c586
+www.bot.demi.salon,0326f098e33dab6fea13a040a893976ae9c7
+cpanel.beautyclassy.salon,03b7e32d25a5cabbb4397930a180055d2ff8

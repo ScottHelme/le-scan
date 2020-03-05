@@ -1,3 +1,8 @@
 cpcalendars.cdm.archi,034fabc243bc9b07f1f2330d71a50b4c0090
 cpanel.mir.archi,03aa8830ba9c5f15f8e7413fd04be2c6996d
 patry.archi,03f4cd2deb2dadb9c742d93534724350c621
+www.houelvallee.archi,034de3bd87382a5b58ad39233b14ab19eb27
+www.amconcept.archi,03dc66bb2a8914447bd9fee08a1da72b6bfe
+www.cdm.archi,034fabc243bc9b07f1f2330d71a50b4c0090
+webdisk.cdm.archi,034fabc243bc9b07f1f2330d71a50b4c0090
+archestry.archi,03832b7e831a6aa8d7bd650daf9d710d03ad

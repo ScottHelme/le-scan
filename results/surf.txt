@@ -2,3 +2,9 @@ secret.surf,03f2af373beb873acbdac57729a8a566f88f
 www.usio.surf,0367b95192bde253884cbaffb6ce256b447e
 autodiscover.fuerteventura.surf,035e0b98793754c1b4d2ad813c5a9eba435e
 cpcalendars.duck.surf,03697ed41bed3bab60ce0d8c523d9105e593
+www.novels.surf,031311cef2c374b8b892e192bbd96986de3b
+www.novel.surf,038f6ad1bab874b50910837bd5d1f981099c
+mail.duck.surf,03697ed41bed3bab60ce0d8c523d9105e593
+enigma2.newcash.surf,04728394d0cb31352bca29df144cba13861a
+www.book.surf,03bf2c41ef385eb8648a30a0a5b0fe57296e
+webdisk.duck.surf,03697ed41bed3bab60ce0d8c523d9105e593

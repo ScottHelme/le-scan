@@ -1,1 +1,3 @@
 www.global.taipei,032195672d9fd3b502a5d2f2ded1eb2c16a8
+yjc.taipei,03b5649bafd684b0226c65aa56a81f45b332
+www.yjc.taipei,03b5649bafd684b0226c65aa56a81f45b332

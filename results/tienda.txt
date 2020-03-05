@@ -1,1 +1,3 @@
 emmat.mie.tienda,03d1b9483f2dd048a989d09e8ca54bc2dac1
+jd.tienda,039edc8497738e2eef82a6c08edbc364d8bf
+coin.tienda,032c5d6ba1cf228cd407fc52ad1fc62c75a5

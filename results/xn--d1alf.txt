@@ -1,1 +1,2 @@
 webmail.xn--80axd.xn--d1alf,049d888a5e3608dcba95cd7d07f77f2af8cf
+autodiscover.xn--80axd.xn--d1alf,049d888a5e3608dcba95cd7d07f77f2af8cf

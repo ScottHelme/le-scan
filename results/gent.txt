@@ -5,3 +5,7 @@ extractordebug.jabbla-corecrew.k8s.gent,03f340fb33063755774a6a323782cecc2a8d
 www.luna.gent,0360a8a3bcba1dee2111ca4ade5cfee7c79a
 cpanel.luna.gent,0360a8a3bcba1dee2111ca4ade5cfee7c79a
 ipv6.kompassklub.gent,03d3573af78a4ece4675d508cfeb066fa5f7
+myjabbla.jabbla-corecrew.k8s.gent,03f340fb33063755774a6a323782cecc2a8d
+webmail.luna.gent,0360a8a3bcba1dee2111ca4ade5cfee7c79a
+mail.pri.gent,033fa0b1bf792e6da6df429df474e425f90f
+webdebug.jabbla-corecrew.k8s.gent,03f340fb33063755774a6a323782cecc2a8d

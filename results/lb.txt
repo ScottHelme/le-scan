@@ -10,3 +10,12 @@ webdisk.brightanimals.com.lb,03a52756104e03e03c4fc4ec0f4eb994e204
 www.softenergie.com.lb,0450b9477d839f3704c6689fc7f070bee6dc
 www.springcommunity.com.lb,04f818bdeb605604883c4126b9d2e3ffbfa6
 cpanel.greentech.com.lb,03b3891b9d11c7632c0131a8ba59fdcb0b21
+igroup.com.lb,0330f79f02f241a1ff2a2da79e196a8573d5
+webmail.greentech.com.lb,03b3891b9d11c7632c0131a8ba59fdcb0b21
+webmail.agrifood.org.lb,045a0ed491b79cf6366e7aa16d3c5859a64f
+tst.philips.com.lb,049a4e0cf2a948276d5f0a1fb217be80386b
+www.fondationaudi.org.lb,04f818bdeb605604883c4126b9d2e3ffbfa6
+cpcalendars.agrifood.org.lb,045a0ed491b79cf6366e7aa16d3c5859a64f
+cpanel.igroup.com.lb,0330f79f02f241a1ff2a2da79e196a8573d5
+cpanel.agrifood.org.lb,045a0ed491b79cf6366e7aa16d3c5859a64f
+webdisk.freesun.com.lb,03793fbeb01f9a51625f390e8fa10f61c9d1

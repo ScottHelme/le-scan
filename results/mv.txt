@@ -5,3 +5,14 @@ autodiscover.crosswatermaldives.mv,037197bec17ff309681527bf697835a16e45
 thelanga.com.mv,0310219865035b492b44e2c2262a089b5beb
 www.maleoffice.com.mv,03e30314f1a5298204cb2672ed64d7423b19
 mail.accord.mv,0333e65655c1b14da2473a72d82b0f40c60e
+webmail.accord.mv,0333e65655c1b14da2473a72d82b0f40c60e
+www.copains.kodeserve.mv,03e9e98bdfce17636980c742fea0c6e011b2
+mail.crosswatermaldives.mv,037197bec17ff309681527bf697835a16e45
+dhaandhoo.gov.mv,03f2329014fc462e0386f600253152732d50
+www.mcif.mv,03dd87ba18b41767d360606246f23b958ae2
+webmail.lga.gov.mv,03ab4f629973e02b138f42de8a578559e600
+webdisk.maleoffice.com.mv,03e30314f1a5298204cb2672ed64d7423b19
+webdisk.thelanga.com.mv,0310219865035b492b44e2c2262a089b5beb
+icewarp.com.mv,037d3c33cab7a1d05f2595a3065b3ee23fce
+cpanel.accord.mv,0333e65655c1b14da2473a72d82b0f40c60e
+www.thelanga.com.mv,0310219865035b492b44e2c2262a089b5beb

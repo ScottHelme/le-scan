@@ -1,2 +1,4 @@
 cpanel.vtf.ne,0450f0adfd1740fffd15a8703ed589d766fd
 status.profa.ne,0388ae18dc1bd3155e502ab188739ac0cab5
+cpcalendars.vtf.ne,0450f0adfd1740fffd15a8703ed589d766fd
+webdisk.teleci.ne,03457077a262c300dc3e7b9ecf98463259d3

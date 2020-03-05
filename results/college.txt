@@ -1,2 +1,7 @@
 progressive.college,039d58eeb49e48ce70aa564323b8f20e780d
 webmail.progressive.college,039d58eeb49e48ce70aa564323b8f20e780d
+michaelmarschall.progressive.college,0327090e222fef9fce30f4c861c58a9014bd
+www.st-johns.college,0395baa1249693a9462bb63aacf6a2f3fa7a
+www.msqrvve.progressive.college,03c17772b36074f18fb30cac9e52f2300b0f
+www.progressive.college,039d58eeb49e48ce70aa564323b8f20e780d
+connected.college,0353573bc9f7f878de22d046053e6ee08587

@@ -1,0 +1,2 @@
+tajine.endpoints.wellio-integration.cloud.goog,03c08da93015e7123659b202e5941120d60a
+tajine-jwt.endpoints.wellio-integration.cloud.goog,03c08da93015e7123659b202e5941120d60a

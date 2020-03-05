@@ -5,3 +5,8 @@ mail.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1
 cpanel.referral.fish,032be3adb338283fd2891e0b7d21aa0dee07
 cpanel.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1
 1st.fish,0413eeb37753a925e6aac6d78c54d8a276db
+antey.fish,03110c05e9d7d507995f0d3a9784e3f4b8eb
+webmail.happylake.fish,038839e490d1df42cacb649c7d47ebf956b1
+www.thinking.fish,03475c8effab83211b38867d80b994b90cf2
+www.referral.fish,032be3adb338283fd2891e0b7d21aa0dee07
+webmail.referral.fish,032be3adb338283fd2891e0b7d21aa0dee07

@@ -3,3 +3,8 @@ webmail.wam.miami,03a4339a39b83814c7c9758cf621ec1bfac3
 luxuryhomes.miami,03b911309a3ad6eb59f258de34aace62dffe
 www.drcraft.miami,0373888c3af7ea516bb49369ffa19158aeda
 mail.wbm.miami,0391a28486f563ac16aa923930c6f4c196b5
+webmail.drcraft.miami,0373888c3af7ea516bb49369ffa19158aeda
+cpcontacts.drcraft.miami,0373888c3af7ea516bb49369ffa19158aeda
+cpcalendars.wam.miami,03a4339a39b83814c7c9758cf621ec1bfac3
+cpanel.wam.miami,03a4339a39b83814c7c9758cf621ec1bfac3
+www.wbm.miami,0391a28486f563ac16aa923930c6f4c196b5

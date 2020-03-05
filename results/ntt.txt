@@ -1,1 +1,2 @@
 uat.global.ntt,03e46a460e725430d835579ed0cbb74b30d6
+uathello.global.ntt,03e46a460e725430d835579ed0cbb74b30d6

@@ -5,3 +5,5 @@ webshop.lukacs.diamonds,03e2f6ead02796e8184222dd3d04d8add6c3
 www.webshop.lukacs.diamonds,03e2f6ead02796e8184222dd3d04d8add6c3
 webmail.lukacs.diamonds,03e2f6ead02796e8184222dd3d04d8add6c3
 www.sweet.diamonds,03945c9f86f491d8c12a86ac0e4a893638a6
+images.21d.diamonds,03f75d3c063c4265fd8793d961f09274c2c9
+autodiscover.lukacs.diamonds,03e2f6ead02796e8184222dd3d04d8add6c3

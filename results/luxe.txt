@@ -6,3 +6,14 @@ www.virtualexchangeuniversity.com.wander.luxe,03726eaaa21da908dc9f7a6dc71e81951e
 ngotravel.org.wander.luxe,03438bfed26a88813480087bbcf8bbc29cda
 webmail.wander.luxe,03ad71b8ee02c0b34425e0230b3e1b8d20a5
 virtualxchange.org.wander.luxe,03e04a03043626e18e6ae1b8b9c7b8b976b2
+www.geniushom.es.wander.luxe,03726eaaa21da908dc9f7a6dc71e81951ee1
+cpcalendars.wander.luxe,03ad71b8ee02c0b34425e0230b3e1b8d20a5
+www.vxalliance.com.wander.luxe,03438bfed26a88813480087bbcf8bbc29cda
+www.vxchanges.com.wander.luxe,03bbed14a1fa28ce2c06d49e6766edbbe963
+www.vxchangesociety.com.wander.luxe,03bbed14a1fa28ce2c06d49e6766edbbe963
+www.vxchanges.org.wander.luxe,030ae308b1141394f5e069a67d686f9ed2db
+www.vxcollective.org.wander.luxe,03a34c8dddaf0e80883a23d267157eca24fa
+www.vxproject.org.wander.luxe,039583084ed04183ac70d7c2a4d935cd7ec0
+www.vxsociety.com.wander.luxe,03ad71b8ee02c0b34425e0230b3e1b8d20a5
+www.vxstudies.com.wander.luxe,03a34c8dddaf0e80883a23d267157eca24fa
+www.vxstudies.org.wander.luxe,039d7c576f13ba8a1944a1af82c751de6c77

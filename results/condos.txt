@@ -1,2 +1,5 @@
 internet.condos,038a5f81eea8fdfbc8a9826e088b0d195615
 www.internet.condos,038a5f81eea8fdfbc8a9826e088b0d195615
+cpcontacts.kakaako.condos,034c5d63041a6014d99a9cb099f2026ef5a2
+cpanel.waikiki.condos,03e0227340264f6bbc156ac7b359b15fd71a
+cpcalendars.waikiki.condos,03e0227340264f6bbc156ac7b359b15fd71a
